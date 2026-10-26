@@ -17,10 +17,14 @@ for numbers in range(len(stati)): # for all possible stati... it will dump into 
     event_storage = open(f"events_{stati[numbers]}.json", "w") # object to be dumped into events.json
     json.dump(r.json(), event_storage, indent=6) # dump r.json into event_storage (representing the json file) 
     
-    data = json.loads(r.text) # json data -> python object (TODO might not need this? check if i can use event_storage?
+    data = json.loads(r.text) # convert json data to python object
     
     for item in data["data"]:
-        print(item["name"])
+        directory = f"{stati[numbers]}/{item['slug']}"
+        try:
+            os.mkdir(directory)# make folder for each event to hold pictures and whatnot
+        except FileExistsError:
+            print()
 
     event_storage.close() # close the file
 
