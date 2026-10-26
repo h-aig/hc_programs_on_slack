@@ -23,8 +23,11 @@ for numbers in range(len(stati)): # for all possible stati... it will dump into 
         directory = f"{stati[numbers]}/{item['slug']}"
         try:
             os.mkdir(directory)# make folder for each event to hold pictures and whatnot
+            # TODO STICK ALL THE FILE GRABBING AND WHATNOT IN HERE
+            # TODO FIGURE OUT HOW TO HANDLE MOVING FROM ONGOING -> ENDED FOR EXAMPLE. OR JUST BE LAZY AND REGRAB EVERYTHING EVERY TIME. I DON'T CARE.
         except FileExistsError:
             print()
+            #TODO LITERALLY THE SAME AS ABOVE? MAYBE JUST CHECK IF ALL FILES ARE THERE ^^
 
     event_storage.close() # close the file
 
