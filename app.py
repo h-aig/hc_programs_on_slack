@@ -1,3 +1,4 @@
+# TODO DELETE non-tiled images once done with pillows centering
 # TODO will need to find a way to update the files every day on a schedule: cron job?
  #TODO LITERALLY THE SAME AS ABOVE? MAYBE JUST CHECK IF ALL FILES ARE THERE ^^ #TODO make sure all the meta stuff is there, and by all i mean literally just how many of each is running. eg if only ongoing (selected) is default it says 53 programs, if ongoing and upcoming it says 54 programs; 53 ongoing, 1 upcoming etc.
 # check exceptfileexistseorror   
@@ -13,6 +14,7 @@ import requests
 import shutil
 from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
+from PIL import Image
 from dotenv import load_dotenv, dotenv_values
 load_dotenv()
 
@@ -37,7 +39,7 @@ def downloadItem(directory, event, item, type):
         except FileExistsError:
             pass
 
-for numbers in range(len(stati)): # for all possible stati... it will dump into three seperate files, convenient!
+for numbers in range(len(stati)): # for all possible stati... it will dump into three seperate folders, convenient!
     payload = {'status': stati[numbers]}
     r = requests.get('https://hackclub.com/api/v1/events', params=payload) # get list of all hack club events
     event_storage = open(f"events_{stati[numbers]}.json", "w") # object to be dumped into events.json
@@ -45,6 +47,7 @@ for numbers in range(len(stati)): # for all possible stati... it will dump into 
     
     data = json.loads(r.text) # convert json data to python object
     
+    # for each EVENT within a given stati (eg. for all upcoming events, then for all oncoming events... etc...)
     for item in data["data"]:
         directory = f"{stati[numbers]}/{item['slug']}"
         try:
@@ -68,7 +71,18 @@ for numbers in range(len(stati)): # for all possible stati... it will dump into 
                 os.symlink('background_fallback.webp', f'{directory}/{item['slug']}_background.webp')
             print(f"{item['slug']} ({stati[numbers]}) resource download, completed!")
         
+        tile_background = Image.open(f'{directory}/{item['slug']}_background.webp').convert("RGBA") # open image (background), .convert("RGBA") preserves transparrency
+        tile_logo = Image.open(f'{directory}/{item['slug']}_logo.webp').convert("RGBA") # open image (logo)
+        tile = tile_background.copy()
+
+        x = (tile_background.width - tile_logo.width) // 2 # prepare to center logo horizontally
+        y = (tile_background.height - tile_logo.height) // 2 # prepare to center logo horizontally
+    
+        tile.paste(tile_logo, (x, y), tile_logo) # paste logo on background, centered. adding ,tile_logo uses it as the transparrency mask to keep it transparrent.
+        tile.save(f'{directory}/{item['slug']}_tile.webp')
+
     event_storage.close() # close the file
+
 
 
 # initializes your app with your bot token and socket mode handler
