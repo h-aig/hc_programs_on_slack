@@ -1,0 +1,2030 @@
+{
+      "data": [
+            {
+                  "id": "recx7LvnilvdpdR1E",
+                  "slug": "save-point",
+                  "name": "Save Point",
+                  "description": "Finish that game you started!",
+                  "url": "https://savepoint.hackclub.com/?utm_source=hackclub.com&utm_medium=programs&utm_campaign=launch",
+                  "status": "ongoing",
+                  "startDate": "2026-10-22",
+                  "endDate": "2026-11-02",
+                  "announcedAt": "2026-10-23T15:31:15.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Gamedev"
+                  ],
+                  "slackChannel": "SavePoint",
+                  "slackUrl": "https://hackclub.slack.com/channels/SavePoint",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/GM3TLw-xNuflSbqeyR2qZA/_BWFBNv4S5wextVe9fz0Eb0zWtCLW1vMaJV636-NK-HW_GpJedlIf8Cg0PxDeka460Bd5w8_9NwS4yfGtRmKPnb1tC0oil30ciSBp20d5f16l5Sl7tC_iUmp0yYS42a82jUvVF0gpufLt53WUDh-cg/WU1DDAaMaPS0SP3ICassTaUePkBPr70SO4tKqiWSlAU",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/z9ln2n_6qYiPzNmjCQP33A/60HdtxNtXhImKJ6I6fAMQZV_XD8Nx8Oh8lXXvXvUSuN8M29Bwpr502MF6_4LgX8e_cFdB6TRBZzTPQzAR3e1hoLWNQHKTuVmpkPbuAjvnJ8D1xAn8-paGX4WQ7EBm8sxDcohZ7EQgNCz5092rJGYHQ/41l9RzyHRwqGgbSd6sefrU97QQVqh9wXepm9Zl0z5kQ"
+                  },
+                  "theme": {
+                        "text": "#000000",
+                        "accent": "#fffd00",
+                        "logoSize": 112,
+                        "button": {
+                              "color": "#ffd045",
+                              "textColor": "#4a2200",
+                              "borderRadius": 20,
+                              "borderWidth": 3,
+                              "borderColor": "#e9a414"
+                        }
+                  }
+            },
+            {
+                  "id": "recs2Pd1o1RXgMVud",
+                  "slug": "trmnt",
+                  "name": "TRMNT",
+                  "description": "Build a project for the TRMNL ecosystem, get devices and licenses!",
+                  "url": "https://trmnt.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-10-22",
+                  "endDate": "2026-11-13",
+                  "announcedAt": "2026-10-21T14:46:05.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Software",
+                        "CAD"
+                  ],
+                  "slackChannel": "trmnt",
+                  "slackUrl": "https://hackclub.slack.com/channels/trmnt",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/luHmXkuPqXbwZpOUlfl29w/8PkxO_XtSg325b8-wgjfEl5_aikAyYQsxkwvNkwLAKnuapyFDeNTOggoPiVpUx9VfWGH3AF3imdd2NuztKOp7V87P7iRi3lf7u0MixwX6G-mm6w6gDgLb3N88o9zj7x4C5714PbB1ou-hgUeZZNAnA/tgy1q1rqTwubvbh3EfxEEugz0k_k7fsSFkwHS6LuQoE",
+                  "background": {
+                        "type": "color",
+                        "color": "#452A27",
+                        "imageUrl": null
+                  },
+                  "theme": {
+                        "text": "#f7f2ef",
+                        "accent": "#f8654b",
+                        "logoSize": 80,
+                        "button": {
+                              "color": "#ff9280",
+                              "textColor": "#F7F2EF",
+                              "borderRadius": 9,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recy2Nf1NAbpj5peN",
+                  "slug": "contd",
+                  "name": "contd",
+                  "description": "continue someone else's program",
+                  "url": "https://contd.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-10-21",
+                  "endDate": "2026-12-01",
+                  "announcedAt": "2026-10-21T14:46:14.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Software",
+                        "Websites",
+                        "Gamedev",
+                        "CAD"
+                  ],
+                  "slackChannel": "contd",
+                  "slackUrl": "https://hackclub.slack.com/channels/contd",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/oacsgUqqsu8Dm8s-cruvBA/_yGFmIVC7vEgTpx928t9UaA4-htPr-aNrWUqAXQRLqrBKGGNSAJrRV3iNJXPTk9Y-sC0ty1d0--VMvbwPKZAbAutSa7_Dw_gGe04KErfkqsXc378xu4y-Ij3AW3HDw-sD60dO4trikewPA__u8ankA/f_1IVYrA0wLnhsCblqt8ily5nljsBVU95ScVIVaFPPo",
+                  "background": {
+                        "type": "color",
+                        "color": "#000000",
+                        "imageUrl": null
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#ec3750",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#ec3750",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recVwCyQ8sd7x4iOF",
+                  "slug": "texel",
+                  "name": "Texel",
+                  "description": "Learn, share, and publish a 3d game - get games, consoles, IEMs, and more!",
+                  "url": "https://texel.hackclub.com/",
+                  "status": "ongoing",
+                  "startDate": "2026-10-21",
+                  "endDate": "2026-11-14",
+                  "announcedAt": "2026-10-23T20:14:03.000Z",
+                  "format": null,
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Gamedev"
+                  ],
+                  "slackChannel": "texel",
+                  "slackUrl": "https://hackclub.slack.com/channels/texel",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/KVDcwEEiEFLPBE00Ra5P1Q/S40iON0eDnQUpiEFh8QWDbdq55yFZS-ZkhH0cCG6cdClN3yalNp7GW0EzJrTLrx1hYIO63w_M9if5kXxy8u2xUsJmLJlzrv5PAIA8iHwsVLJguLX_YjzNjoSjA4hDCahSbOD1zBLf4jnXoEX-OssdA/ucONvKTKZKqX-B13RZ_lnzuFGqj_agWCKHta6mLvp5I",
+                  "background": {
+                        "type": "color",
+                        "color": "#000000",
+                        "imageUrl": null
+                  },
+                  "theme": {
+                        "text": "#ffae00",
+                        "accent": "#ffae00",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#ffae00",
+                              "textColor": "#000000",
+                              "borderRadius": 6,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recHKyWxg4jwaPMMb",
+                  "slug": "fallen",
+                  "name": "Fallen",
+                  "description": "Build your dream  hardware project for free, present it in Shenzhen, China.",
+                  "url": "https://fallen.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-10-18",
+                  "endDate": "2027-04-10",
+                  "announcedAt": "2026-10-10T20:54:59.000Z",
+                  "format": "both",
+                  "inPerson": {
+                        "start": null,
+                        "end": null,
+                        "location": "Shenzhen, China"
+                  },
+                  "projectTypes": [],
+                  "slackChannel": "fallen",
+                  "slackUrl": "https://hackclub.slack.com/channels/fallen",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/4v7rUyEgBHewerPK4yzdMA/u3F2T6VW1BFfx9K7slyCWM6eOU56l4bDLZBPCOADp_V57KTYOlf0WphFc1kMKWThfYZT88Vmeh-pcMzwQZaQY25234Ynar0k6zisk6Y13EKPJHCz76gQqydc597_d9hO7MoAqH-nvjNU7RjoQjBpdQ/e3HXL-v2HA3fl2rwP3xY3AVVEbs27gtfQ9AUyB6GjK4",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/00M_Oy3IYXvBFDr89EkmLA/eyZfWThRcxTG_xvmhF-APekLAUc6MYt6RhtCcSUMlXunBhO0lD3XGPCTPWRfrDYCQsFwOCIi55qvdl-bRwSg-pz5S3M7l1o2gWhbX2xYK7Cw3xDROU8Do7kxIBkDSWaak7ZGaMx5ivlfJsYd3Od5Jg/_I4WWuFBPX1Me_boZNcT_icq1mOpZtYZDz-EIo5LwP0"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#E98C21",
+                        "logoSize": 102,
+                        "button": {
+                              "color": "#3334B3",
+                              "textColor": "#ffffff",
+                              "borderRadius": 9,
+                              "borderWidth": 0,
+                              "borderColor": "#E98C21"
+                        }
+                  }
+            },
+            {
+                  "id": "rec79bsTmd66KuBYg",
+                  "slug": "8-pin-grant",
+                  "name": "8-pin-grant",
+                  "description": "Design a custom circuit board with an 8-pin microcontroller and get it fabricated!",
+                  "url": "https://8-pin-grant.hackclub.com/",
+                  "status": "ongoing",
+                  "startDate": "2026-10-18",
+                  "endDate": "2026-11-20",
+                  "announcedAt": "2026-10-19T19:19:39.000Z",
+                  "format": null,
+                  "inPerson": null,
+                  "projectTypes": [],
+                  "slackChannel": "8-pin-grant",
+                  "slackUrl": "https://hackclub.slack.com/channels/8-pin-grant",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/iVdfWynOU0Szxmc9sn3fHA/hmRgYPqUY0JzSAkS9xnn5MVYYCFYNGi6DFQPn5MZ5jFHXsuA7lPEZWovq8y0-Gik9CEDWLTKjnLF5NnCxi50TtVo3UKZZqaq9TFp9a4k_Q8JjI_OcQ76YSmEqfZRs5PONF5jlKdy9fQnuxqAsiKw_w/8zVpoVgZioDMqYG1YHySIrKYVK3yoO8MkCk7Igc7C5c",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/UyyqTBVWWSi-xBPWeILncA/0c4AFQu2DqV1oVMUUf3LGdEnMdxDu49zUDsXwbJWbpFiVj80Auk3zKLNHoGUtEBjN1wwQIVEGoaK2KazgFzMMdrVRBdkSwJAWin0oqAawx-UPkRdpLfImgfU9R73Dop1L0w-Td36OpNy0_mzuY_qIw/ZXsv9zUYbKznhtvf9RBAYgkRDXNRaPfTJTaj944OQYo"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#ec3750",
+                        "logoSize": 76,
+                        "button": {
+                              "color": "#ec3750",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recK1bOJHLXE0c3Iq",
+                  "slug": "frame",
+                  "name": "frame",
+                  "description": "build anything, track your hours, and we print your project as a real polaroid.",
+                  "url": "https://frame.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-10-16",
+                  "endDate": "2026-10-31",
+                  "announcedAt": "2026-10-16T22:07:29.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Software"
+                  ],
+                  "slackChannel": "frame",
+                  "slackUrl": "https://hackclub.slack.com/channels/frame",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/7EkXm9xBX-tb-qwnLeSKog/pFMfeX_BCiiWpslYDTDefHAprueWkz36itEnK1dCJMZ5yDQv3RmX-TVyLOkkn4litO19pabfiJ1apz4dRTKWiTTET4MwcdHiBi6S_fFwKKZZRpQGb3PxlliNW332k5Em_npNDXJL5OlSVBUTinNZPw/c0VUQeTYrq5ljW0Yjfvz7II-6jyL8qut2MBKJeAcNO8",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/jDY9eYLbf3LhjJ1Oc55Mgw/ZzQcT56xrnQ5hYC88KyI44Sr5lz8t7gU2sIGXRm7qsA4C4Ze8u7r3fHYlEj9A2d7uEuWs0EWt2I3STwLfY0L-8MYo3O_bKF8YV1MWv2AWlILv8dRKHzWi1sD-MqeLT4Ja6AzdDdyPMw2o2UagIhyQg/Vc5OX03JZxz5eYlnHSCyAnF_IBl39oI1prz3RoUMQHY"
+                  },
+                  "theme": {
+                        "text": "var(--foreground)",
+                        "accent": "#ec3750",
+                        "logoSize": 66,
+                        "button": {
+                              "color": "#FFFFFF",
+                              "textColor": "#17171D",
+                              "borderRadius": 44,
+                              "borderWidth": 4,
+                              "borderColor": "#17171D"
+                        }
+                  }
+            },
+            {
+                  "id": "recSQcSJh8jAKk2ls",
+                  "slug": "grandma",
+                  "name": "Grandma",
+                  "description": "Nitpicky Grandma has impossible demands. You ship the project anyway. She pays in cookies.",
+                  "url": "https://grandma.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-10-14",
+                  "endDate": "2026-11-30",
+                  "announcedAt": "2026-10-08T15:00:51.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [],
+                  "slackChannel": "grandma",
+                  "slackUrl": "https://hackclub.slack.com/channels/grandma",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/8eRbY_SJ4omWV7BaPzItuw/WHxdUVT3suCbnljW5a6bUq2eGoA0vShGhm4Pgn_DFKapglJjd8a80Tui5elqxzgEjaO23Xq37bRuMHXncW8gQY65eZ7eXr6adQxXpqLhA4oaDz8GKn3Kf7_qAz6p4n72PW0V1yLnyvyY5FYeujapTQ/0z6d993whxwTcJyqTtDCaEerhAi8AHGES8Tx3Xl157g",
+                  "background": {
+                        "type": "image",
+                        "color": "#e3c97b",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/ROztaPlkIdtND0lDZ4Q0Qw/0hYQd7nvXoZMPzJU-Z1J-Wk5WQ87td2C5SLHpAPpQsbiv1idLOklyAeSnCkQo-HBqY9CV1_a-jPblfyCIY0TKK9xF0BimFZiJc7EXaAVdgOqK_mMVhceXPVoY4C-y-m_3aerr9O35LnCOwjPD8W6Dg/20IjwP21OwX9o-LnfBdaMKMN2GdIW_q_9nJ-kCdOJ18"
+                  },
+                  "theme": {
+                        "text": "#a47395",
+                        "accent": "#3f2636",
+                        "logoSize": 91,
+                        "button": {
+                              "color": "#ca9acd",
+                              "textColor": "#3f2636",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#3f2636"
+                        }
+                  }
+            },
+            {
+                  "id": "recMyuLBfOKoDs6EW",
+                  "slug": "dyad",
+                  "name": "Dyad",
+                  "description": "Build a project with a friend, get a game to play together!\n",
+                  "url": "https://dyad.hackclub.com/",
+                  "status": "ongoing",
+                  "startDate": "2026-10-14",
+                  "endDate": "2026-11-01",
+                  "announcedAt": "2026-10-14T14:38:55.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Software"
+                  ],
+                  "slackChannel": "dyad",
+                  "slackUrl": "https://hackclub.slack.com/channels/dyad",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/6eh5xwcX3cf2rmxpTRXZqQ/5bGuv4-4TcY7seOUMgQlfXlfOCoLe37_DsZMLTLJ2YTKkl0nqZqCSPLQ8Qvy3A3xoS5e-2kxqSOkgx6OzAmgvt8rI6RERvt57XuJLREptBucF53MdEPZuZ8_ZjJaQm9GqRks-KOA-cxBW-OCccZJyQ/14PYrcafWTxLQhf_jQ5ChvAlpRThzZ08l9TfxrnHCPg",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/BDnbbo984k-AosZeBXQCEw/e09Y5BTUpI_Y9FtXUHqyex3Bf49s5YMUnbDXuj_ycC7ekhPxF-g6SwDd1o7je4M3pWhrU_nGuKDxrxUjMy_wvaBSlMC8ZOsOQQO_FXZRflV5glIVgEz7Mx07OJyWKYeVDjJb1an9EU1iHfGSmjL5Sw/Pj5YRlx7iS_fcc-jCFH_tVBu-CTdpKCPqx0OxS63bMo"
+                  },
+                  "theme": {
+                        "text": "#522d0f",
+                        "accent": "#ff5500",
+                        "logoSize": 93,
+                        "button": {
+                              "color": "#ff5400",
+                              "textColor": "#f6f9fe",
+                              "borderRadius": 20,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "reckwvYzuSvwCsY1O",
+                  "slug": "cubed",
+                  "name": "Cubed",
+                  "description": "Ship a science related project, get science stuff.",
+                  "url": "https://cubed.hackclub.com/",
+                  "status": "ongoing",
+                  "startDate": "2026-10-12",
+                  "endDate": "2026-11-09",
+                  "announcedAt": "2026-08-11T13:05:12.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Software",
+                        "Electronics",
+                        "Websites"
+                  ],
+                  "slackChannel": "cubed-ysws",
+                  "slackUrl": "https://hackclub.slack.com/channels/cubed-ysws",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/mhNWO-PtHpAGkSdn84zsjg/EPB4vlADqArfhVp3fBUhfpjLhokXRV5iFKcmCbY-ZaTrC-uqhZbPWV_qYlIUHqaJXnM-J9gTUDWy9QCYtxw_yPSKdlPbgp84EG8jWz1QDl6G089K2xuZzI9lZUmBuE7L7oL0I1VnOIA4IIagT8LjSQ/1cE8Rpw2hLEuvoMPxqctQNvwP-emUG1m_zOGkxSI8_0",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/HnhHmHMDlydCjhl8H_BWoA/PWUfRhgYNWntEvU1moIR6PcpPiM1Jxd8-HNu-GsAZff5XvJdFD6DKlOvecSC-lDdORkOakd3kFL3Nl-KTu3zCoduwqzONNWLwrHRndKxl7HxMjnuajsQQn7J1S3OSMUICIeey-ZwvSRMv7hICdHuuQ/HStempaAakXBsENAQMy0DSXpJmMLxEPFMGM4becEiTU"
+                  },
+                  "theme": {
+                        "text": "#241f31",
+                        "accent": "#26a269",
+                        "logoSize": 116,
+                        "button": {
+                              "color": "#ffffff",
+                              "textColor": "#000000",
+                              "borderRadius": 0,
+                              "borderWidth": 4,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recQq7MqVx468nleJ",
+                  "slug": "embassy",
+                  "name": "Embassy",
+                  "description": "Get a custom-made, personalized Hack Club Passport & ID to collect & bring to events. Fully compatible with Attend Check-In.",
+                  "url": "https://embassy.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-10-11",
+                  "endDate": "2026-11-30",
+                  "announcedAt": "2026-09-09T18:58:14.000Z",
+                  "format": null,
+                  "inPerson": null,
+                  "projectTypes": [],
+                  "slackChannel": "embassy",
+                  "slackUrl": "https://hackclub.slack.com/channels/embassy",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/6ooN0HtjDvv0hXplrVgE2A/QIklXmCw2Qx3X9d8E3-hu_9JfL_dM4sQ4mQIt68gsK_H9YLOAJ0Rw5kRnje12bvs75l10yLnOq1wcTiTEBl3lcQ5O8U9a8vxlM9-s7ol0GYbwN6pT0PtjqlUkoLZYSC7woT4kL3um2KU9Hfk8j7Nog/52hHHRt5RsVZndc1oMkXYdzwPc6fim0_fb3tYnlmNm4",
+                  "background": {
+                        "type": "color",
+                        "color": "#000000",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/ZqbGLJIPjRvbwWEsO8tASA/MBLY7dyE6zpdQFfbKSEk9N7hcPgaOKgTpcunA9EaZCQcERJztqhixWQ_xeDgz2e3_-KgJzdN_XtELLAf9SLSnpwlZwHl0IFg8dI2-5inR9P3w2tMjSZXQ0zlAIWrpiGMZPmgb7BuknU6pJBETmYnlw/XOQ8jR0HTTmudkdxAgWa2p6eEnN8rH2bFvfI7oid3GQ"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#92A1B9",
+                        "logoSize": 106,
+                        "button": {
+                              "color": "#2A2F4E",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recnGypJu0F781i1A",
+                  "slug": "mipmap",
+                  "name": "Mipmap",
+                  "description": "Make a game without an engine, earn prizes down your Tech Tree!",
+                  "url": "https://mipmap.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-10-08",
+                  "endDate": "2026-11-25",
+                  "announcedAt": "2026-10-05T22:01:36.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Gamedev",
+                        "Software"
+                  ],
+                  "slackChannel": "mipmap",
+                  "slackUrl": "https://hackclub.slack.com/channels/mipmap",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/j73VByXttRVgYVY9qVEM8g/Zc7S93IRUbw1ATFjLUhiSctjLYR_VsFeaNE-LRLbH0ESOQSus2BY-9SdArl3uhpGgf9eA9ANISPOkb-1aCOCzpqsf-g-ea6scBWC6NjhNwZ2PmZSVEQbX8Sp52MFfWQfP0IQXvV__pJp9tAwRzsBPg/XIwXpGYXksIkNCKA5PFOQoYTuV4ft2m6VXW8-9Fq1G8",
+                  "background": {
+                        "type": "image",
+                        "color": "#462525",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/YqU8AbGQPjxacuh_zYvQzw/EQFQRyDIMri2uK2Fbw-ao7DIucfpX7mr9UaErlt9s3LRrcBjcNyG9ADqcSugiWp0IK7pMZ14bIX2NF0Lz2xPB15IJ-vwrW-ln_-i29f199GAgGyrKxphbVWkMJmQaxCvhj90PVjMARwWTH5geIi3hw/BuJiI8J8DR9or923K8puktVWFLtLIrvMld-IAhbq9SU"
+                  },
+                  "theme": {
+                        "text": "#e9d6c1",
+                        "accent": "#e8d5c0",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#724b2f",
+                              "textColor": "#e9d6c1",
+                              "borderRadius": 44,
+                              "borderWidth": 4,
+                              "borderColor": "#463128"
+                        }
+                  }
+            },
+            {
+                  "id": "recGvUqkCCS1sUJEe",
+                  "slug": "taiyaki",
+                  "name": "Taiyaki",
+                  "description": null,
+                  "url": "https://taiyaki.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-10-06",
+                  "endDate": "2027-02-27",
+                  "announcedAt": "2026-10-06T16:37:27.000Z",
+                  "format": null,
+                  "inPerson": null,
+                  "projectTypes": [],
+                  "slackChannel": null,
+                  "slackUrl": null,
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": null,
+                  "background": null,
+                  "theme": null
+            },
+            {
+                  "id": "recbTHmv1Curu4AJT",
+                  "slug": "snek",
+                  "name": "Snek",
+                  "description": "learn pygame and get stickers, plushies, drawing tablets and other prizesss.",
+                  "url": "https://snek.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-10-06",
+                  "endDate": "2026-11-06",
+                  "announcedAt": "2026-10-05T18:30:10.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Gamedev"
+                  ],
+                  "slackChannel": "snek",
+                  "slackUrl": "https://hackclub.slack.com/channels/snek",
+                  "requirements": "Beginner friendly",
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/g6fxOHAaTMQBKz0xJsDbBQ/VQSRI05ccA4OG7Wb0ZsO2a8VHnzBeDWAmeqENLL4iAOAsqekWeDyoE3w886N934fB2yBjP_vLUTapcBgNkWOzt5kyJCyxmB9BSDial3lOPghSUP2nitdUNI06iTvrSoySx66y8vTCUFMHjwiBX1kAA/Bp2iveVezSgg3q9XT4dMFkS6hyBIc_DOCKNevUi4oBA",
+                  "background": {
+                        "type": "image",
+                        "color": "#a6bba9ff",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/HLICfaM7YZjYKyE3Sl_qcg/k49IqZrvUDPZomfbRAN7NPAXZLpLTzTufo4uFGDp1A5O-OVoDIxBYcdaDI11U6_tMDPvzWsdag0FCv7JaV8rMICS1ZjLjvOa0cgL6ktSf1okcEWrEhbiFztJVZPlbYx7ELoHx4cHZTf5jsYhwZSmNA/LI0YJUL12NuHq-nICMRUovXHCIccx8-94zAs4f11Obk"
+                  },
+                  "theme": {
+                        "text": "var(--foreground)",
+                        "accent": "#ec3750",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#ffffff",
+                              "textColor": "#000000",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "rectMCKqCrwfa13VZ",
+                  "slug": "paper-clip",
+                  "name": "Paper Clip",
+                  "description": "Draw your own Assets, get Art Supplies!",
+                  "url": "https://paperclip.hackclub.com/",
+                  "status": "ongoing",
+                  "startDate": "2026-10-05",
+                  "endDate": "2026-11-01",
+                  "announcedAt": "2026-10-04T18:15:57.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Websites",
+                        "Software",
+                        "Gamedev"
+                  ],
+                  "slackChannel": "paper-clip",
+                  "slackUrl": "https://hackclub.slack.com/channels/paper-clip",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/thvP4oncnXvd_GVKyUoB3g/7NNRTxMj3RaBh6ZqoMZNJZXMBNdL_S-UMGHMP7voKDKCd280GMP5tjolj_aZw2_IhfU0z9NQ1XA5QzIe3jN7cCzT8U-H5BT24BmsWhJIXck0Dx098XE65_iAqm1AH7PQ2h5bIzkl0yoIhTAdZ-VI3A/auZ0z_ROm0z5_j0GH60-N1zlWMiYdRz-Jdt_jTFdT2Y",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/Qk7SLH45w4bHhk4yHsCjig/zvpD2XBRw0yHy-2nX4XnVK11Znh0vzwKj5rnZoBcFU9CG41HpOMzFr2D6O6pQvz8Xe9dNLdTT_u8ScY1OIfTJ3UCrPsBENXD2YjJW4yiyMc-dIlm0tso-XYJBynpoiIKwYpmuVollnEDnxG-_9OhIg/q-nTMUayuGzmKNbvAoKXfH34FKPyk6clA753vIS7rWM"
+                  },
+                  "theme": {
+                        "text": "#231f1f",
+                        "accent": "#ec3750",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#ec3750",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recMbhE93XPc0hrZC",
+                  "slug": "half-life",
+                  "name": "Half Life",
+                  "description": "become a hardware expert in 10 weeks, get a 3D printer",
+                  "url": "https://halflife.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-10-05",
+                  "endDate": "2026-12-14",
+                  "announcedAt": "2026-09-03T17:48:12.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Electronics",
+                        "CAD"
+                  ],
+                  "slackChannel": "half-life",
+                  "slackUrl": "https://hackclub.slack.com/channels/half-life",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/jDt7qZ2uDY9AsnOU1HonYw/BL4fd1EmdDmeDzmK7i9Q5ekDonoCuxlH0fjIjwcFTY39TusC6LJKZ6AfZnNxUNGZNQlSnA8xDiJUUbna0G00avT6GU3h37n5JnfKh7P2I-9MNg20-THRktTt9mCYdInBbCgAs9iUu9xtajbv1uRBeA/txeptKqFx3ZVaqrsOUpAuUN69r7R5BhjFkApLv1qTpA",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/5NotRbTWWx1w_v007299Dw/lhnJnbJn859M3CqWOm37IHqWnyR6-N-wSBli2uXlLXSlT5T1TeV9bXT1A0d-GaUQ0GfUoXLuNrbbQOvRDp-k3gXw2spQVxBdfvNZDqzfGrfOTUcWYVKjfTD-Zo6dGu1Fyt4Sby4ptDZ4_o1-pAMzIg/etrYvUadTnUYOt15xA2HBk2x88hJVplfgxs91kA10r8"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#8ed3dc",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#8ed3dc",
+                              "textColor": "#31222c",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recx7UqC7A5JKJSRq",
+                  "slug": "hacktank",
+                  "name": "HackTank",
+                  "description": "create your product, go viral, pitch to VCs in San Francisco",
+                  "url": "https://hacktank.hackclub.com?ref=programs",
+                  "status": "ongoing",
+                  "startDate": "2026-10-02",
+                  "endDate": "2027-02-28",
+                  "announcedAt": "2026-09-24T14:03:04.000Z",
+                  "format": null,
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Electronics",
+                        "Websites",
+                        "Software",
+                        "Other"
+                  ],
+                  "slackChannel": "hacktank",
+                  "slackUrl": "https://hackclub.slack.com/channels/hacktank",
+                  "requirements": "only locked in people allowed",
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/3pfPej2JkpjYv6fZMTA6Ng/HNzLlv_7Z-1lfcs40Sl3GfR8lsJwYACHsc6P12WxkcBOaLy-LZ4RVmXnWwX_IgEUuda_4H1pyYlqNoY-akSXERW4bas8yjFNiwmth2IsmD1Qjg8OvI1AD505GNG24C_4jlJuqxuEY39d8NHuz-eDgQ/QHV3hnoSxTWgqwKZOMATJhz3TqkelIUQ3bSiqJ8aHE4",
+                  "background": {
+                        "type": "color",
+                        "color": "#f0652f",
+                        "imageUrl": null
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#f6f5f4",
+                        "logoSize": 48,
+                        "button": {
+                              "color": "#ec3750",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recNMKvfpEYyxOvc2",
+                  "slug": "goship",
+                  "name": "Goship",
+                  "description": "ship a Go Project, get a gopher plushie",
+                  "url": "https://goship.hackclub.com/",
+                  "status": "ongoing",
+                  "startDate": "2026-10-01",
+                  "endDate": "2027-01-08",
+                  "announcedAt": "2026-10-08T14:26:10.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Software"
+                  ],
+                  "slackChannel": "go-ship",
+                  "slackUrl": "https://hackclub.slack.com/channels/go-ship",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/W2Eui9AzRgKfkDAbU7d8eg/eWwPp6BQwSGZF-_p3p1FpdJKXGW4ixoMxJJmhTZ8SYUob8zCuB4mfwK0cpWAk4RMY8I0SlKxR5pMCyw5fBAz_KrErYZlRnQMpDPeZ5ZwbDlKPNvm4s6toM0DZE7IFH5CecLYC6IqsvuXU6eejL1xJQ/TKnIJb78XtHav07lPdyb76sM8wipXPEZGSqcPNZ0VgI",
+                  "background": {
+                        "type": "color",
+                        "color": "#f2fdff",
+                        "imageUrl": null
+                  },
+                  "theme": {
+                        "text": "var(--foreground)",
+                        "accent": "#ec3750",
+                        "logoSize": 48,
+                        "button": {
+                              "color": "#ec3750",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recjrJqFnHdhxgfuP",
+                  "slug": "scare",
+                  "name": "Scare",
+                  "description": "Make a horror game, get free video games, candy, hardware, and more! Due on Halloween... \ud83c\udf83",
+                  "url": "https://scare.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-10-01",
+                  "endDate": "2026-10-31",
+                  "announcedAt": "2026-09-28T15:58:32.000Z",
+                  "format": null,
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Gamedev",
+                        "Electronics",
+                        "Software"
+                  ],
+                  "slackChannel": "scare",
+                  "slackUrl": "https://hackclub.slack.com/channels/scare",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/mvsw6JjTOVPP6h4P5aNfCw/P3IFvQTrqnHV6w_TpFj1PpxZyvm8nDD2Uvc0dE-9ak7iiMZmPXR2nSg4Djd-h2P1BskldJpM1VAwus4Qn5Vthxxw8IjuXF84iW5J-EF0Slwq6f_xvFAirEOUtYqlVDo1Oo0EaCPyOGUM5JMiw1STyQ/I9u0H0lc5mUauoHIiSmisaYqquiQbnat4T6QS3d2l6s",
+                  "background": {
+                        "type": "image",
+                        "color": "#000000",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/KTz3P9K7iW_4o6GnG4O1-A/Fgut8z2NHv_vcyUJfQYx3svsAKP2lAVrsAoYdMxcOnYWWMWbrCuDkd9alD4-Xm1GQ2T58Afq0MSgrUSCRjbn9ferMFUA6sRrtEgDFGJpb5z3T64_lq_FcAZMbDiqJd9Zuzlg-AuaXXPHqySWtedwag/LG-ENsh2jy-AcOn74te_XtMbm61huc3x7HQ8HYHF-2M"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#FF992C",
+                        "logoSize": 100,
+                        "button": {
+                              "color": "#FF992C",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "rec5iSFpXM8jLLgDQ",
+                  "slug": "fabricate",
+                  "name": "Fabricate",
+                  "description": "Design a hardware project and we\u2019ll pay for it",
+                  "url": "https://fabricate.hackclub.com/?utm_source=programs_page",
+                  "status": "ongoing",
+                  "startDate": "2026-09-30",
+                  "endDate": "2026-12-31",
+                  "announcedAt": "2026-09-02T19:40:03.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Electronics",
+                        "CAD"
+                  ],
+                  "slackChannel": "fabricate",
+                  "slackUrl": "https://hackclub.slack.com/channels/fabricate",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/shgN7rgaNKqSt7wS9vx_KQ/IGpMSUsecuz0ErYn9_rZdtxbVQDlmFSihaq2kll0f8-A7pJ24_zLs0VONnv53wSrw4LB2mfS4-zjD7Mg0E3pzwvl65M3WBTcVe3Mh4OElUIE9vmForgx74ff-yI7au4Qln3mAKn1XdUcAWChhCBKJA/14vHG_pkBEr8t8AS3zi0HnCQb4iP0VL_MYhAQvaLoB0",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/Ezs8E5StTAXdTwkNKwdiRQ/gykqthACoOHDzwnwwCBZQ_8-3EYaBMN1FkhBQSrsXPKplQ1OSaVqGbRTBYdC8ZFgKxmHCB-sK7sSRecUnC5kmKKwRvr8Ul0ZdrXdE2KxrGV1VYHcvBSlgAhNcDxkyVFGJ24yK3RfnHYmpkr2uZq70Q/ADPZ39F7NKiJn4X5xSQFguNYUx3dA5Qkwe8BMxygt48"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#ec3750",
+                        "logoSize": 55,
+                        "button": {
+                              "color": "#ec3750",
+                              "textColor": "#ffffff",
+                              "borderRadius": 2,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "rec4Llts2km6vDoRI",
+                  "slug": "storyboard-v3",
+                  "name": "Storyboard V3",
+                  "description": "Storyboardtober is here! Work on a visual novel every day. Get stickers & more prizes \u2605.+*",
+                  "url": "https://storyboard.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-09-30",
+                  "endDate": "2026-10-31",
+                  "announcedAt": "2026-09-24T21:47:24.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Gamedev"
+                  ],
+                  "slackChannel": "storyboard",
+                  "slackUrl": "https://hackclub.slack.com/channels/storyboard",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/abFtGEY6CcJEx8pivbySEg/V37hwNP-W8v9rkrYEp_fLZjLk4JhN4Smh3CEinVUt4G69Say0FZHYc4tTDYjy3rKhvGC0J3PURpt_9UySk9bz5_5XIgl1c5l1ctBcorvFT4xN5RjmZOxY24R7wl5EK0Cnkz3ojyaBnN4ClTc0JvOC-B4in8jQptU7HSU-dthmmLLfmN-kBpcoMRNkHmwSSbS/ttkb0iMhRRyHat6i1AsoscmzDH_T5sb4B8hQewgoxp8",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/bkUbuh6Tly_eB33Yg7gqEw/NNTkQl5-KYaTyLYGXRdbYnCAXQ--x0qOoJo6fpREhJVi27EgMQXZRZ9uFvXi8axR0ajsmoGKGarcl9pX93TOTj1jvyZzJWgNXzUpQ5IoxcD3cXVwms9gxhjsZExdLCiVOo29wkskeDDHBHzuugZMLyT8vXJjJPyr7EYwg2Bo9Gc/1d6KJLJZnng6SutHYw343l87d7myf_E-BoF9xH7TzII"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#faf4d4",
+                        "logoSize": 91,
+                        "button": {
+                              "color": "#a1ebf4",
+                              "textColor": "#302865",
+                              "borderRadius": 44,
+                              "borderWidth": 3,
+                              "borderColor": "#302865"
+                        }
+                  }
+            },
+            {
+                  "id": "recpUpez1ndcIEuLt",
+                  "slug": "asic",
+                  "name": "ASIC",
+                  "description": "Design a chip, we'll manufacture it  and send you tools to test it. ",
+                  "url": "https://asic.hackclub.com/",
+                  "status": "ongoing",
+                  "startDate": "2026-09-29",
+                  "endDate": "2026-11-30",
+                  "announcedAt": "2026-09-01T14:27:08.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Electronics",
+                        "Other"
+                  ],
+                  "slackChannel": "asic",
+                  "slackUrl": "https://hackclub.slack.com/channels/asic",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/9aFdy59DeJEMpPqp0Nxz6A/7618NCxWGt2tvCkMI50gaZvjM1jWAfpryZuVtzIOSOZpgeDOWREAHmRwfjxAdqncpJNVv-FlYpyPmWtaHgydUIAv8hp0gLMH655-i5mrQDAOEylOtZ5Eh5-0XU4uaWOeD8b-553Ah_RHrNBQeyd1ew/O32FZyuqfrQjzLyBSpguaciQkrkSFDGivpYVq9Wh58M",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/X-4GIG4HEHCTGq20DshgkA/zvLufXtjDoJYntwUSo5qaU3JEc6qg5RFRaejrFWkkM61cwVQ6zJOIealqy-NDwmz7Rt4PpoLt1QrHw_VFxcGhBnU7bP_Sd1zGkLgBDxqI-rQ6aPF0z9b7KcXpTtXEvGOpzr1tKwqUFnwzRGlEMEZ4g/Jb6oIWle_PTtHAweiuR2ufF8eolIRfWgQdqzuj-9t2g"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#cd2a89",
+                        "logoSize": 48,
+                        "button": {
+                              "color": "#cd2a89",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recBr3EcgTa1ALLmR",
+                  "slug": "terra",
+                  "name": "Terra",
+                  "description": "Code each week, grow your farm, get a laptop!",
+                  "url": "https://terra.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-09-28",
+                  "endDate": "2027-01-10",
+                  "announcedAt": "2026-09-10T22:08:16.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Software"
+                  ],
+                  "slackChannel": "terra",
+                  "slackUrl": "https://hackclub.slack.com/channels/terra",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/6od8rJ9FKzpvf96jZcIRxQ/zua0ujhJf8NFl_JBoyClDHLnCZSmY_P5MiTyxM7dzrC2qMto19-5h0XWS0FQ1zC3iWvvPaVlcbqBw1y52Da3oYKpqQlJMi8XkHUh5gkdktjudzwNtLVnByphVBESxLWvmZrz18dfseogpbJrHttoEg/bCgqY18It3hixEcyQ5DK-bF0NfLztZCE05-7fuM9WiI",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/JR_ZdHlAXSD9CsK9RnbDCg/H3oyjjhtyFhIDcvOP3B-yL3T3oHWthX4kKO13oFk0fOTAlu_kRZ2it6qpDQBWCVjcbDAoxYL00XUFb7SwQLmirNnH7v_mHv72OXxfA-3pD95_0Ho-GsPSGZhidUtQPsHblnFO8UA48JomZGdN-57yg/nKzkBjqc_3yisCujN-n7kOlbG-xG-Ft0kPKpA_H-DKU"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#f4ca95",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#f4ca95",
+                              "textColor": "#462114",
+                              "borderRadius": 8,
+                              "borderWidth": 4,
+                              "borderColor": "#c7793c"
+                        }
+                  }
+            },
+            {
+                  "id": "recVf8xItyhg8Y4wE",
+                  "slug": "genesis-reborn",
+                  "name": "Genesis Reborn",
+                  "description": "Make an operating system from scratch, get compute to run it on!",
+                  "url": "https://genesis.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-09-23",
+                  "endDate": "2026-12-16",
+                  "announcedAt": "2026-09-28T15:58:21.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Software"
+                  ],
+                  "slackChannel": "genesis-ysws",
+                  "slackUrl": "https://hackclub.slack.com/channels/genesis-ysws",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": null,
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/bHRmWh2kO-DuKbzl_NIRyg/3RONSp2Dp4oGvlWzGC_uyQiNPq_SAL2sb4hs6U7Ulw3dhrLYPv6zBkc6pyrJ7SDgag-GQfJ12IaBl-PHxQpx7Qqvezm7HOVUq95QaBfVP_DE_O6piEuVYMNBKplCEPKGUI7sShFOy6VYPRtFfrmDPg/2eKvADyjG8lpama6AyqOphf7LojyqE2CBu0SPFSW__U"
+                  },
+                  "theme": {
+                        "text": "#f6f5f4",
+                        "accent": "#ec3750",
+                        "logoSize": 48,
+                        "button": {
+                              "color": "#f66151",
+                              "textColor": "#f6f5f4",
+                              "borderRadius": 10,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "rece79v98ulzks740",
+                  "slug": "crescent",
+                  "name": "Crescent",
+                  "description": "Four different challenges each week - pick a card, then ship something!",
+                  "url": "https://crescent.hackclub.com/?utm_source=programs",
+                  "status": "ongoing",
+                  "startDate": "2026-09-21",
+                  "endDate": "2026-11-22",
+                  "announcedAt": "2026-09-21T05:22:38.000Z",
+                  "format": null,
+                  "inPerson": null,
+                  "projectTypes": [],
+                  "slackChannel": null,
+                  "slackUrl": null,
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/FqEvoRlStN6DBuS6gm3HiQ/Q3vlXRiRdjhODV4DRbc7YEo9OSuegc5DMA44jcKaqvBhnjJL8HQOmBdS4polZl_n76xpNR-TD6bqRg5TjWt7tQyQkvRHYclDOGckwji3kKQC1PGnsYooPw41OLeXib0RQ_Ye3KqLN-ScRyMYS1kIrQ/iWtt2kN9gAoF1skGOAV0FgSrz-Fat-_fPAQTWwh5ng8",
+                  "background": {
+                        "type": "image",
+                        "color": "#ffffff",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/0EyPyQTp_SwvY8bB51GOrQ/9J5I283qYMxZuyphriLRtdlNMnlqppp9lyuCoxN_J7nQEdHYFCaDNzGzAkpM3Ay52vISXQvtgn-MqtywIebgZ-93FAvjie1wpTInsgqCgO34t7etySgg2D51W0yCrDyyjlIEQ8IwBm8YL5DybNSABg/3UWKs-6kyCGQ1oyZRFYKNLlgfp6Cqiis1zNlXaAdAf0"
+                  },
+                  "theme": {
+                        "text": "#e5e5ff",
+                        "accent": "#c382f8",
+                        "logoSize": 110,
+                        "button": {
+                              "color": "#b357ff",
+                              "textColor": "#09071d",
+                              "borderRadius": 8,
+                              "borderWidth": 0,
+                              "borderColor": "#b257ff"
+                        }
+                  }
+            },
+            {
+                  "id": "rec1l4Rvwv48G91iM",
+                  "slug": "atlantis",
+                  "name": "Atlantis",
+                  "description": "Ship 5 hours of CAD each week and get a 3D printer!",
+                  "url": "https://atlantis.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-09-21",
+                  "endDate": "2026-11-16",
+                  "announcedAt": "2026-07-22T14:47:42.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "CAD"
+                  ],
+                  "slackChannel": "atlantis",
+                  "slackUrl": "https://hackclub.slack.com/channels/atlantis",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/fkyntubUea0cEJa5aB-R3Q/IIbuoC6xzpL7kRmxZOWZEKMRGYQ3zWXCWYc1f3L1EJVNMFDSUjGQEUX-L2o6Nt3F0LSnaANi2expfJ-x21yHcyjTKtCcYsjgGOZUfPmFPLV9IkMxMbCUnCpRywUNtlehghAKrF_Rwx9mo_7QIUijTw/Y3KL2raUx3cXjsHw2hD0y1Uf4yRCYwGXwsPh-iXB2v4",
+                  "background": {
+                        "type": "image",
+                        "color": "#002c43",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/B6L-TFLb7GYU37srGPqChA/Z3gZbNyjVlbCdwOXR6MPcanaN-WRERP2G8FMPpcGIpdNBo-RwEtSCiq63ISNwHbltHFtzzaE1D_-TmD_d4a5tUo7Wto7xHq1t9VyirsLt5Q4OGHCjcgIjlXH_JX3obUJY1Iba5thDr_QK17LmHtYRg/4dB2Fve9eCkfMWcp9oOwguT8COnbx_krVopTKyjnO2U"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#ffffff",
+                        "logoSize": 48,
+                        "button": {
+                              "color": "#0080c0",
+                              "textColor": "#ffffff",
+                              "borderRadius": 20,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recPYFw3Ke9CQu36h",
+                  "slug": "expedition",
+                  "name": "Expedition",
+                  "description": "EARN YOUR WAY TO IRELAND THIS\nDECEMBER\nOVERNIGHT HACKETHON 4TH-6TH",
+                  "url": "https://expedition.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-09-10",
+                  "endDate": "2026-11-27",
+                  "announcedAt": "2026-09-23T14:36:17.000Z",
+                  "format": null,
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Electronics",
+                        "Websites",
+                        "Software",
+                        "Gamedev",
+                        "CAD",
+                        "Other"
+                  ],
+                  "slackChannel": "expedition-ireland",
+                  "slackUrl": "https://hackclub.slack.com/channels/expedition-ireland",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": null,
+                  "background": {
+                        "type": "image",
+                        "color": "#ffffff",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/YZzZiqG2fcrbglxZWdYb9Q/r0JaqoOK2VwdMI4pu9xrO34kaT_MxEysSZxTczA3igRfXnBFPXId6S99TiJvYTKDJQJUnPjuI92qDEb_edFJEvc2mxr0kY05VgPaJo_e0Mk81j_OSp_LCdfwOaLT3QRFMfZ1y1lj1-qadULHlMBEsA/m54sH0_5o1T92FX1C6ordkisDeAUU2Qcnqdqe9GHfag"
+                  },
+                  "theme": {
+                        "text": "#dedede",
+                        "accent": "#ec3750",
+                        "logoSize": 59,
+                        "button": {
+                              "color": "#ec3750",
+                              "textColor": "#ffffff",
+                              "borderRadius": 4,
+                              "borderWidth": 2,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recS2HhvwN6LrzyYC",
+                  "slug": "twisted",
+                  "name": "Twisted",
+                  "description": "Join a Twisted YSWS where you build cool projects, complete challenges, and work your way through a roadmap to earn a PC!",
+                  "url": "https://twisted.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-09-08",
+                  "endDate": null,
+                  "announcedAt": "2026-09-16T18:32:39.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Software",
+                        "CAD",
+                        "Gamedev",
+                        "Websites",
+                        "Electronics",
+                        "Other"
+                  ],
+                  "slackChannel": "twisted",
+                  "slackUrl": "https://hackclub.slack.com/channels/twisted",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/iKwIgTYAfG4LjM6F-UcsvQ/mZ5jVJIXYvOBUFluTOVLk4S_7AE1bHxvpvSr0kznQBoH51zHGRwuYt5uNEH2eLcEepGUpiMucweoptp6EspSJkUDj76R8WbWatMVOhbTPC5gIjkMmBZQrdTC4LzVxdcINDXg2EwpdLsYuUG51DwRYg/CWUfjVoohmb-KXfK80UQkLdbEz06XldwP5nZt3LWIAk",
+                  "background": {
+                        "type": "color",
+                        "color": "#1B0D25",
+                        "imageUrl": null
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#B96CFF",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#5b2e73",
+                              "textColor": "#ffffff",
+                              "borderRadius": 0,
+                              "borderWidth": 1,
+                              "borderColor": "#B96CFF"
+                        }
+                  }
+            },
+            {
+                  "id": "recoVgK7m7y6Dibuv",
+                  "slug": "orpheusathon",
+                  "name": "OrpheusAthon",
+                  "description": "Code for an hour and receive a poorly drawn picture of you as Orpheus",
+                  "url": "https://stern.hackclub.com/orpehusathon/welcome",
+                  "status": "ongoing",
+                  "startDate": "2026-08-31",
+                  "endDate": "2027-01-01",
+                  "announcedAt": "2026-08-24T15:52:17.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [],
+                  "slackChannel": "orpheusathon",
+                  "slackUrl": "https://hackclub.slack.com/channels/orpheusathon",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/G2jW5qKszIG7xLWNdCQm0A/deU-H7wG4-wm-CNxb0DjGJAV18pHLxT9t6MhT8n9CBMmIe3zB1rMp_eCnCM5C05dpfMGiDqgfd37WMguYnm8jexvtsK1tRNGb9Q_7pw3ZMIeL53Ra8WVsmKOUFV3xELdUxtKLhkAmwwlipUenr3AKg/M4Tgmhf9boQx0GzOKTz2VeTAKADym6BO6e5foITN-IQ",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/r75zmUtwEU-VVWeesuFyvA/7199lxanU9xYj0NeRhbEMaGbvYZIPqOty6aP8Iom1qxwrQfNPis2by_brUkfl_h-K3zrKYRt0OQWuBWoUiTOvhBq0FBF231Ho7lKYHyHDzjp3_L1qf9BR53PptheeCCh-GAZ395va2g3kwPmXXrw5w/gbKAGH4eeRMr7N10VUrM-2Vwn8vYQsMHRzYa0eKDkr8"
+                  },
+                  "theme": {
+                        "text": "#000000",
+                        "accent": "#ec3750",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#e1364f",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recNtJtI05pqbqmgO",
+                  "slug": "snowglobe",
+                  "name": "Snowglobe",
+                  "description": "Code 50 hours and go to San Francisco for the largest all girls hackathon!",
+                  "url": "https://snowglobe.hackclub.com/",
+                  "status": "ongoing",
+                  "startDate": "2026-08-29",
+                  "endDate": "2026-11-22",
+                  "announcedAt": "2026-08-26T21:54:53.000Z",
+                  "format": "both",
+                  "inPerson": {
+                        "start": "2026-11-20",
+                        "end": "2026-11-22",
+                        "location": "San Francisco"
+                  },
+                  "projectTypes": [
+                        "Software",
+                        "Gamedev"
+                  ],
+                  "slackChannel": "snowglobe",
+                  "slackUrl": "https://hackclub.slack.com/channels/snowglobe",
+                  "requirements": "Girls only",
+                  "pinned": true,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/vuNbh-33yWmD3IdUAEzcuA/QnoAd8NhDHy07eXHiHuDpIh1HLur7zhupr41On1-Jn-2dk_-IyrHjKCf-Npfja-iO7QGEzhT3kJtYX-LCBKV9N8NOuEtUCCQ72tgop9G8lwU99SDXVcfLCzeWEwDtWR4ieAZvA7NilEDn8yBlQEZlw/4U-SjygND31rCzsMb86vwp7GTlVrRefXI-2bLATsHLU",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/6zYCQMTzgem8VAuyPqA2pQ/zTnz2boRGtkyj2x2bZaxW-gso9jx_2Vg-C7884FrMBbNThAXg29rMxEzbALF4NxNpRKoM3LjTW6rxuti1MekQt3FZ3q2ObQqgPLKMLiRxga7m7zNo4gL0nM5HqGM9td2AuPZypd_AAl-fFHfrQ1Qow/XmjxYi_dT6skbV58gR1fIRJ1OxxrgZ4cChlqNbHV5hQ"
+                  },
+                  "theme": {
+                        "text": "#001eb3",
+                        "accent": "#ec3750",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#FFFBD3",
+                              "textColor": "#1155CD",
+                              "borderRadius": 16,
+                              "borderWidth": 2,
+                              "borderColor": "#1155CD"
+                        }
+                  }
+            },
+            {
+                  "id": "rec5S2LK4Of57qe3y",
+                  "slug": "hackrail",
+                  "name": "Hackrail",
+                  "description": "Ship projects that use open train data, get train passes and tickets!",
+                  "url": "https://rail.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-08-28",
+                  "endDate": "2026-11-30",
+                  "announcedAt": "2026-08-27T16:05:33.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Websites",
+                        "Gamedev",
+                        "Software"
+                  ],
+                  "slackChannel": "hackrail",
+                  "slackUrl": "https://hackclub.slack.com/channels/hackrail",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/A8xzzSBbYxpmAqqVEKXjHA/SClSO0BSZ7capJi9uiLhT2__o4HjwGGvTOIfrHcH8v0il6hpqEk6bXfQGh-bj-CtaIHTTtSy1oP2c2EcS9r_4EcYBAlHaP_o85en_u6Z_03y82XxgmfZXc5vogNQ44LvZeWFStZL6Ur22bd-nIu97w/PjsEnp7BUBiD51Y4oB3Ozaqv_AW5e6tqET8Sp4s2pLg",
+                  "background": {
+                        "type": "image",
+                        "color": "#ffffff",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/_27AAiQRJxGFSqdStxzThg/FlVBNyboucGgGUtYeqn6Zt9uXqZM7zhyswTVIKu6L5uY1wW9bPa7KGmPL_F_PLrXJDidr_CQErnNuqfmbusErdIpwEuK_vCRCNS7ksGUZ1u5TutkOMmcJF5da-WcitgRUOyRCQlGnAIzPS29lRJz2w/wL_V9vCQL3okvSpor_HJ0yrmEwQI-WFnK3KgptyWcsg"
+                  },
+                  "theme": {
+                        "text": "#fcffd8",
+                        "accent": "#5A9E56",
+                        "logoSize": 92,
+                        "button": {
+                              "color": "#5A9E56",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recHDTltjcPpFMUgu",
+                  "slug": "thirdspace",
+                  "name": "thirdspace",
+                  "description": "code with your friends. we upgrade your tech.",
+                  "url": "https://thirdspace.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-08-21",
+                  "endDate": "2026-11-20",
+                  "announcedAt": "2026-08-22T02:22:38.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Websites",
+                        "Software"
+                  ],
+                  "slackChannel": "third-space",
+                  "slackUrl": "https://hackclub.slack.com/channels/third-space",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/8LSJC6Iqkp2rgYJf0HwfmQ/79SXMNr2Nk_poC31kL8sw353GN0MXqWQbqX4I_ggC7j332NVCyMQWWYWc0iNlpgJttycQCdnGuHDZ-J89PadryQXOVuvyGm_7S_2Yoaw_B3Q4ZOtPsEUh6YdkTajM6Os81DO5O3bGyGAV2JRuxHlpg/LjL-hgV-ru50Dne1q58WOprNL7XKCxZLx7WIh-_JZQY",
+                  "background": {
+                        "type": "color",
+                        "color": "#423b34",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/WZWftjqRN-X7FN2Fowz5nQ/U4ZaDhbKznNLr9RL1PtoalsrhZifo8psRPEF1xLO7yls23_tyx0mlfXHxmw3jN-x1TFHfl2FB1j7Hm2DCCUfAhawEqvRiwW-L1-QFXYIwNMtEYzeyi8Pf0bAN9Lfp1YGl2Rbkdeg1GxonMMlxZJwVA/1OI33pVw2MzUx63Q8lSaY53lU6BuFcmxm1mzLmk-9Hw"
+                  },
+                  "theme": {
+                        "text": "#c7c2ae",
+                        "accent": "#577c53",
+                        "logoSize": 90,
+                        "button": {
+                              "color": "#577b52",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recFZK43eiey2rDUf",
+                  "slug": "haven",
+                  "name": "Haven",
+                  "description": "A worldwide game jam happening in 200+ cities on\nNovember 14th & 15th. Find an event in your city!",
+                  "url": "https://haven.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-08-21",
+                  "endDate": "2026-11-15",
+                  "announcedAt": "2026-08-07T13:10:09.000Z",
+                  "format": "in-person",
+                  "inPerson": {
+                        "start": "2026-11-14",
+                        "end": "2026-11-15",
+                        "location": " The Whole World!"
+                  },
+                  "projectTypes": [
+                        "Gamedev"
+                  ],
+                  "slackChannel": "haven",
+                  "slackUrl": "https://hackclub.slack.com/channels/haven",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/0ocq9ibPPm-48PP8km2zxg/caLK7gKo5bzl7UZ4yGgs2KcstekHfNhuEfPLOkHm-gxhq3cPU_s3JkuqyUMnyzKTpuDsade8K99JGCqULE9rAoNI5hyaEZh9R6VHrrlOwtQasXEnhFvr7vbDJZgt6I0bu7boK9BjynqMpN4oi3sthg/S_hWGqbham5C-gCc37Fu30e-ySl3iYUSWZQXLDUziqE",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/Sm-ZtEHEW4c9OzZBFjB7zA/Fhy_ZjtRcD_r8daNY3UoPFvkMC709pBqHbC9C8qE8a21p0fndu-RZ-9WsEY5Fr60JsAnTVPQ4S6g0Z8vbaCH4g080D45KGDOtFw5e1XNqyQ91aVNaoxbJ34eU0iRBS_YfKwO1NtIdlKWhoOr8S_yyw/BkNSgTAMpLbEUFx8gk-CZmWJNQIEU96xuC8AGzDPG3I"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#bdfff6",
+                        "logoSize": 103,
+                        "button": {
+                              "color": "#F9661A",
+                              "textColor": "#f6f2ff",
+                              "borderRadius": 44,
+                              "borderWidth": 3,
+                              "borderColor": "#ffcb0f"
+                        }
+                  }
+            },
+            {
+                  "id": "recdoooA19NZG8uMU",
+                  "slug": "folktale",
+                  "name": "Folktale",
+                  "description": "Learn Python, Make a Game, Get Free Stickers!",
+                  "url": "https://folktale.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-08-18",
+                  "endDate": null,
+                  "announcedAt": "2026-08-18T16:54:33.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Software"
+                  ],
+                  "slackChannel": "folktale",
+                  "slackUrl": "https://hackclub.slack.com/channels/folktale",
+                  "requirements": "Beginner friendly",
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/oQUsfR1IZ24nL63QfjBsUg/5Hflr1U5gYvHZ3VWikeRNRrA5XWWT69cxKLwzLlif-_fyUhpnac-0zzYljP-vbf3qNzU0RTS-LFHSVqmPVolSIQi2591jPAS0S3InNSqw6upyXGu142QjtdAfrMVMDn2DjS5Ka37_U1G91KRz1GRWg/tQiTQ5JnIMDu8FvNoJCX9NLmANwO-bmYxlQP4Kxua0I",
+                  "background": {
+                        "type": "image",
+                        "color": "#ffffff",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/PZBgVFjqorpQLUQN8Vuj9A/8Fe724WNf1jNqLnYzQTfCuxeEOyPDQIUasxeoJLTnU0B-9kaYUs9lGumtyt8buo6e8Q4d_iPb_qctbw-mhbZNefup2BXrpGYrp1uSlG_8okVDsMrBdZxdOXwQLd8YA-KfmGRaatc3uXShKfOjWxvNQ/4k8XJsr4xYQqb5KalPq3s5_gNnjdoPXI2Fk6XeO5q1g"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#dc8add",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#dc8add",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "reccEhEip54tdslFu",
+                  "slug": "pixl",
+                  "name": "Pixl",
+                  "description": "Create hardware and software sidequests in an open world, earn unique prizes along the way!",
+                  "url": "https://pixl.hackclub.com/",
+                  "status": "ongoing",
+                  "startDate": "2026-08-18",
+                  "endDate": "2026-12-31",
+                  "announcedAt": "2026-07-29T15:17:42.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Electronics",
+                        "Software"
+                  ],
+                  "slackChannel": "pixl",
+                  "slackUrl": "https://hackclub.slack.com/channels/pixl",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/mHAM6rpTuOgQ8gNLQ96VfQ/WqDB3AqjJz7Bu83QaPbsMw6WI4-dkGOPi1TspPRGc-9rmk83NneHJxeHLLx2lgnatWOZSh-dDCRL3guiuSeRqZstsek_FhRyYnyTeg6WDvZ40q7ywDtEqDt8nbT4ZfwnVgKRyzC9OZlMRGxydE_R3A/qgw4RmQD5So2EQaQIiZlPU0WtAMc5Wx27olwSKMwuyw",
+                  "background": {
+                        "type": "color",
+                        "color": "#f5eed2",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/Kq9eOCzdhe3VGtHuvka6Gg/MBWiZafDxf-_y0Ogjsz3c6nzq-HGRx-9m_mSdTPsAwnsZ6E2pXkno3YUFkEuZei8OFsyvbViCEgp7kAo3aWQyAJLC902wGXlAGh0CuGDBLlV0G9gJlywTPMB3PKA1VS292czQXagx4zRfCTN5KO65g/YNDUFbuUI6MG6YG5e4-sI1XQkGvO3rCPIePMH8G-FLY"
+                  },
+                  "theme": {
+                        "text": "#000000",
+                        "accent": "#d99a1f",
+                        "logoSize": 110,
+                        "button": {
+                              "color": "#d99a1f",
+                              "textColor": "#ffffff",
+                              "borderRadius": 4,
+                              "borderWidth": 2,
+                              "borderColor": "#1d1610"
+                        }
+                  }
+            },
+            {
+                  "id": "recA2JkklCDLyH73d",
+                  "slug": "forge",
+                  "name": "Forge",
+                  "description": "Design and build hardware projects - get funding and a ticket to Hackaday Supercon 2026",
+                  "url": "https://forge.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-08-11",
+                  "endDate": "2026-11-30",
+                  "announcedAt": "2026-03-24T03:07:25.000Z",
+                  "format": null,
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Electronics",
+                        "CAD"
+                  ],
+                  "slackChannel": "forge",
+                  "slackUrl": "https://hackclub.slack.com/channels/forge",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/YRSfMLRPDg7YGUJsTCeBOA/7UB7lpiFPwHku2lqKRM2DFLkW_dI5R0bBuOA-7q6y42HDn851a87-IUpCN4bW4TqXfmG3c_QuE5QPr-6lnfw8XA-Azps1rR2bF-1V76hC3wAePtSm9Bl-mkhfUysiW6nyJOxrJvEotazO2TRx8fpQQ/KTMZZu_weT9gsSE9vYmepGIHcfSfAILFEeCd3tIisFo",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/eb1qhU20wv1ShLYpTqAg5g/roiTNF1TYRNNq_GGG101dlg0nYY4aSgn3537Qcb4YWZHGzGRQQqThcewJjFkAqlBXSuRgNa8wpw0q7pfgAOymCXD8GRKTcZSrIuSefuGcLAn_uhBlZswrQAIgXhu-uYdAHd4fzClB2lLRSHqs0QgoQ/7XijFnHGE9KTQ8EmfVP5fSRYEZV15eiTopLfY8F8h_g"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#CA5924",
+                        "logoSize": 57,
+                        "button": {
+                              "color": "#CA5924",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recTqXI9ZmsI2Q8Tq",
+                  "slug": "coral",
+                  "name": "Coral",
+                  "description": "Create a project, earn shells, and camp out on a beach in Australia!",
+                  "url": "https://coral.hackclub.com?ref=programs",
+                  "status": "ongoing",
+                  "startDate": "2026-08-10",
+                  "endDate": "2027-02-28",
+                  "announcedAt": "2026-08-21T14:45:41.000Z",
+                  "format": "both",
+                  "inPerson": {
+                        "start": "2026-09-30",
+                        "end": "2027-01-30",
+                        "location": "Melbourne, Australia"
+                  },
+                  "projectTypes": [
+                        "Other",
+                        "Websites",
+                        "Software",
+                        "Electronics"
+                  ],
+                  "slackChannel": "coral",
+                  "slackUrl": "https://hackclub.slack.com/channels/coral",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/XrwUY2-H_QnN_awJxWDpVQ/LHr0bkZlEQXT-PPuIjtWU9fIyK2bnS7UcfkIWWIsq_fSyCv-2PtZLPJApvaLmPgzecrBrUbTByg4X4l5QpmeAloOt3XX80ONApScY-P27MTsxOSPevoMPFSQIaIlnMNVYk5XdL_94tq9znAK1yQaMw/c--eVXttHp5HRtdnggEAQWZNKxSLGb3euEtEokQ-BiU",
+                  "background": {
+                        "type": "color",
+                        "color": "#F9F1E6",
+                        "imageUrl": null
+                  },
+                  "theme": {
+                        "text": "#000000",
+                        "accent": "#f00000",
+                        "logoSize": 48,
+                        "button": {
+                              "color": "#f00000",
+                              "textColor": "#ffffff",
+                              "borderRadius": 20,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "reccvcg8xwa04ntOH",
+                  "slug": "phantom",
+                  "name": "Phantom",
+                  "description": "Build creative projects for 50 hours, then fly to an escape room hackathon in Philadelphia",
+                  "url": "https://phantom.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-08-09",
+                  "endDate": "2027-03-12",
+                  "announcedAt": "2026-08-19T17:58:21.000Z",
+                  "format": "both",
+                  "inPerson": {
+                        "start": null,
+                        "end": null,
+                        "location": "Philadelphia, PA"
+                  },
+                  "projectTypes": [
+                        "Other",
+                        "Electronics",
+                        "Websites",
+                        "Software",
+                        "Gamedev",
+                        "CAD"
+                  ],
+                  "slackChannel": "phantom",
+                  "slackUrl": "https://hackclub.slack.com/channels/phantom",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/REgM9NiX-jAnuxzdTYIlmQ/J0qxQ8q8SxT489MCz6i4kORStEhbdY_f_McXdcba6l2bzgHYHy4xlT3KDEEQIynYseEtvdjQaHTAw7t-FWd3w1jd2tHLdeky6ujtw5DdlT5ZNMZQHdM4igzbrlynom8UbPe0O89sMbkRpKUiqtN9zg/8os4v2YqEI4SFSaNGNaB_WC8AqpbhLwXEZpUKVh4-yo",
+                  "background": {
+                        "type": "image",
+                        "color": "#ffffff",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/C78HyRxVp8Cbt-U0B4j0ew/trm6aNd9CBvjYXaujju81YIDIpQ6KZ7sqmdSsCenNA3vL5OnScpRfJKe2Ym-IorvL7ecsZ0f-ZyWs78JDUescQYWFs_ttlsXK_j-GHEVBBFLyYxa2LvhpvulYMwb7r3TMYMuBh6NkonhrQ62gvL7aQ/ekbnzFp-bk8rbYhjFZhKh9fqkzaDGfFvVAZQCsx41DE"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#ec3750",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#dcdad6",
+                              "textColor": "#000000",
+                              "borderRadius": 10,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recGbfov976IrojBD",
+                  "slug": "club-shop",
+                  "name": "Club Shop",
+                  "description": "Don't run your programming club alone, make it a Hack Club! \nRun workshops, ship projects, get rewards with friends for free!",
+                  "url": "https://clubs.hackclub.com/",
+                  "status": "ongoing",
+                  "startDate": "2026-08-07",
+                  "endDate": null,
+                  "announcedAt": "2026-07-06T18:34:52.000Z",
+                  "format": "in-person",
+                  "inPerson": {
+                        "start": null,
+                        "end": null,
+                        "location": "Your Local Club!"
+                  },
+                  "projectTypes": [
+                        "Other",
+                        "CAD",
+                        "Gamedev",
+                        "Software",
+                        "Websites",
+                        "Electronics"
+                  ],
+                  "slackChannel": "leaders",
+                  "slackUrl": "https://hackclub.slack.com/channels/leaders",
+                  "requirements": "Only for Hack Clubs, start one today or convert and existing computer science club",
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/trUFTyu_SFFczUW_AIoIMA/Lmgqh3GiRwVs9kH-VzfQux8fibP-dY5Z9vOfgXOMElL9RCKvixIkboKeTYLfo4tMHop5kAK_o0bgrnp7b8LHqjVexEp29BnDaW_mKBICPAshM59EC5PJroPxTWzXq-bGz1zFXMRoqrl4gtJ52VpXOA/SyioUk8H3RZn6E9owM2QDOeSZNI_YZVxMZOQCPfdUbE",
+                  "background": {
+                        "type": "image",
+                        "color": "radial-gradient(1200px 500px at 50% -15%, rgb(242, 114, 127), rgb(0, 0, 0))",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/rOQDp3bvddXWewclHSmArA/gc49dj0-_n66DmmVStjK0yvOuJbvh3lkHmX-E8fBM7_A5eVea46DbXvh3N1k9mMn_Utzjb40nuf3xZP8c_PubONgZ-z-rMm7ThBQ-ExORGbCBcQuoLiyt2x-Xbz_xxYiCJdT0Plhidmnyu_yZw6gzQ/smeTBsNORTSEOHK_IahZY-AHhCBfyVt7-p9iJifqzkY"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#844349",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#844349",
+                              "textColor": "#ffffff",
+                              "borderRadius": 10,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "rec3js5RbH8Yqw5XE",
+                  "slug": "cloudfall",
+                  "name": "CloudFALL",
+                  "description": "Stop wasting money and build the cloud yourself",
+                  "url": "https://cloudfall.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-08-05",
+                  "endDate": "2026-11-05",
+                  "announcedAt": "2026-08-05T07:21:11.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Software",
+                        "Websites"
+                  ],
+                  "slackChannel": "ysws-cloudfall",
+                  "slackUrl": "https://hackclub.slack.com/channels/ysws-cloudfall",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/I028wexesJnlDePSoZAlWw/SFDcDU2qYVW_osDNhs91pTSTtMeWIKo5EHx-z5uJPAZnw_R8NMCZGgDDoCsg2hK5iYPDdcL2hobeOQ4t4hKDFJLCq14zEXnLkMMjYQA3OT5w1-W8NYpbn-qKFVGcerZTLOVi1ZnZMkdZhPRYv5p9JA/y7XAM0IzIU1wHjvSGajkCFYpYxKwskNrDVhsBevQVuo",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/xsB9ZuFAM2Ph3T_NBmicQw/Cjuf2QnYtasfs8DV5nWAD0Xbhxp5Qcq-nRhh6cgi78BezWuGnCJbQlScDWqNTS3b91RwAprdPtuaFeuClqY1ygiy8l-Cl71w3ltWYhdt3mqnIpF4PFZD59XKSRf1h9sOxZ7xr_onnuFBMZriyWFnNQ/CFPHJ7AjAWMpuFFx6ZbhV0yGvevnR_bMfV5O1eM27j8"
+                  },
+                  "theme": {
+                        "text": "#000000",
+                        "accent": "#ec3750",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#75ddff",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recRgiNUt71wfH9NF",
+                  "slug": "re-dream",
+                  "name": "Re-Dream",
+                  "description": "Make your dream game come to life!",
+                  "url": "https://re-dream.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-07-17",
+                  "endDate": null,
+                  "announcedAt": "2026-07-10T18:50:52.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Gamedev"
+                  ],
+                  "slackChannel": "re-dream",
+                  "slackUrl": "https://hackclub.slack.com/channels/re-dream",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/AZU_15X-BwZqgVs9XD9AFg/BO5B7jvH31o_P8S8Lezpg_bjNApEm7jGBUD5zUNaXOKpe6yNBW87d0pvq2uqBcilgqjT2e75C3jVP28ggKzirx8Tq1NTv9cB-_G98uRLkHZIL8a_H6LlrUR5ZLvtQtaXgPe5koz3bLVBfjIdHLCPbA/Akjx5-Tdwz-SV-ocRtq-F8NMIgesziENbC8Cq0aR6q4",
+                  "background": {
+                        "type": "image",
+                        "color": "#000005",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/kYft42CRPun-C2xakxtXgg/JnaxjicoQp5vNESn1R5rq6eKSAlfzMd3VQELeRoBrsYMUVBPLxk2a05DzN5qtx43C3uC7YILEzXV9H7t6zf-3g60TnSqsn9b26QZKffNKOJQ5ytY6Jaz6T0sKwxku7o_jYtIeXSQdyLk0iWV7w2XVQ/Jac_vTrx0M1FJI5PWS_utr3OMObQXa5kCjhQUyxZvmk"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#e1d8ff",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#e1d8ff",
+                              "textColor": "#000000",
+                              "borderRadius": 20,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recGrpHBL5sKls5nz",
+                  "slug": "stardance",
+                  "name": "Stardance",
+                  "description": "The largest STEM event of the summer: make anything you want and earn free prizes. In partnership with NASA, AMD, and GitHub.",
+                  "url": "https://stardance.hackclub.com/program_page",
+                  "status": "ongoing",
+                  "startDate": "2026-05-30",
+                  "endDate": "2026-10-31",
+                  "announcedAt": "2026-05-21T19:43:29.000Z",
+                  "format": "both",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Electronics",
+                        "Websites",
+                        "Software",
+                        "Gamedev",
+                        "CAD",
+                        "Other"
+                  ],
+                  "slackChannel": "stardance",
+                  "slackUrl": "https://hackclub.slack.com/channels/stardance",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/AS_6MDmTG2tFKZR4GXX_bA/tZFJf777nMP9wEW4v-Wa2J-SzRPob74c5lSfhNtq3VLNgDld9QMqls25IsGiQBZbsC0sZZDM4wKv11PIN-77GbZJEmuXK7AeZxFYktVcoOW1vrPDcFjCE159VMHvGWpl8buffyVzBAlEirGxxLrESA/MAI5SPrvlrOytLAFg7RsvjlNFtFDqKxzvXkoFmv7gFI",
+                  "background": {
+                        "type": "image",
+                        "color": "#ffffff",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/Sr9M9p7JuKrQk6VnI1AifA/yB5Xx6RaKZCZggi5RFjCTwGNTrIeBI9up0y4-rGKXXZ33uZH4JBlBMv88S6cyPDEkPY2_GD0KCaUvWiv4UX-RHqpIqNfLW1-kEsACUXKJkYJGaud5CDdoMVxrsvaLSiFhIdJ1VdKunv6hckRUjMrMQ/sRaW7_tjPWHNGHPhpsubg2Z6M3sFXv26mNAQwnOnNDk"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#FFE564",
+                        "logoSize": 93,
+                        "button": {
+                              "color": "#F7EDB8",
+                              "textColor": "#1A1608",
+                              "borderRadius": 7,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recXHambOhVVD95X5",
+                  "slug": "flavorless",
+                  "name": "flavorless",
+                  "description": "Build a functional website without any CSS and show off your unique style!",
+                  "url": "https://flavorless.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-05-01",
+                  "endDate": "2027-07-02",
+                  "announcedAt": "2026-01-26T20:31:17.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Websites"
+                  ],
+                  "slackChannel": "flavorless",
+                  "slackUrl": "https://hackclub.slack.com/channels/flavorless",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/5pKpqGEH_wimfePhDM0uSg/9-5LDqJEOAPMD6Lep6V7NnNJ18d-EYlmuN3JzC5IqYjpwxv1htvrQhh2AukUvlv_dts7PNNk2xZcn0uAcQGOYQOQJmZz6Qxl7mvpzxwGfjp5RNiwmpf6DSqAcydXeF27wc3suXofRyqO28Sj1XKSmA/9AgaTQhmxsiE_MDK4nZAkjFogZY9aLb4-rPB_4jjOZU",
+                  "background": {
+                        "type": "color",
+                        "color": "#ffffff",
+                        "imageUrl": null
+                  },
+                  "theme": {
+                        "text": "#17171d",
+                        "accent": "#ec3750",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#ec3750",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "rec3X8pFTzOoKhBfx",
+                  "slug": "vibes",
+                  "name": "Vibes",
+                  "description": "Build a website with good vibes (and a little help from AI) and throw a club pizza party!",
+                  "url": "https://vibes.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-02-05",
+                  "endDate": null,
+                  "announcedAt": "2026-02-10T18:34:08.000Z",
+                  "format": null,
+                  "inPerson": null,
+                  "projectTypes": [],
+                  "slackChannel": "vibes",
+                  "slackUrl": "https://hackclub.slack.com/channels/vibes",
+                  "requirements": "Clubs only",
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/X02a_y8yBVSBrqeNls1CLg/y6vDp8j58ATdX8ghYH41hzRXjs-XSAZDcWqsv2TURfPc2bWf4mmmHHPpuyoW2z5lmfLGJpODAqLyD9WY5MPxyUXDlMZ_1MEakO37hUi41QSb2V7GQRSO6Mt5VgG1aG04fNmoOaw9IiVElIry216wyw/03brpmkww58W81mQ3D1GZ-L5I0AEuT5BCHFwnSZ98EI",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/Rr9kH4N5uY0IMN4XvXkJUg/3_M_7BSV7f1E7bdSDDvsHp1LqN-TYz18B7jqhhAuv63uyQb4p6QnIQOk0lqWpq-UscWz5AYoU84Dtxe_a_muDVHon0SCZNVbKUmg7H-v_6newbPwJfSvy-PNgB-TKhgOskpaaVvtpwKBwIbgrLXi9A/PahC7mdCsdd4KNp57uBa4YrIa9VYV1xhuw2VCTZhmKA"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#ec3750",
+                        "logoSize": 48,
+                        "button": {
+                              "color": "#ec3750",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recztdSQknAhw5LTu",
+                  "slug": "fusering",
+                  "name": "FuseRing",
+                  "description": "Design a keyring and get your creation plus a carabiner to hang it!",
+                  "url": "https://fusering.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2025-08-20",
+                  "endDate": null,
+                  "announcedAt": "2025-08-15T17:06:54.000Z",
+                  "format": "both",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "CAD"
+                  ],
+                  "slackChannel": "fusering",
+                  "slackUrl": "https://hackclub.slack.com/channels/fusering",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/TTYREoq6w0y0pybaXiblrg/Ju6fXbRCws6O4Twso5dwRi4vrtD94YjeFORHSmiy04IpI9eLe8MTpLvtXn9Aik9BXANtJEUjKdWlqqLuzxDsd7kZSvUACtSGKLbaAsAkW0KbHm0pHaT3GI-XKujJBoQfOCKtwYOYz_-p7lSL_91Oww/G48B_Y4V35HhIKxrtbrWqZ5vIiRXxFeTyo1833l08GI",
+                  "background": {
+                        "type": "image",
+                        "color": "#ffffff",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/pQAWKwGRaTsVhcDb7EVgKA/-ibFZpokV0Qhyz9odCx4pkZlj13wzYmDgGr2_hfYmcow3izp6pazAQg-kL-RQsUHOwK9ZyEISNpx97rQRd6ml34tZTRMEjj6ncbDQ4LAaGvsoo0_Y9QsMneiD9yKAlNLHFmYvI-p35IG6XRy-q2qMA/gr8Yq4-YFh3WIWo8zCaIZf1kTvIu0TZNghLshKBO1Rs"
+                  },
+                  "theme": {
+                        "text": "#faf5f7",
+                        "accent": "#FC9C59",
+                        "logoSize": 96,
+                        "button": {
+                              "color": "#FC9C59",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "rec06Z5m1dWOWcW5g",
+                  "slug": "waffles",
+                  "name": "Waffles",
+                  "description": "Build, ship, eat (waffles).",
+                  "url": "https://waffles.hackclub.com/",
+                  "status": "ongoing",
+                  "startDate": "2025-07-13",
+                  "endDate": null,
+                  "announcedAt": "2025-06-11T14:08:32.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Websites"
+                  ],
+                  "slackChannel": "waffles",
+                  "slackUrl": "https://hackclub.slack.com/channels/waffles",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/UwQLEQhFObU4xvfqT-4ghQ/1OD4r1aOZjEXmVpFSTnZ-ZxuaMxIdiC1uB6orPjqLnbSMxdrMHnJd1-5X5KojU-xN0ZpGjrRv-QUhtKWiaRAZxjM3DxeVaiHkKxhvZmCJr9xRldcLbrYj7tuiNmz1Diil7bMALm9RoiZ07Eqqemgzg/dsen_cVmlOYar5dCh54zO5UdnjLaS5M54oTQ6I8FR-A",
+                  "background": {
+                        "type": "color",
+                        "color": "#fff8e7",
+                        "imageUrl": null
+                  },
+                  "theme": {
+                        "text": "var(--foreground)",
+                        "accent": "#8b4513",
+                        "logoSize": 54,
+                        "button": {
+                              "color": "#8b4513",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "rec3EIEpDyQ7CVAD8",
+                  "slug": "toppings",
+                  "name": "Toppings",
+                  "description": "Add more CSS to your site, get toppings",
+                  "url": "https://toppings.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2025-05-06",
+                  "endDate": null,
+                  "announcedAt": "2025-04-30T18:01:42.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Websites"
+                  ],
+                  "slackChannel": "toppings",
+                  "slackUrl": "https://hackclub.slack.com/channels/toppings",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/E5XX_TZKS5gDZvJxJmoKUA/WWLqOMJwdGrv-Vw_E2dDqGZ8pxvveVn4SOdIfvDXqg0h7ygGfd2N-l244Flu4dbMex0aTZw0LfxSsl_fSn6Slunfw2VxPJK3--GdUFt8zWUXcoQT_GM6FtkmRQ1PRXmuyO7dQy29JRYrS1FzBXJDMw/JrjCoopvxGqonaUJCbRbev-aDL9MmbDmDoLwEmptQ64",
+                  "background": {
+                        "type": "color",
+                        "color": "#b0d2ff",
+                        "imageUrl": null
+                  },
+                  "theme": {
+                        "text": "var(--foreground)",
+                        "accent": "#fe6da2",
+                        "logoSize": 82,
+                        "button": {
+                              "color": "#fe6da2",
+                              "textColor": "#ffffff",
+                              "borderRadius": 8,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "rec1Ol3PIQCvbriVj",
+                  "slug": "swirl",
+                  "name": "Swirl",
+                  "description": "Build a Website Get Free Ice Cream!",
+                  "url": "https://swirl.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2025-03-27",
+                  "endDate": null,
+                  "announcedAt": "2025-03-15T18:20:29.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Websites"
+                  ],
+                  "slackChannel": "swirl",
+                  "slackUrl": "https://hackclub.slack.com/channels/swirl",
+                  "requirements": "Clubs only",
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/Zpb7_j_iwHc959nZmcR5mw/XJ634zv-hR3RJzMBHs79pAPqxIwVqjmqbJh_ftsNXW8ktvJ-pC2RyBn3Uj7XEA9DUwwJKKdiefEiMXErESBR5QzoOnhH1K-OyOnKpRRIczR0W06BXU-8Jq6XY74xhYsuktP0H89sL8PTReJxrLpTwQ/M79bENZTbIrGfbJFu3UeSQKf4qrS60XQEidkCDGhTfg",
+                  "background": {
+                        "type": "color",
+                        "color": "#fee89d",
+                        "imageUrl": null
+                  },
+                  "theme": {
+                        "text": "var(--foreground)",
+                        "accent": "#ec3750",
+                        "logoSize": 67,
+                        "button": {
+                              "color": "#ec3750",
+                              "textColor": "#ffffff",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "reck8PI9qm56lEOOQ",
+                  "slug": "bakebuild",
+                  "name": "BakeBuild",
+                  "description": "Create a CAD model of a cookie cutter and get a 3D printed version plus cookies!",
+                  "url": "https://bakebuild.hackclub.com/",
+                  "status": "ongoing",
+                  "startDate": "2025-01-10",
+                  "endDate": null,
+                  "announcedAt": "2024-12-03T15:07:40.000Z",
+                  "format": "both",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "CAD"
+                  ],
+                  "slackChannel": "bakebuild",
+                  "slackUrl": "https://hackclub.slack.com/channels/bakebuild",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/VbQ271NClDz6lIxiVWWFsw/Kmi3vNObTeCAWe66tL6CG4SQLjhuCcXVO5WkdQjSJG2Jygf-i473IUSVvpXaJ9WcsaW4c_a7IjIBcaWq0Ndqit3k93-VdNid70GK8LwMrExIwRo2j9GzoQqNQtBOLNWN4FO4upbucrNlINMiR9rElA/LH0KbUPX48kSuR3HUlQIBC4Gmlmw5Rzhu5H88cCOKOs",
+                  "background": {
+                        "type": "color",
+                        "color": "#A3CAD9",
+                        "imageUrl": null
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#2F2B63",
+                        "logoSize": 120,
+                        "button": {
+                              "color": "#2F2B63",
+                              "textColor": "#ffffff",
+                              "borderRadius": 20,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            },
+            {
+                  "id": "recE2drMuGXUWJi3L",
+                  "slug": "hackcraft-mod-edition",
+                  "name": "Hackcraft Mod Edition",
+                  "description": "Create a Minecraft mod, earn a free game and server hosting!",
+                  "url": "https://hackcraft.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2024-10-21",
+                  "endDate": "2026-12-31",
+                  "announcedAt": "2024-10-21T04:21:04.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Software",
+                        "Gamedev"
+                  ],
+                  "slackChannel": "mc-modding",
+                  "slackUrl": "https://hackclub.slack.com/channels/mc-modding",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/kAgx4Xk2hDQqPjk7OQKH3Q/zJT7AmTQKZWB-j2SYqUYbaUUO6HpdR8yORSJ5ai3QeeIMT_unZr92K2No8W2Tf8ee2fEz8U3gdKs25xG6G9QqKvWs_jkDM_r-BvKohu5ijx8UNu77Fvw9YzPOtv0BkW-CMv3gYF6xFQ7LDvBrcxmqg/f8IODGuX7Q0By1R9mKKZB7bpjHB8v9cfdUom27jtOQk",
+                  "background": {
+                        "type": "color",
+                        "color": "linear-gradient(to bottom right, #1e1f22, #000)",
+                        "imageUrl": null
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#47d009",
+                        "logoSize": 60,
+                        "button": {
+                              "color": "#31ae1f",
+                              "textColor": "#000000",
+                              "borderRadius": 4,
+                              "borderWidth": 2,
+                              "borderColor": "#1e8c03"
+                        }
+                  }
+            },
+            {
+                  "id": "rec0qFHAlOpZPuMFV",
+                  "slug": "boba-drops",
+                  "name": "Boba Drops",
+                  "description": "Build a personal website, earn $5 for boba!",
+                  "url": "https://boba.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2024-04-14",
+                  "endDate": null,
+                  "announcedAt": "2024-04-17T14:18:36.000Z",
+                  "format": "both",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Websites"
+                  ],
+                  "slackChannel": "boba",
+                  "slackUrl": "https://hackclub.slack.com/channels/boba",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/xkOL_rE-KzfxWbh7OGBEqg/qybPxGvmbJ0-eHTjtkFGtgumFbl-WndGFFUT7u70-n9gg30KuNHHv-wcwV6Ls1wVU-Ll2FY7yce3PqDVv_GUdr9TfaxEv0qjkWIYCjr4y85FMfuNj9ZdJ2y94Ue1YUBIa8A498Hac8H730Yd6KgdMA/6lJH6yQ-AqeD5o5T4WHBgFbn1NxrpW5x8nKAeEGZFZQ",
+                  "background": {
+                        "type": "color",
+                        "color": "linear-gradient(to bottom right, #C76B0F, #A25404)",
+                        "imageUrl": null
+                  },
+                  "theme": {
+                        "text": "#F6D193",
+                        "accent": "#f59433",
+                        "logoSize": 86,
+                        "button": {
+                              "color": "#603101",
+                              "textColor": "#F6D193",
+                              "borderRadius": 44,
+                              "borderWidth": 0,
+                              "borderColor": "#603101"
+                        }
+                  }
+            },
+            {
+                  "id": "recfEBqFDf4NGjY4y",
+                  "slug": "sprig",
+                  "name": "Sprig",
+                  "description": "Build a JS game and play it on your own console!",
+                  "url": "https://sprig.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2022-07-14",
+                  "endDate": null,
+                  "announcedAt": "2024-04-11T16:30:11.000Z",
+                  "format": "both",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Gamedev"
+                  ],
+                  "slackChannel": "sprig",
+                  "slackUrl": "https://hackclub.slack.com/channels/sprig",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/KWCVTO-bWq9U68S2HSzvXg/fEA9r8OmGqRgn1H6-GHb_tlqDp_IUfbpxM8eqILHjmCKf-NLhnRMCLqu6TgSIT5qaDWCvr5zQ7XAkrw-gBLK6LBNyNG7yZUspyFgpBja2mm6dTjT466_9N4S9-URdvMZEYII9_yXM-81E8MHuCkHGw/kEcmEQ_N9r2QAqwd5VMIWIQUGczvaURVbCj5t-4g9jE",
+                  "background": {
+                        "type": "image",
+                        "color": "#030307",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793131200000/4W1ypKoKdMX2RamEG_lM2g/m6yhv2sIohI12ggZEk7ac352ok7XS0PT1Y4ECIi-Q5frYoLE3_vtpSDl8ivK6sdmV24EUYNLT7GY90fc7HkuCwIvkE002BRpQ6vvwxp7lB3nPaWOtOPK5NSpsVTAFTG9WvryxNM_sg_NuvsdXqc6zA/5h-2WDafvE1L9zjaszzsvzKUV88jyBIel8ib_M6Inqw"
+                  },
+                  "theme": {
+                        "text": "#ffffff",
+                        "accent": "#0a0a16",
+                        "logoSize": 88,
+                        "button": {
+                              "color": "#ecb622",
+                              "textColor": "#ffffff",
+                              "borderRadius": 20,
+                              "borderWidth": 0,
+                              "borderColor": "#17171d"
+                        }
+                  }
+            }
+      ],
+      "meta": {
+            "count": 52,
+            "generatedAt": "2026-10-27T16:51:01.738Z"
+      }
+}

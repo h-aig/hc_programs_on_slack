@@ -1,0 +1,38 @@
+{
+                  "id": "recK1bOJHLXE0c3Iq",
+                  "slug": "frame",
+                  "name": "frame",
+                  "description": "build anything, track your hours, and we print your project as a real polaroid.",
+                  "url": "https://frame.hackclub.com",
+                  "status": "ongoing",
+                  "startDate": "2026-10-16",
+                  "endDate": "2026-10-31",
+                  "announcedAt": "2026-10-16T22:07:29.000Z",
+                  "format": "online",
+                  "inPerson": null,
+                  "projectTypes": [
+                        "Software"
+                  ],
+                  "slackChannel": "frame",
+                  "slackUrl": "https://hackclub.slack.com/channels/frame",
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793044800000/hO_K9uV6-zonAx_68142fw/85NY41m67UaOrQ7w9AyyTTmxQpQiwfukBNaV-gmOGnnev-sp96Hd37Z31VupFAeT00qWz42ueN99n_jk5-a7N5hBV2jRVntsbv2yDsvUZWQCj4Q0NIBftyuUCx1QAhad5EKWpBmuCMJFTjrjiWUqXQ/axiDcqL8k_aatjt5ICeSYo6zEJosmv-bw-__yUJ6hxA",
+                  "background": {
+                        "type": "image",
+                        "color": "var(--surface)",
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793044800000/PktUDkwZErvrOmzI9l3sMg/pFpaoVHkMPrf1WAtfedjbgA8_URR-G9KFnJMUDU1jRbTC8SuNpgncVsgFHpQjI6ZHtEQiyPcQo7Oz3oUpLp4SXFMvckspL4YJbJ-bNycfOQ2Mu4rKNteoLV8cl5qg2AIaI_iFmCQFNpQsdzYqPZicw/30D5hkVtOfMaAQvT0eDGxEx8hJSxJnabJT1701ZB6pY"
+                  },
+                  "theme": {
+                        "text": "var(--foreground)",
+                        "accent": "#ec3750",
+                        "logoSize": 66,
+                        "button": {
+                              "color": "#FFFFFF",
+                              "textColor": "#17171D",
+                              "borderRadius": 44,
+                              "borderWidth": 4,
+                              "borderColor": "#17171D"
+                        }
+                  }
+            },

@@ -1,0 +1,29 @@
+{
+      "data": [
+            {
+                  "id": "recwCVkYneF7oU9Ae",
+                  "slug": "wonders",
+                  "name": "Wonders",
+                  "description": null,
+                  "url": "https://wonders.hackclub.com",
+                  "status": "upcoming",
+                  "startDate": "2027-01-01",
+                  "endDate": "2027-03-01",
+                  "announcedAt": "2026-10-22T00:21:40.000Z",
+                  "format": null,
+                  "inPerson": null,
+                  "projectTypes": [],
+                  "slackChannel": null,
+                  "slackUrl": null,
+                  "requirements": null,
+                  "pinned": false,
+                  "logoUrl": null,
+                  "background": null,
+                  "theme": null
+            }
+      ],
+      "meta": {
+            "count": 1,
+            "generatedAt": "2026-10-27T16:51:24.378Z"
+      }
+}
