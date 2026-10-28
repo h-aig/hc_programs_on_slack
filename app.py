@@ -1,3 +1,5 @@
+# TODO move these todos to linear
+# TODO move into carousels to look nice. each can contain 10 cards, before you would need a new one. see carouselpayload.json
 # TODO DELETE non-tiled images once done with pillows centering
 # TODO will need to find a way to update the files every day on a schedule: cron job?
  #TODO LITERALLY THE SAME AS ABOVE? MAYBE JUST CHECK IF ALL FILES ARE THERE ^^ #TODO make sure all the meta stuff is there, and by all i mean literally just how many of each is running. eg if only ongoing (selected) is default it says 53 programs, if ongoing and upcoming it says 54 programs; 53 ongoing, 1 upcoming etc.
@@ -6,7 +8,17 @@
 # TODO ADD FILE NUKING EVERY TIME THIS IS RUN BECAUSE I'M LAZY AND CBA WITH PARTIAL UPDATES? MIGHT NEED TO USE ID TO DETECT RATHER THAN SLUG
 # TODO STICK ALL THE FILE GRABBING AND WHATNOT IN HERE
 # TODO FIGURE OUT HOW TO HANDLE MOVING FROM ONGOING -> ENDED FOR EXAMPLE. OR JUST BE LAZY AND REGRAB EVERYTHING EVERY TIME. I DON'T CARE.
-
+# TODO judge if i need the import error from pillow (probs not as it's a subclass of oserror)
+# TODO make button colour reactive to the primary logo color-- just analyse with pillow then change
+# TODO filters and search at top, pinned items go at the top (limit to 1?) then rest in carousel. check different types of searches-- can i store all events?
+# TODO ability to dismiss any pinned items and hide under a menu
+# TODO add ability to favorite events with a button and add to another carousel at the top.
+# TODO pinned item at the top with width-spanning banner
+# TODO only render selected events
+# TODO implement everything from the page itself
+# TODO have i said refactor?
+# TODO at first just load ongoing
+# TODO numbers makes no sense in the for loop
 import os
 import json
 import urllib.request
@@ -26,6 +38,9 @@ shutil.rmtree("ended")
 os.mkdir("upcoming")
 os.mkdir("ongoing")
 os.mkdir("ended")
+
+os.remove("blocks.json")
+with open("blocks.json", "w") as f: pass # create file and close when done
 
 def downloadItem(directory, event, item, type):
     if item is not None:
@@ -89,12 +104,81 @@ for numbers in range(len(stati)): # for all possible stati... it will dump into 
         finally:
             print(f"{item['slug']} ({stati[numbers]}) resource download, completed!")
     
+    if numbers == 2: # TODO this is embarrassingly inefficient
+        with open("blocks.json", "a") as f:
+            l = '''{
+            "type": "card",
+            "block_id": "EVENT",
+            "title": {
+            "type": "mrkdwn",
+            "text": "EVENT",
+            "verbatim": false
+            },
+            "subtitle": {
+            "type": "mrkdwn",
+            "text": "Ends END_DATE"
+            "verbatim": false
+            },
+            "hero_image": {
+            "type": "image",
+            "image_url": "IMAGE_URL",
+            "alt_text": "EVENT logo"
+            },
+            "body": {
+            "type": "mrkdwn",
+            "text": "DESCRIPTION",
+            "verbatim": false
+            },
+            "actions": [
+            {
+            "type": "button",
+            "text": {
+            "type": "plain_text",
+            "text": "Go To Channel",
+            "emoji": false
+            },
+            "action_id": "ID",
+            "url": "SLACK_URL"
+            },
+            {
+            "type": "button",
+            "text": {
+            "type": "plain_text",
+           "text": "Start Now",
+            "emoji": false
+            },
+            "style": "primary",
+            "action_id": "SECONDID",
+            "url": "WEBSITE_URL"
+            }
+            ]
+            }'''
+
+            l = l.replace("EVENT", item["slug"])
+            l = l.replace("END_DATE", item["endDate"])
+            l = l.replace("IMAGE_URL", item["slug"]) # TODO
+            l = l.replace("DESCRIPTION", item["description"])
+            l = l.replace("SLACK_URL", item["slackUrl"])
+            l = l.replace("SECONDID", item["slug"]) # TODO
+            l = l.replace("WEBSITE_URL", item["url"])
+
+            finished = l + ","
+            f.write(finished)
+
+
+            
+
+
     event_storage.close() # close the file
 
 
 
 # initializes your app with your bot token and socket mode handler
 app = App(token=os.getenv("SLACK_BOT_TOKEN"))
+
+if __name__ == "__main__":
+    SocketModeHandler(app, os.getenv("SLACK_APP_TOKEN")).start()
+
 
 # the below example material is commented out for informative purposes
 #@app.message("hello") # listens to incoming messages that contain hello
@@ -122,9 +206,3 @@ app = App(token=os.getenv("SLACK_BOT_TOKEN"))
 #    say(f"<@{body['user']['id']}> clicked the button")
 
 # start app
-
-
-
-if __name__ == "__main__":
-    SocketModeHandler(app, os.getenv("SLACK_APP_TOKEN")).start()
-

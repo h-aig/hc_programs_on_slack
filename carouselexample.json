@@ -1,0 +1,349 @@
+{
+	"type": "home",
+	"blocks": [
+		{
+			"type": "carousel",
+			"elements": [
+				{
+					"type": "card",
+					"block_id": "stardance",
+					"title": {
+						"type": "mrkdwn",
+						"text": "Stardance",
+						"verbatim": false
+					},
+					"subtitle": {
+						"type": "mrkdwn",
+						"text": "Ends Oct 31",
+						"verbatim": false
+					},
+					"hero_image": {
+						"type": "image",
+						"image_url": "https://files.catbox.moe/how48l.webp",
+						"alt_text": "Sample hero image"
+					},
+					"body": {
+						"type": "mrkdwn",
+						"text": "The largest STEM event of the summer: make anything you want and earn free prizes. In partnership with NASA, AMD, and GitHub.",
+						"verbatim": false
+					},
+					"actions": [
+						{
+							"type": "button",
+							"text": {
+								"type": "plain_text",
+								"text": "Go To Channel",
+								"emoji": false
+							},
+							"action_id": "go_to_stardance_channel",
+							"url": "https://hackclub.slack.com/channels/stardance"
+						},
+						{
+							"type": "button",
+							"text": {
+								"type": "plain_text",
+								"text": "Start Now",
+								"emoji": false
+							},
+							"style": "primary",
+							"action_id": "start_stardance",
+							"url": "https://stardance.hackclub.com"
+						}
+					]
+				},
+				{
+					"type": "card",
+					"block_id": "carousel-card-2",
+					"icon": {
+						"type": "image",
+						"image_url": "https://picsum.photos/36/36",
+						"alt_text": "Icon"
+					},
+					"title": {
+						"type": "mrkdwn",
+						"text": "Sample Card Title",
+						"verbatim": false
+					},
+					"subtitle": {
+						"type": "mrkdwn",
+						"text": "This is a subtitle",
+						"verbatim": false
+					},
+					"hero_image": {
+						"type": "image",
+						"image_url": "https://picsum.photos/400/300",
+						"alt_text": "Sample hero image"
+					},
+					"body": {
+						"type": "mrkdwn",
+						"text": "Check out the latest updates to our project. We shipped new features this week and fixed several bugs reported by the team.",
+						"verbatim": false
+					},
+					"actions": [
+						{
+							"type": "button",
+							"text": {
+								"type": "plain_text",
+								"text": "Action Button",
+								"emoji": false
+							},
+							"action_id": "button_action_2"
+						}
+					]
+				},
+				{
+					"type": "card",
+					"block_id": "carousel-card-3",
+					"icon": {
+						"type": "image",
+						"image_url": "https://picsum.photos/36/36",
+						"alt_text": "Icon"
+					},
+					"title": {
+						"type": "mrkdwn",
+						"text": "Sample Card Title",
+						"verbatim": false
+					},
+					"subtitle": {
+						"type": "mrkdwn",
+						"text": "This is a subtitle",
+						"verbatim": false
+					},
+					"hero_image": {
+						"type": "image",
+						"image_url": "https://picsum.photos/400/300",
+						"alt_text": "Sample hero image"
+					},
+					"body": {
+						"type": "mrkdwn",
+						"text": "Check out the latest updates to our project. We shipped new features this week and fixed several bugs reported by the team.",
+						"verbatim": false
+					},
+					"actions": [
+						{
+							"type": "button",
+							"text": {
+								"type": "plain_text",
+								"text": "Action Button",
+								"emoji": false
+							},
+							"action_id": "button_action_3"
+						}
+					]
+				},
+				{
+					"type": "card",
+					"block_id": "carousel-card-4",
+					"icon": {
+						"type": "image",
+						"image_url": "https://picsum.photos/36/36",
+						"alt_text": "Icon"
+					},
+					"title": {
+						"type": "mrkdwn",
+						"text": "Sample Card Title",
+						"verbatim": false
+					},
+					"subtitle": {
+						"type": "mrkdwn",
+						"text": "This is a subtitle",
+						"verbatim": false
+					},
+					"hero_image": {
+						"type": "image",
+						"image_url": "https://picsum.photos/400/300",
+						"alt_text": "Sample hero image"
+					},
+					"body": {
+						"type": "mrkdwn",
+						"text": "Check out the latest updates to our project. We shipped new features this week and fixed several bugs reported by the team.",
+						"verbatim": false
+					},
+					"actions": [
+						{
+							"type": "button",
+							"text": {
+								"type": "plain_text",
+								"text": "Action Button",
+								"emoji": false
+							},
+							"action_id": "button_action_4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "carousel",
+			"elements": [
+				{
+					"type": "card",
+					"block_id": "stardance",
+					"title": {
+						"type": "mrkdwn",
+						"text": "Stardance",
+						"verbatim": false
+					},
+					"subtitle": {
+						"type": "mrkdwn",
+						"text": "Ends Oct 31",
+						"verbatim": false
+					},
+					"hero_image": {
+						"type": "image",
+						"image_url": "https://files.catbox.moe/how48l.webp",
+						"alt_text": "Sample hero image"
+					},
+					"body": {
+						"type": "mrkdwn",
+						"text": "The largest STEM event of the summer: make anything you want and earn free prizes. In partnership with NASA, AMD, and GitHub.",
+						"verbatim": false
+					},
+					"actions": [
+						{
+							"type": "button",
+							"text": {
+								"type": "plain_text",
+								"text": "Go To Channel",
+								"emoji": false
+							},
+							"action_id": "go_to_stardance_channel",
+							"url": "https://hackclub.slack.com/channels/stardance"
+						},
+						{
+							"type": "button",
+							"text": {
+								"type": "plain_text",
+								"text": "Start Now",
+								"emoji": false
+							},
+							"style": "primary",
+							"action_id": "start_stardance",
+							"url": "https://stardance.hackclub.com"
+						}
+					]
+				},
+				{
+					"type": "card",
+					"block_id": "carousel-card-2",
+					"icon": {
+						"type": "image",
+						"image_url": "https://picsum.photos/36/36",
+						"alt_text": "Icon"
+					},
+					"title": {
+						"type": "mrkdwn",
+						"text": "Sample Card Title",
+						"verbatim": false
+					},
+					"subtitle": {
+						"type": "mrkdwn",
+						"text": "This is a subtitle",
+						"verbatim": false
+					},
+					"hero_image": {
+						"type": "image",
+						"image_url": "https://picsum.photos/400/300",
+						"alt_text": "Sample hero image"
+					},
+					"body": {
+						"type": "mrkdwn",
+						"text": "Check out the latest updates to our project. We shipped new features this week and fixed several bugs reported by the team.",
+						"verbatim": false
+					},
+					"actions": [
+						{
+							"type": "button",
+							"text": {
+								"type": "plain_text",
+								"text": "Action Button",
+								"emoji": false
+							},
+							"action_id": "button_action_2"
+						}
+					]
+				},
+				{
+					"type": "card",
+					"block_id": "carousel-card-3",
+					"icon": {
+						"type": "image",
+						"image_url": "https://picsum.photos/36/36",
+						"alt_text": "Icon"
+					},
+					"title": {
+						"type": "mrkdwn",
+						"text": "Sample Card Title",
+						"verbatim": false
+					},
+					"subtitle": {
+						"type": "mrkdwn",
+						"text": "This is a subtitle",
+						"verbatim": false
+					},
+					"hero_image": {
+						"type": "image",
+						"image_url": "https://picsum.photos/400/300",
+						"alt_text": "Sample hero image"
+					},
+					"body": {
+						"type": "mrkdwn",
+						"text": "Check out the latest updates to our project. We shipped new features this week and fixed several bugs reported by the team.",
+						"verbatim": false
+					},
+					"actions": [
+						{
+							"type": "button",
+							"text": {
+								"type": "plain_text",
+								"text": "Action Button",
+								"emoji": false
+							},
+							"action_id": "button_action_3"
+						}
+					]
+				},
+				{
+					"type": "card",
+					"block_id": "carousel-card-4",
+					"icon": {
+						"type": "image",
+						"image_url": "https://picsum.photos/36/36",
+						"alt_text": "Icon"
+					},
+					"title": {
+						"type": "mrkdwn",
+						"text": "Sample Card Title",
+						"verbatim": false
+					},
+					"subtitle": {
+						"type": "mrkdwn",
+						"text": "This is a subtitle",
+						"verbatim": false
+					},
+					"hero_image": {
+						"type": "image",
+						"image_url": "https://picsum.photos/400/300",
+						"alt_text": "Sample hero image"
+					},
+					"body": {
+						"type": "mrkdwn",
+						"text": "Check out the latest updates to our project. We shipped new features this week and fixed several bugs reported by the team.",
+						"verbatim": false
+					},
+					"actions": [
+						{
+							"type": "button",
+							"text": {
+								"type": "plain_text",
+								"text": "Action Button",
+								"emoji": false
+							},
+							"action_id": "button_action_4"
+						}
+					]
+				}
+			]
+		}
+	]
+}
