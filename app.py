@@ -14,7 +14,7 @@ import requests
 import shutil
 from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
-from PIL import Image
+from PIL import Image, ImageOps, UnidentifiedImageError
 from dotenv import load_dotenv, dotenv_values
 load_dotenv()
 
@@ -69,18 +69,26 @@ for numbers in range(len(stati)): # for all possible stati... it will dump into 
                         pass
             except KeyError:
                 os.symlink('background_fallback.webp', f'{directory}/{item['slug']}_background.webp')
-            print(f"{item['slug']} ({stati[numbers]}) resource download, completed!")
         
-        tile_background = Image.open(f'{directory}/{item['slug']}_background.webp').convert("RGBA") # open image (background), .convert("RGBA") preserves transparrency
-        tile_logo = Image.open(f'{directory}/{item['slug']}_logo.webp').convert("RGBA") # open image (logo)
-        tile = tile_background.copy()
+        try:
+            tile_background = Image.open(f'{directory}/{item['slug']}_background.webp').convert("RGBA") # open image (background), .convert("RGBA") preserves transparrency
+            tile_logo = Image.open(f'{directory}/{item['slug']}_logo.webp').convert("RGBA") # open image (logo)
+            tile = tile_background.copy()
+        
+            logo_max_width = int(tile_background.width * 0.5) # logo can't be more than 50% of background 
+            logo_max_height = int(tile_background.height * 0.5) 
+            tile_logo = ImageOps.contain(tile_logo, (logo_max_width, logo_max_height)) # resize according to above
 
-        x = (tile_background.width - tile_logo.width) // 2 # prepare to center logo horizontally
-        y = (tile_background.height - tile_logo.height) // 2 # prepare to center logo horizontally
+            x = (tile_background.width - tile_logo.width) // 2 # prepare to center logo horizontally
+            y = (tile_background.height - tile_logo.height) // 2 # prepare to center logo horizontally
     
-        tile.paste(tile_logo, (x, y), tile_logo) # paste logo on background, centered. adding ,tile_logo uses it as the transparrency mask to keep it transparrent.
-        tile.save(f'{directory}/{item['slug']}_tile.webp')
-
+            tile.paste(tile_logo, (x, y), tile_logo) # paste logo on background, centered. adding ,tile_logo uses it as the transparrency mask to keep it transparrent.
+            tile.save(f'{directory}/{item['slug']}_tile.webp')
+        except (UnidentifiedImageError, OSError):
+            os.symlink('tile_fallback.webp', f'{directory}/{item['slug']}_tile.webp')
+        finally:
+            print(f"{item['slug']} ({stati[numbers]}) resource download, completed!")
+    
     event_storage.close() # close the file
 
 

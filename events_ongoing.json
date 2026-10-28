@@ -19,14 +19,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/SavePoint",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/D9hQLMsL8xyZmwD6CDBbEQ/tfUsKZpX5l6fSqe7-9U8q_10w-EQUuzhJfo44FVtpbIb7_GHGOoi2FRJ-YKa6tPX7V_v3F7xFooZGpjZ9CsmADkB_8lFyQ8f9uKhRIuZSNAMjmWAhzTCUNYeH3s4ChaBVayB6WWhnsd05RcMcF-KSA/7OFTC3Zrvxw9K4y07GWDcR6hhiZP-BRI8igVx3MpcBc",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/QJ6H8pm_BN2fZVqsrWsq9w/NIvGVt2yCyUtFrsuxYCbAlNmJ7XcBouVbUrj1eRmI6g30EnP7WUwMnkJMHrwbiu3Kez45YeIiUQCj9P_FYsz-uM4_YpiABjmoDh_99JQJy9rpEfyS3PZDnixIM6NeZcToOyOW1EsTfSHeeD4uBgggw/XqaCdplyZyBOAC1-al4YH5UL1rwKbldnv7Cw-R69SNk",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/T5mxUSTiyWwSiiOWkmxP6Q/KQIfA0W0QwyzmGZg3rx_sYCip1_vfy5gwAR_By944DGqdV1fjh49CeoUDGSoCGyqMcc0gMm9wc3ty_m1paxEO43qnuO1ZK-0EycJxy6tt2a8talYq5rKwCc57H48JacR_oTiRhwykBWQPyZpykQ5zQ/xbxMFIEGDvm5-ZTbsullTQKhV1X2AcHZknrA_ZwX034"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/n_ljY6r3GQMuioJQDpHyXg/zjO9ep9MP7mm_Y0I3trPaeu4GhBRhPvBYWg_KQm96p2BMMsS4LLyCltyVIaWcZi4PayeIRzzpdKS6dzxazB6NGZ9etKk9FLWiwdfT4ewjoC9CdplX4dwGCNbgSHhrKVY1ygTs6VStdwjt-qcmRvk6A/oj1vyaxafdfaVHnToRPo49NVl8Q-1qtR5BcRogeecEU"
                   },
                   "theme": {
                         "text": "#000000",
+                        "textShadow": false,
                         "accent": "#fffd00",
                         "logoSize": 112,
                         "button": {
@@ -58,7 +59,7 @@
                   "slackUrl": "https://hackclub.slack.com/channels/trmnt",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/sXcfAqo52RCv_hGqJw0ZJg/x-UDJXLS772l2GRwYTYoEPBeu67V7PS6EZP2NzRD9lzH18cZw0F4fOJtuQIxp7Tv4XNr0_2JotoUleDR6MLiweIsskuTfLpDtzxE5qO53Xt-HS48cBwuXK8cces60ui3flzroT2sivUa0duwI-c13g/86KxtN0H7SjddXqhR0gI6i_FqQ41LqKhrf8Y9xrSH4U",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/in5tTFx9aQBqkCqGMxuIHw/Pi4pCkWVzLogQDFF-3GmeydO-rB-bw4gr6_cLptkcras1I2joo3642OKOqekXbxsPZI51gxYAjg7ARAII2k-IvqNKlVpJrM2xKmelVdguzzC7wIBP4bBn6SOkzY-MCF8d7JVk7YDw0AQqdlZzvkkHw/OlSbiARsx4oqs1_EO-sXLui2tT7PwOTPpDxk8yEpk3s",
                   "background": {
                         "type": "color",
                         "color": "#452A27",
@@ -66,6 +67,7 @@
                   },
                   "theme": {
                         "text": "#f7f2ef",
+                        "textShadow": false,
                         "accent": "#f8654b",
                         "logoSize": 80,
                         "button": {
@@ -99,7 +101,7 @@
                   "slackUrl": "https://hackclub.slack.com/channels/contd",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/EhpMfYzvcXyxECIgEHJlkQ/VfALwMbLtqeAqGNNKSccCxqU00jARrL230EqOU6N5BywOvAH2UZ2gDJSCkLPx_rnxlPBc5B-R_ivvji2nQlCkpB3kIa2Pp3fiUvy7dcymseXcdm2UCqxHWutHUVYqnWuwnaGRhoPT5DKYQlgdkgv1w/wcPc7isdPoc1OZVbbbCGNBOAj-orTh6c8gjDefVXEaA",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/aJ83K5lSsDKEncpMUN02IA/NWlFvrrDAAcBtn4ES3BoEg38xi6_LVqUim_zq9__f1c4-SBLWo1KbMus-8SZcsHqzRmEZUKXDhsEgBkERFTI25l-Gsf5TOim185uLldHrlsv1LI5Xuy1Ldruz3LKmIqZHimxzQvYGVmD_Vy-_GOAsg/2lfkHMc17FpmWk4--O5BX844Qu0NWj2TeYIrqb9dHQA",
                   "background": {
                         "type": "color",
                         "color": "#000000",
@@ -107,6 +109,7 @@
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 120,
                         "button": {
@@ -137,7 +140,7 @@
                   "slackUrl": "https://hackclub.slack.com/channels/texel",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/4mfb4RjLtNQtMJS4V8_QTw/4l3yeZGrsHY26ASGqbivn6qD4fi_LKW3mjFpiuKm0VrFn5eziVDmyAZzFXDwTI4ewgUtInkLdpSbNCtoGrFIEtbi8VqoExYjhh4A4iT5bhOmost2dTj--wNEKrtsSo25rGYNYT7CeXfteWDvfNkm0g/P0PtxwI0j65rN0BxAl8MPyE1A655BbB8chSxCUKtp_Q",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/o_y6hqVmTR1WWKkMo9kOZA/sTjkrjxxdo2UA3T8hbvojp8TdGBXh_xutIkEKqKU49EJBjYsjvOVVXK1pjtXLZc6R7DunFeA3lHfX4lWtPVQAftmdDuYLpkpbqfAPcrHO2y6GAqzZyCMwFOLYEzB4ygUIB5_IbzCMVWkdFBjIA1pow/uwntQkGiN8ybE0GIeIGjDHl0ufS4xq5lhzasb_OfZiY",
                   "background": {
                         "type": "color",
                         "color": "#000000",
@@ -145,6 +148,7 @@
                   },
                   "theme": {
                         "text": "#ffae00",
+                        "textShadow": false,
                         "accent": "#ffae00",
                         "logoSize": 120,
                         "button": {
@@ -177,14 +181,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/fallen",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/SRF7_Oanlet7IC1FUXfVnA/e_n1XLB2kwQWTKz9OV617mobRuMt1yZ7KaeCApJV3MaL3DZpK1xmDokei7ghBZE9VpvHJAGarZlszTXunQ6YCM6xhWEiNBKsDNMBvZh3xG-4s2vcNXn09YbndlAAcF861E1dmBzi6iemYOluJ6Dwwg/weuHrUys9bn0b_aQZZlriItAZIDzmGfSAgXL3HiEALo",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/YhBnSXEq5mNse_Tw42YOuw/xe4ixP81KnRWVv742YFKxJB9TeClNplynzttz_05Ve4DmWjyptSSAvcY-aLO9-ZpYuy6y4xlsICQ-fVJ8oJ748S4Sxc_20K4HaeSt1G9qiCOLQgzZpzb48IVc5oipqw-uuBE5ExRSYiCpSBlzdkWkQ/wX_7Sbfp4yycTGUD6JkK-T6hHu03pRIK7vSxe3d6owM",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/6DBZFeZmNrE8H5I5FsvDhQ/q5WKg3axGr8t4wMrHpBf3XDkBpxqnjjJCv_KQCDEa_QipokRwqPoqQ94Kru95jD7zfPvc1x09k7yKkzGaMv5X3H3Ppj1nyn8UiV-vVKgloK1WDWfDs0bHBDGJx5DhQFhYW6Lmv_zLTZNfb-kQ56TkA/8CqUZhIQ-9ivg4GyYfvhiMtLlmSBk226z9E3jo_yTfs"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/MKxvaDGO2u2Z2ugc1ikx9A/YcRWczTIEjA104Ouh_q5Hu8SeH9Lky4UHwBDaIG0HwwKaYATn7Xk4HV_l5tA3w12EoeaNmhPB9AHCnB0Dj-I7U4TY0fbqHCdV8Kopb1oFdCsGDf3nSADtQoTOVwtn5IGrVy7srzjSkWRHDrA2p2oUw/opPzNXmHSp-J5dF6snr4SLJPi_67CNDhp_c66wW_Ebw"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#E98C21",
                         "logoSize": 102,
                         "button": {
@@ -213,14 +218,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/8-pin-grant",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/WZxyaZq2rGbkv0Nokt4Jdw/Kt25aSWiAocYTCZ3KkgOYI2AYIqVTOkmm7sr6FokGdotXjTNu_YL9cSR2hVoTuqrWYX-qxNZk9qxogOHxwmqktTCeAIlRfWKxk4JLmcjYSOn1vozqUd_UExINqRD3HQSvIbG2HO5tczF7MO9jG3XJw/hOGMgUNKPB4iv4pNB1alrMjtpr-APA2CIAuQvpei4Tk",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/2y1DTFK-ntrvYIizHYcJrQ/wrQtz6uibqB7_JJ-iq-BD2hc3ZKs9lx9TV9ewL-BBrthtnQqy7Z1snkAmO9w7yQsiFQeDid00f_X2ZxaD6GLx8ORhHsQY2_hWCr-4xHkdyC9JxLIhhIanAppJnDdio_ZYPc5jrjSIZMW26KcYDsH8Q/ZGOZJvHiCKQZcy1RVoCifVKrTbDX8Q1zvpy3xbU3FzU",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/vuH2TVSigRiS3jBXgathtw/GYq_21BAEY1gHaPPbCLbMnyl8A5kgTGeY0D5FNafeaqhT9Zj9VplVpNs_jsyhSmn2MNjFUgbMkeIdaZbmp-fTudPhskj2Vh9uoKG0_x1Q6L-gB_7gR1Zf78LMkzArAV59GEINprLzAYbcb8kGFM5rQ/sh6-J5chC54FnrI69oK_X-2nAJTPSkA8C5wvWut6ERo"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/jh3vGA4qjxvKL1gbf9ehMg/-DHp0kjXKrCj6Xv0ILU5WbfyK4MZAO4o1ld5ikDUEIG_3jaklToo_av0XMAa0_gZbZU74Mu2vedkdR8bYBXphBZKntYDai36aU-alQD83H3GNXSsKK1xYpPi1DlWLufe3fti5DWl5APC0OMSSEFpNA/NHqdJA-ew1mJGiKLs8sIqZr-KKXt_u_5cenD-vPxH_I"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 76,
                         "button": {
@@ -251,14 +257,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/frame",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/xHuYeaMMBUtMoDWB0NVr6w/04CwQU0vxd0loitN48sMc8MQuU3DB_8qgLYVmbAF6oHIBMpctpmtAtTloWk6Rpg8_acb9Bdgm0OsUxHvcYUbJ3AFY42hvUK8kNO-Yos86Vm1lIABsuDDws6db5HHSqU68942Ybr54WaqKstWc4dzAA/uyejnjQdTrt5jQ6qZDbo3GaV8AakJOnjxw48-J29qzs",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/o9soRb6ouBMnfVuVHBF1fQ/L0Mxfi7gg5GGg5ju8t5NhpBGl2B0zZyKCHIGxdXOlfM8SzZb_rOLTm_1XlJb88vrv-KgQtUe6QOFiUqX8HroOpb5uVOkVamoTVxAc30oqNKqOlQkLhFAPGAA2L66g8sAhOJmC9TIS0_UjFlC6KrJIw/AJTtAukARcSNiLpHFi8HoGD325591Fv6Xp-lX5RUwxE",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/LJzvxgWSzwANdXUAw50KKQ/12_Kf_KNvvJ5rFd9oSK2pl1LYIrKyATu1IaeUnJ-gUtXqYPy3a8ZFqGCDNxk56fvuN3J7-Wpfrd0meBfNL0N_HuqVRNhel7UU30mI1DTiyp-b3fK76KUwgjS5VH2LRG47QMgOGii-DdRD0zyyvjulA/3hd0Fu0YOCwgbNcNZHQ63LYqiV2ViTik3jOIEeo5__E"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/w32OLRaWfSQBO1UZ15AHgQ/p3LvMSN0gn-pDqWkMJJG1fWC9k4tIiZIBJ722xXy0nqK_kLlXHAs7KY6t_YEC2sBKo8PbKEPtWHDl47dOZqTAPNlS5kdwhI-ixfrcXm7jVebB7iMBAFAPg3hIn6nrG4QGISUb221YdjNWy_wxoLa3w/DmHwPTU2mizu3aKMh4wfFTL6h8PA3V9FE1-0yKFssqs"
                   },
                   "theme": {
                         "text": "var(--foreground)",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 66,
                         "button": {
@@ -287,14 +294,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/grandma",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/kmPFqpSPAgfaFvVrge-dUw/Zp-u3r0oWnFu8OC6Mrp7ePdRtBDDaKm5Ao3CWVYvTbrE_fyGmya522YdvadSPr6yhtzMlyQImsq75zIO1_IWepo3LQ77FdwvlmjZI205St5KSu6gS9DtDqNu9C41IOwiaEIFcwIR-CkQ-LrwTU9Svg/QEQki8FHeZA3fTSWktx0YZ1IetAMyDBLVG236-NJNdU",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/v6V29Js7BCWKTnW4FpRRzQ/eB-VzFv3XMoC3Wvpo9cl6K_IKSW4klG_TByiCjWJmpJclb0SGXddZsG4SnLMWMuT6PqDSdgut5r3xY6SFuqb68p1V7O5zQqwK2L0Y0WegCXobTG0N4cPZKhUJ54sGAMeXQGpOBhapHR0CsFUzpyFDw/I3Q5CPhmoAG9CMLIbNg28WJmgcP4CG8wZGOHzrM8BWE",
                   "background": {
                         "type": "image",
                         "color": "#e3c97b",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/LMCHI6MP5HZViUXrnvMxLA/jNjvcNOEtuP2zHRqsO8k_YKfvAJtmbA61RQsAplIkfje4M1-XfU0srzk4Jxu1KKo6Kbh7T2DFcEr3TOeDNHaTJWHuMj9CAw7lxqUdcqtFm5xdxGf2XBMxxRzpoh4x0Is3DrhC5oL2-92QIKbigqqgA/heRVDgMzvW-0SsONtuD9wN7FGClrszds7vOY1Q8T52s"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/gNaKbrWm3n1YH8VcfCXiEA/x-LaEl9l93J_QuyT7H9qI_CAIYiE6FmQQr8HsNGHST9ezYx5LupDons8F_6r0jLxlO2G0fDrowlheIr7KhC9SIT_3DyqkaJd5ggbk410FV1lCj07aZT23eEGnKKPAzyE9Pk_UiBs6SaVHJdIrz_iTw/b1A6SVxAqM-BLpS3A7eXs3lFTSdEnfKPdklgbov-wG0"
                   },
                   "theme": {
                         "text": "#a47395",
+                        "textShadow": false,
                         "accent": "#3f2636",
                         "logoSize": 91,
                         "button": {
@@ -325,14 +333,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/dyad",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/hsF_TYRREr3zGBB4u-h0dg/5xVqHM2uVr-asMCDXdv9GAGGcKm8xWBl6ZaBGTWpkqkwjt0370RSVNDZAaplwukEcBntysjOt8v4V945SMzvjanNSdEQdJ8c24V1mOn7mQgq336aLqEvadcMmydin7se6nY0ZmKTJi688DnmFyaFZw/0jt2KeD-XbRfSZ8KfwiaG27HauFaeXmq3yGLtXYul9w",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/X4iKrOTr_o3yYCTtqtfCqg/vyGfyse3DtBJLCBWGP1ucAy0j0Jzv3cO_-G6j6Wk9BMM6ASdPUtQUqfERryna-yHZqrIe4b4BFBRCxhBIlMS99gRzNNz_Tpxb60iZ2bwbZDrEkNnBo-aRMxX9ytDTu5H_u-3KOqgmgycut9gAZusEA/I8S4a75GT_HMDuDi1yEoUPVK_LbMq1tCWY-zJEjwfGQ",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/tGgBdhpvXFrBo2GqNOXhMA/ClJL_4S-MO2lQNrXJM5YoHslKqa5ZZyPXZml-TfBKw5_mtTNqa7QFEZOGd4W5qghfBQFc6grv8yEdlDGvdwxpc8tvfEEwAhZqoa2lQe660QTx7kbfyoX5gl3pO99B1HMeNG9hg_dsRRSG-ozWw8b9Q/0r6HHY2pE0JAazjkDp4Pl3J65-DCkXmUrWAurbFZk2w"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/ObH4eEo3njxJENxF7LVZMA/kkivL4YOxN7mADd-cVe37xvLxHtZtEEeWHLfypesT0fjgvrNfgCMyZS9Tjx4V1WUSVZOyV1Zw6lD2S0gMEe_oAlrO13QcqzkNdkUBGgE0LQve07FFTSBP4mjLXy0MqrmHSAL6C6ljVDgPKcUSZC59g/lmeqUisvxONV_JxFdwG-as-Drxy5LEIAGmbo0hfuGTI"
                   },
                   "theme": {
                         "text": "#522d0f",
+                        "textShadow": false,
                         "accent": "#ff5500",
                         "logoSize": 93,
                         "button": {
@@ -358,21 +367,21 @@
                   "inPerson": null,
                   "projectTypes": [
                         "Software",
-                        "Electronics",
                         "Websites"
                   ],
                   "slackChannel": "cubed-ysws",
                   "slackUrl": "https://hackclub.slack.com/channels/cubed-ysws",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/eRSePnaNGltqkhhBq88Vuw/kEpnRAPb83XZXbm40kF8Wu8LrFREBkmA9-cpUvMIA90EZNS71-9hhQMP4Mqoujw_zmKiU_GyZNa6YQfAIapFZfbMGrqdQ1FqUK4Ws8o3WWoOMKAZykRVtTmuvgxkqgiGWxD8kWjO2GYrdvxnmOd33Q/zBJCxi9r2J6C3c40sKaMItOiv6S-YQyOFFVJy0xRkLs",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/55DEmiiO9N8Jx8vV0zwnQw/xqs-k2PEvRdj6CCpXdMugLSSKejZGN1Y2nRWJ8J-HTY4XDeCvM4Tt2BkAy5bwBxm3VZT0DiPKEZM-SwkzPTrlee_vw0YhKMLlLCtizaRnOBP7uPHyZa6UARfSaAlj3HNa0BR91rNM8fpa7XQAN4wQw/TxtD6JwDzYooEgEZ_8da3GDnYMahonGECN6n7IfqG3M",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/s1Wjq4387ekuPreQsnXVVg/V3XV6pmlxtUJqDdaaYEJvzFYujeThUTE_t9IrUJ35XOfGDwbJAkpWg992pb6eiS1Qc3dxBeT3UV-zG80irNTRKtiGqkBLbcmRb3xTR646MlZg4OPeEJmsmwI5n_kr8WyLpUclrcLWeahxdvzelPscQ/xX4wa9GLMx7wO-oZyGDw3jRUMh-QnXmgzQ1huu-6q2c"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/Skk9jZ1cbDb7oiDpMQ7CdQ/YzfNsqKyXZ-E4xy6gUkCnJHqhryKJixGsoteXQjqt0jmBRvWKORFZFcAylMipxwEKSiNH5CiXgBcLI04Yemdm5ug1zTYC9hk4vL315pv1WlKfNthVV06zmTGQ7lpTZxw2hPtO5oOlICbMyGbobJByA/5v-iWVGORFqQIcl5x905Fhy79nUatK4cBDFyAtrq2hI"
                   },
                   "theme": {
                         "text": "#241f31",
+                        "textShadow": false,
                         "accent": "#26a269",
                         "logoSize": 116,
                         "button": {
@@ -401,14 +410,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/embassy",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/nS4v761bdsfJRam3pI3KKA/dwiHsDCrWXV8QcV3mn4ZFTn2kz1mNMTaatqf4PT5k5T_1FCBP6g1vgIF3aTJXM8niGDIk0qK9ZGN9-CvRc_7d69ZFRFmFYPtTpTA2GcQUGO7HDvgvO37XNnQNolpXKUhCtUfA5Cdfs46Czu-BbsujA/huOz4k8KiLopgSXneQbwAPJCii4L4J1VSLB5p1d-Boo",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/b4uTPPxKwVpPxJMCJ8Mc0w/-LuoQ4VoFUjocWS4Y_N-IW5o2tE70xSwsLoPzP2eWxKz7PEel6o9kYRP1PDZ2Iod_dFYXHd8E0fJsUzA5JwibjMtZiiXWtyJ35FF7mu2Begrn1kLIck3HJeeUhaeyWcn0qqUeavcO1r9wObNtrf_7Q/VFbRsYnzB8CrTWpiQD4FfwVeSMg1TZdd6lXr2wHerOQ",
                   "background": {
                         "type": "color",
                         "color": "#000000",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/XKmRr6EejGr7qmnVB5FIxQ/UyelUKgbh_1Pry0xdQIhYb-6CRVwn0iebjbgUpzLnRpq09WXzbN-IkEDRyU-0Gw1dCBjQ_AzYFi-XFOx9dIXwYuJek3sPKQ_G3JhGWHfMgzHSg71beli1VB075AEDF-Z-j_zwxABuSF8mHBh1Ze-zQ/Eu74R0GS1i9cHksy4k53uSjI3m0p6zcUOqyo1yCXZwg"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/Oj4bktmh2fhvrP0mu9zCEQ/ErBxtbgEGniFdPpm7BbTZzHyZuueTUf8fk434QzV76qBy5uCv2OaG1963v6JM9oJSBoJXVPyRkJEfAQTjXF91T4utmyGFd5ofds7EZNHbhF_4_b40HqqrIniYjpN7Ivz4ALG7-Sck7EFIOK3LuOrsA/Ws-Y7iT33-mPepUMxIQGkK2GECkg7zYJSa7fopG0F7c"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#92A1B9",
                         "logoSize": 106,
                         "button": {
@@ -440,14 +450,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/mipmap",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/qqneFtYpBqqmrbmEy6ceCw/CWi4L2Agt0LqK8-j_rjDkY9rmH5WGbWbobtVFEg7d59W7r9hmLT4EqKXlWl8YWMV0LhTG4qfR6E554PyUj0riwO9vIC6FDU1lYo3PUzRlR_uBQP3AyxnKqOv9nIKYQjZ5a8lCkh3hmT2F2rZsHX6iA/kMkHU7PoWisHKG-Ryxux9YXnafYlz-mXZCEkS-2c5Ec",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/KNw0pb9VcvcFzdY02-lYwA/OKaovGaYmXw7Qmwl0kI6qbif4ceyouD6W2TznHbGOY4JG4owzKD9kx5vGt6oKokp0OLk84JWrnwJ0qdPiKrvBn_9ZcYp59XowjYu4AyldpbGMyzIVDwhGzq4gClaFl9uuhYZGoZTMFSvq-411TUTig/L5SgDWRo37lS-fSs1l5Kr9nCGJRXFwhweSCfcTd2__U",
                   "background": {
                         "type": "image",
                         "color": "#462525",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/fphxMIY-uXoVVsmuhHBvdA/j2BBEfjVpxBV2Mqby7yUQJ4mSoZvNgt-91Jwia8BpODgA_DG4kSsn6dk3x2FqLleDnslv-dsJzcq3BJqLnZDsCQZ_68blYEPYeSWnl9JdIzuaSuqOnFyBnBf4pvBBdh_xA7lVZTHTucjdaIvyamRhw/zN9jqoNeHc3emY-WLFoyN7ryGJOXFjy2eeFzPCUK8t4"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/bDLP6apA8bXhELohSV1CQA/9h2i4SwrdSPfSoMS69VsmYtK8-oCHuKTvoS7dwCSd7WMWCuUicUB_aye9E44imLm-PoC1BuhFuFNAA1cQhADqOtdu6dH2Q8tNAtWTA9vP8qSf70Yvbiyq-QbVlv1kgwUHtEaA9X-Hu3zEWL0Ox35YQ/gZ_BlKZVzgCbyhK-on0LkPBbBaHX-vn0IYGLDr7hzWc"
                   },
                   "theme": {
                         "text": "#e9d6c1",
+                        "textShadow": false,
                         "accent": "#e8d5c0",
                         "logoSize": 120,
                         "button": {
@@ -499,14 +510,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/snek",
                   "requirements": "Beginner friendly",
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/tvHLA_bRrwa7i1k25NSeXA/5s5pzRY3ehNbR1RGuQAHWm5ghNNNscriub8umKz5BYNMAKSCqGfveebm6kU5A7-ZPjWUvQFmRbk9mixea9rPTPnHTi6gUUKbJoC7J9qmiyzZkDg3avbrBC-8efD79rjA_rC3Fh5ey3KZXOtWvIvO_A/KMHAgwOb-JKasrB0zFeJl0vJoCV3giEQIRuJgXzS088",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/QHE-cw8etibZxCQ8GM--hg/MaDvWYoDdB6Rb2kjLHJLhs3ogod4Nx1f2FttSdRoXn9VoG4-Ze_QRHCiYbFF4TCB44_zGEVcgdIZDPVFN7FDhzN3wWL1ZAC_091D26RNb3qOaTzfjR1l0EKu8EPB-JX2hyGmjEIPBXjR0VobwkzMmA/VkNIyZnAf4HmrLqpEkJ4kCb1DTFHshx9JHSlvJgVWis",
                   "background": {
                         "type": "image",
                         "color": "#a6bba9ff",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/z-l3fw4-ox1c4X7vyDJhqA/5Q3OHO01K_e1I2YfUjM5ZMrnOUdgQjs1sCwh4kwjvWUFa1JFcVpJJfI7J6CjDD_4DN0fNi4IBygpaoRoHWUNSsXIBzWvAkWgSojwaRwF1KtPRDG_DWt7Ipm4WFkqZqxMpS5e7gjZI-xQsjlGxzA3Yg/TySYNNHOTA7UHTDQa8oBByN0Yv5FHpBA-VNWJEQxp2k"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/ghA2sTOfoTgmgseajWWAZQ/vELd5Aluvmcl_EThgVVUtHHNdFWraVraPMYnC9DwD2a0pwQOliFTyzqRepW3qbRrzUuMDi-BgXvErNBjBhQ3l_kt32fHdlsU8e8fly8jpolIM0Sz8WPhM_BJH9OKPsV2UF3zU5NHXfAE_nIwvJfX1w/pteQ5uxuV2KIY23lhJPH1eEmG2TLBy1hBo7csyKFdkc"
                   },
                   "theme": {
                         "text": "var(--foreground)",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 120,
                         "button": {
@@ -539,14 +551,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/paper-clip",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/HGFJomTnd4ZehAZKh2lgJA/OJT_EKvBPw5fi-7A8te0UEwfgtcFLI3FvZwy_Ux5iGg5jOtgYnvejEmDL7UZ_AObzGLtGz0D-oO2pUSP_b0G0GKPyVtWId5f0s_B3tjLr0NND6z8_JWIGhSB8nxZcVruCiJ_eBsiToaN6zJZCJniRw/utFcPMdCnP5HCiWLeaY1yvlZCYG458kd4yqNE1GowBk",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/oVDi0N7e9Y37nZyxCzx6Ug/92lOfVL2RjW_ShhBBIiO_146sYvxZOI8JW6IiSKE45nEUhph4ROQD1kce2Zcdx5c3e_jmvlBsw3ZPNNwkTmEKgluGwO8CT912nYblcOSRtRBhQq6BmJJy1sSkwPiTzv-CtZAbgr35LblU8ShZrCA7w/UBVG8bQEd9Ar4sT60aR6qtah-GqGBe6RczcBa-fMpec",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/VKgEASXCGwdkrh_unfG4RA/d5OuPuDUiR3iQRGLA_pPfgN3jaZkAwu85LVGXvLsZhgcofiQWbNyGO-kymVgfe8zAGFeG_rZcrdRY3A7FzAB8xzi7tpzm7is5V5i2TafO1GYa_Cxl4FDtznlm8XIw9CPUcxFShRoMaNwu9f2qdRFcQ/TIJrPHvhvaB2B5S9mzs2K4p0HRzDwLSDbiTxM549eI8"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/CL8e9PvPbF8xD6549YHYkg/goZMiW1JgapPMIVya9BAlE3MiytOUbksM1xk6xUynC4AwZSAAdZVpjnGsoTbmdi-JgCcWRAQzk-nvYsW4OPflGQwYzBnDwez6YGxMNI7D0dGPXzXu0lryEyyQ6bX-2Wg9s7ulqiaJcl-NKQeJW_e4Q/Y9849ei4YAw-vdP9NEDtJ6e_rmzTPWk0lzkbcsOcmqU"
                   },
                   "theme": {
                         "text": "#231f1f",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 120,
                         "button": {
@@ -578,14 +591,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/half-life",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/jnKwKFlYCsr8Vl983eRRyg/DGJVCZochQBCJLir7xthddTuazxjOyRfCaAzPEmb70iBh31MzBB7alEumhKDFlS6_Bu4Wg5HnYqSUZihcYf1DkQvk3H2csk8t5fcSEaiLzXjIuBJoSb_Xd-YjwDgHzeLWuDGb2gSexr8vR5VbKBXzg/gHFc0zoK1e3hTa0aXTmv1-FBrG-ITxWEnPtE_q8uAUQ",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/XbbTVEYnZfBo7Nt7yieTGA/I-4pPIhMC2BT70Hdfax42_MBGe4e7SoJS7ZXXRW_z_Y9ezxEN8TIMmPwzzOh7_7w0bZ_hNYDyEf0LE19ka8F5A_Uq-zaSMyZ9vbncKTPdyO42MQCR-sG4PHMsp-8xlsCKa8vcHjBk3E7IZR6LfoOYg/AidzNfkkmxQMoxRqZBTbXubp1db9oLrCq85wB0NjMzg",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/FKPz56V0MNaFsDWX1baHxw/jW3grZmZG2F_HGsioA37a8UMQZB9kpIvT9kyy8HYJRQZB53uv9Aos_kSBeAjVM4uvTEE6QEh2ivrPq1fbMx1uMOpzP2LFisLq9Eyl7NOEvVGY8duA5G1OHALH6xGmrkU9wPv68kU2DSUqj2peTJpuw/sV8MzAHxqLNpLFbZHBfo7DiPH1u1e2xWhiXC-H18EjU"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/pfn-p3XuZ0OovYyBx5MA1Q/f-l4eQrOWv7zvq0gqqQQyfCxqQgEbdFgKx8bYi23QugMlxvqWZSBkvIw2msJ0RrzIU4xNIZCxWIfdoLwJlSUWoLo5d3yotuz7Hwu8JORvdHIWlBR5qlY-POlT6zKpbjl7Pa8wKhat9_JS5s0uietcQ/HPQOFtFKC3oolZE1xvcB8G0_sf5Q4jzBNk5_9e_o0T0"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#8ed3dc",
                         "logoSize": 120,
                         "button": {
@@ -619,7 +633,7 @@
                   "slackUrl": "https://hackclub.slack.com/channels/hacktank",
                   "requirements": "only locked in people allowed",
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/YqSm0cAXjx9iUqZOnPDE9g/T9Txhkb22S_jWICQJ2sOpWboDfTagZcEX9LGZbhsBx3pjdHd9YdINE59bxaGFMAy5t3xwLVi4Ql3f6fA7-A8-maPny-MKIfCUdhOjrPBjkFU0a941QU-Ww-vRBRO_ogX9DHDsdoqnYsrLegGzBJ5Pw/imJT2tbQks55CTAlzrfSf4XmqZkEM-SBOpSageD-uaU",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/EUcvtOH_Wv9CudGTGXHXeA/BMn8fPEjjRYeHiG-lwCEf4w9adC9DQZV24IjEq-8cYmXLd14oqMpGZGUlx8b09tRy4tugyHJaBy7w_7gnqRZ6ys1mCZ5vYEHTlcBh-jK5fi8rMiVHUZOSluN9llUNyCyKZ8vA2UirQa4mvgCPkTl_Q/8ea5AIGNQKo2V8-VoxSy3PfFjgPaAtoUG5vzByt2KJ8",
                   "background": {
                         "type": "color",
                         "color": "#f0652f",
@@ -627,6 +641,7 @@
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#f6f5f4",
                         "logoSize": 48,
                         "button": {
@@ -657,7 +672,7 @@
                   "slackUrl": "https://hackclub.slack.com/channels/go-ship",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/0XE9EpC9MXgYdqpeEh9gsw/IQ7qUbtpJ0xetMEprs0HW8Dkzt86HOC99njHCS9g4F9mrMSy-aoRb4V8WQPdEWfyg7cH0PvyF6JeIfYeN-J1St2XburbtCJkO9CSmzZMN9tPQ6Vn505Y7wVMJkRxBiT_sA3gSWn1hEmtGA15BrWmVA/cvmng40Y0cWlA-72Iz-FfQw6ga_nPB1g3nWbzkSp7oA",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/Rn-5ZGZoGosxDY76M80Sug/fJoKMAIj1E_OSVQDs1yXax2-3jvT63Mn34Aco8CRdgjtmrl4tdm9khEI9yVRR49FXblbZw2aye-xy2AYV0jGuSHyVryyEoyAYYuyfIwrQ8_OknE-BF08n5QVqgvEQpWqX6EZ15x5hVFqRnbeAkL2Hg/evKHLky7LeEgq5aYnitTORlbrtYhpW9zO_SlELzWhXI",
                   "background": {
                         "type": "color",
                         "color": "#f2fdff",
@@ -665,6 +680,7 @@
                   },
                   "theme": {
                         "text": "var(--foreground)",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 48,
                         "button": {
@@ -697,14 +713,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/scare",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/M2QVTiw1UdPGrxjuCKsDRg/bDJoKGqcZCmx3n7AMhy9zNWwDFDPRYgoHUKhBAKTyagT-2gWwqpE-ee5pYcp19IUf2ZlnmoU9XzxvHrNQIO5ergAGWdOXInfZ9oTuI8J5Lq3KrFiqqALq2FZ9EVy3Tu8cFgmhBKzovT75BrggMjgVg/BUgarfbK8UDWAw5ovgqP7HCJDV6hTjfl4H3Noi2bXBc",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/WjYCrzBN4uDkcmFEm9rwww/y8wf69t9p2eozLgqRT2i1dTjDGYka9-jEjAvXA5561MnzYQBelq2EaDTeOkBi0wrCt9sG6swPGI6wuNjUObz1oaQ8MyfU3G9ZQf16IyUscX8xOriHgiO54nd4ssfnFfqpNf1x5YWRre04DF8XamTZg/pCm7rreDhw1N1iMnGizYczwO_njdT57KzjMIfWqeo7U",
                   "background": {
                         "type": "image",
                         "color": "#000000",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/lBKfIgLKGUGLTA0kswIYxg/QhBFWeZqsGH2VIEUvQcX7gL9byE38LNODMIopk7WRjW7CNr_daCNTjRttw5m6-VSS_DtSfxNfssCXb4D18HnGIi32nAe51l9-VOn7Ohyyzqw97z4yQ21yfQYlbSM0GniOQnFKAhOBtJZWcBMD_oilw/gcDdqu5nYDLGswBF-4mBtCjykOzlKNpRjw1weYspC5c"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/YjzOAbplFo9LmZhTzv4zbw/OYZm_ZPF3ZbxhTNTGi4b2THhnbp5OCX9Q-yOQft9Ffoh4HfCSb5PYhASD9-VvQU_-3aRoQD2T6fGT05Lpdgoa8k_KjZOxHRxWqU0BgBXunLOsKUxNNu_JhzfvoWQyegZvPEo-jZNu4aDigAfkywW8w/g2JHP8Fg8dis1MZhawlQjhavAzVu7xllzIDwE5Ttqfk"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#FF992C",
                         "logoSize": 100,
                         "button": {
@@ -736,14 +753,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/fabricate",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/yOHvrUt5wyJCIAw56iSE3w/GEu6_XiX2YQeOOKCQIba-ZZoDiL4sWX_PjS0JHjTVThhd3eBYSMCoFuozY6HAraxwWAFu310VKZI1V0gc5p3a2gVhH72BbnDdYHP4EmutT7ssKR_mdwhbkBlUouzoHImBlieGbSNcyEMaZGJ6vEnLw/VI_llVUIBkaP1dGKzkqmq-6lCEvA5SknObGS6wdLfYg",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/fFZYF_TbXtasW06RIVTmPA/XqECNyIw6WJLUbgYlqYbUGb4C3fIOs4tTEAE3g9-B-2IQV1YKkEaf9sirpkC6fH_Ihi63585ykEL4iWPf2awba5WICoAslzeecl2RYiveLJyjaofNX87U__uLjKYAK3p6KvqLjtk1GLtKaV2-ZLsnw/7ZOQT-kHbvO5w4KdmB7SHwDF_8B1Ek-y4ZF2WLDZ4kc",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/GLw2WCEetRm0TlsITUhs2Q/QMjKV18SXoXX6QJG2RceEf-f0SvdO2KeIbcQDbhGEQJjnfQYM5mbGMBzPbF5912wn8fnJUIimbLPVJhyoes9QpePh1-FSJld-0dKWlGheAshPcAlFCAxFznHAWWLyt9u856MUi44wt1M6HuIp1LwOw/-AKe8wXQnFunq1dKlPl5fZsdM079QBsXc8Z3jsqiR6k"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/jJ_5Owl4oRB8cvQ2lrW3RQ/8cVERQdZ4gshvOZlccqSjGHPAAxiiQMPOJ-dG_Jg73YOZB9_s6jwjt1UCVqVv2FBh1PKku5FUbOTOZ9K465IoxxDzMxYNPRPx_lG6bdMPMf-stBDUoNbZ__k2oXrKAGboUeJvEz3-VJAQdURu1-Dyg/yIsOMNG0kPwBEeis18sXAo9aFDfh1hkhaBAz6Ef1L4U"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 55,
                         "button": {
@@ -774,14 +792,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/storyboard",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/tFt_6NX8MwrxM4GPFHDZog/xj_Q3ugVF7Fc9uVogF3Tj-8iVMIgQWaenjiZVEZLA-Wl6Psrq9ePUcXVB9UfHZZQPKRwe7qvxMbGdaZvfcYOYdGG2ChlQo7xPVVxh9v1EgbC95wmW_FAAsNpS1kHnTahHCkKpe4io9_uwtFa7_0pOKQMad5ZRuH2CLm5gi8aGID_eWdn9UvAoaqsCygUM4pH/Lz42l157NLkNzCrotfckqSXZL6g0QLu9NilXTsK-9CY",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/cbWZcBoJzcYSCDIoPqjw1Q/UNmzUvLMuQ9_cYfvtkmnKSDYxKLA0_ufYovV2RolKrBTu4MKTToPym7ylo36Pn7CJaHDPHk43CYImkSKDPSNombfCjHsWOFsu9ibQWjH_UB1_Nf39GIIjKm-7LFSQHfLX4zhvY-j101xhQ5pHKzZV1LkJnPhIh81nyLPGp_M5mwce0j6TlZ9oCiF47VkDE70/OFUaraTkiKpbHlZvbW3yknA5AgWxiauUXh4QlzcZun4",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/k07J6_SGtlSfPePpdOzCGw/r2rrZSmgUZUxrzHezzluoNe6hvuf-VBoEzzPEh97FwMg6yaDE5lfoPDdt7_J1_1U-QQDFBw7TkvfF1iEXK2Fx5wQD1-74zu8jnJy2x3tQ5D_i_xjNCrls1CT1G84DemMoU5cq7E1uVDLLOF2Qk38ErArKYBRUCkJa3BcuT8Ct0s/WOs6epp-eAII447LsSX8S1ghhjiD89KaJ1dt2sAEhfA"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/2AbFSBlsT7EKmTefHvrAuw/Ib_K4jE8pjTO9q3qGW7fE_8EkeNuTGQ-5DuzvUePb-SvlJT-4upVDJt7AURm7JZ1aNBQB2WxIc_NWiWTX-x2DrhmcFmx2tlwRjTiZPXo58Tys9CCJAl9ORNSRQOvRt5RobGoCzub7MEKl0VCJqIATi4f8h02nnrGqu1-6_BR09U/k3l26t2fvsPbA29bic0SP3XmjG0k_r4GiqgT_fpZhcs"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#faf4d4",
                         "logoSize": 91,
                         "button": {
@@ -813,14 +832,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/asic",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/7G_T5J9SJVM9OAved_OdcA/OSu0AhEG331mJPJINPTVnJvQcD6qSdLF6_-GIS2gBKrUAC30wzsuDc2bCgCHICfsGmXuINPfdhXc9wcgOj1-1h_lEDXRGv1Ip35ZZTddOBFlXADEZkzaCjYOYvXG-1ucG-f3p9BSPEHep6gU0AuMSQ/iyKRBfhArGZVWjkWjVCxZIDeQ_5wu3IEmtFNq8FUvn4",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/cTZLYDL5rMLL6mj3Um-KnA/HSDDfTdmpznAQcGx5MjR9tQvyg-SkRs2t5DHF2lP-0UKwtlzoGwvU1PXTBKexvzgHJpsZgP1873gR1WmPJKWDtSdlguroP4AaxjdH-xmYGR7GekEjsllvkGNrA-5-sB-m75AzKHQPjemIdK1YvRE-w/rdmgsGXutPSv-oovLCiLapfYyqXyo4aA2JVlnDFTI1c",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/NfyC8anuVioTz7Mk4zrz1A/DVqH_kVUdcQjXSJp80oo-0V2canWjL6WjjsX7TihUN1mLh_t5ndE4bST5evyeXLisEmq_-Ec_0G5ugvfE8bJOUDLLYlbZyhCIho97m6dwrnXwYeJBEQf1Ya-rs_NIuZSVzlC_HTPqMlao40dNis-TQ/qhjj02oVwhqAHbZ3Hcu0_RhgzDGL23Y0_wa9gTY2DPs"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/RpQxQinCsKcl3L2kQYvvqw/nc20H91rVNRezNse238O7pBKPlIGl6j6pEi6EJd1Gat_6yI0gBvRn4h3ZFeR2Ut-dcabQNYodp1Vcz9YQ9H_p7xzOWi0c7P2pqBawexA9V4m-htEKxo2wPY98SDVPSu1aaKV0GWx6cC5DuYJmF7T5g/dJAlDtWosPO0hTllRuz5EkLiO8nmzcdKBh5THsq7dfc"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#cd2a89",
                         "logoSize": 48,
                         "button": {
@@ -851,14 +871,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/terra",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/BBM5WPmT3INImTvWIDnHWw/ZXKHkDTfN0jSds5csfBWgVxReX2uXIg-HzSgKQb_ZbBJ_1FT3CSAcBp5sIypDjmsJz-_MAIzd70mp1M7KPHpNXzE-z3ffTsE-dzlZbipBaH6r715mpmSqWX0-CRS5oVWkpoqso8aLru4rRJ5DiyfmA/D_E-frlNjCNHkBjpbh357jL-JtvktmeKXBHFZlUhFb0",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/3jFntxVpLNysJBJqpyVHpQ/ve9poX5TzKNriOeSOEatDzeEKtDL9ntWKrFCg9EZ4dLusX53Eon_8-77BS8ZHG7Khi2UX2d2RKxSLs440sRu2W98_t9078Z7pEA3S3R5Ev59pBv3qGfVgb0nTb5ZxBeNCkSwV5Q9bOdHIC_4_IjzWw/ryKur_YebA7_sA1h6h9q0JXqHt5D4rXxOdfC1H0Gx-Q",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/AnxxFOJqVSO5D1jnTeXRDw/bdIZLwHPrfi-cVeA_l0ph-KTLdQPXbjbdhsiRH7fPq3K3NOYsFectq9XfIjw1W-YjOyCzqYSB31U8MrCSNOufWHMSTJBES7YfLjebO9-P4WnCt0jUcHFNJhv8jjxOEisx2ic8OW9d0m6BUE04SpEuw/CyC1Kp-7xxK8tgrfpZgT2vkWy5ILtQU52eDAdY16Lp0"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/J2pH6Mjr8ujBv6W9CnxW_A/D0562xhIGI4bbKXMqoQdk8JdyWw1X45PaUcRvh1B6AzrU71nLUrHYVvyW1THDrsXYjFy8HmhzKmGyyowT5DA93yFDqpHeaU470y8-2x-1yrxPU50YHoEkVhgv0jKOfZ4RttC41siWyrU_rOSqtR5hg/zkfGcZLxjtGIXxngXRBKBIAd6Yg0VHkb3zrK5zPNfmI"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#f4ca95",
                         "logoSize": 120,
                         "button": {
@@ -893,10 +914,11 @@
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/XpDM4kVF_UQ2Kwl7hxzipQ/MdtpYSmnXrsdAWF-mANoRxRaZv6CR1cVudE-5puBYMTgxQkzwxhDKOvWC5FZMGkO1LaAroS0Uoskx4xD81GOd98wAI10hX0Q6dua2DeZVQUqp93AsbLr_15w76wNs3rTmzG_QPQ3BY5RZ0r7kTpmVw/M7Ujg0UOQm7ZqJCYJyvsIEzVhIM3xErV3oXM4G5eAxk"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/kH4fJb4jXV49Ik0c7UF00A/E1VHewgCWOSq38gajoeTeVjXXTZ_PQPdtMSXEkNeUEeE-6LksYqm1MSa5sDvm8w-uaPlXHFc2anXXRf9F8eM2rpV4h58GbFmXd7isc9zM6prXb8wCI_RmBjnTOJqIIkdSSJ6-JbrOmbOy52FZyoC4Q/T70mkhaEi77acTF_ykmhrEQNhoiSDXOV-Sa3fAxg2OM"
                   },
                   "theme": {
                         "text": "#f6f5f4",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 48,
                         "button": {
@@ -925,14 +947,15 @@
                   "slackUrl": null,
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/ltuyzHTOlPqHa3Mxx15MvQ/MbojOcNhatNgihLVL0VVpjfTIXiZVve7lOar7krrTc41WXKFjcrzyuPSU0jzgyBMxJ0jPbGX0Z7C5OJ_sVuZjn27rhOU87hpU_dSP4YdAyXXB_4OTiY5wuJoKvg7n1XuRVDai7n1dawCcgXBvgeyxw/pLPDoOCCDjBX4pu4xWNb1qu995CjaQAOiGWqrPBUPLM",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/zxVM3GgdjvozG0Oe61JqUA/6EG5dXz4n8c0KWTqqzr04vdObBX0YJ_JXlm15GXb8xn9SRb8dO14kAxA8ID1tBLGCm9LaR_9LdGsND1dHlS6D0CbBfU7Rhz7LyseG0DKoStCr_HuuEE9B0w8QolbIjKSrMyOpSprbW00HIKJv1EdAA/XDL6csQCV3XsqCE6aj8Ks1-nTh-8JpwTFHjKEWjEdB4",
                   "background": {
                         "type": "image",
                         "color": "#ffffff",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/slulJc-KArKtbBXGfaOFAA/7MLJOI_F3Vgunt36TED-VUS6hb2W_QURb_dEoZCgEHD0dDi9IuukfAwtcssqtqVhgjq6XfIX3ft_o6Ge7UwrR3uavlWPtVf_3Q68G8Ba61DzYbh8PPJVIu6AXOcnjo88bpLmNVjLYfyywwODDA-WtA/zluOjgv762HPBBOvvORBIOZ7iFfzltdYg_ZWv2WMrfw"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/4Cnp3TzYazOamDb-dE1FGw/aPeyEyf_bXeUlyzZYyt1PPM7XeYRb1KrT_8ivqJXrHQiaj4uEAWhEB_DqIZgcXgu3-_ejQBsOGFCBaKF6j9krPTqm-sT3StOGx6hZU7sxx2jprY19-dVqmYcjQHckZd3NiEzjCAVHZdiCsw09MIihw/nmwLsyFL7OO9hGx1T_HKEBrjHGjvJ6geb1jDnIDePrI"
                   },
                   "theme": {
                         "text": "#e5e5ff",
+                        "textShadow": false,
                         "accent": "#c382f8",
                         "logoSize": 110,
                         "button": {
@@ -963,14 +986,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/atlantis",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/o4SWjB9FOMb-tTCIK-iTOw/bSwRe7Q785hamaZKOJnnwX-ifY9eFME_40nZl7iy8eB-2rnElE02j9PvgkT_TTVQq768Iwz5tgrJbw72fQVWWGM89puCI5uqYSAZVVDZoQxUPGjPsDUdq59WgBDOyB16cBJwI-uoYvJkLG2PZoPEww/IVMIYJbjEPnrQLlLMiTA5zw2deIvRFSR3l81d1r-JhY",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/nvNO-vRd_fqn0Jn-XOA5vg/R6GCgkpGsa8aoiJdIbgykQ5PjqYT_GXeR5jx8pvdCi_t-07qiMsBxkQ_PXo3WMzxV70H1YBSvS_NN5x4dt4yHxVYiKDLT9NP_pjYFkyYMDZWSnbHwDnjOxbI9q91g8fUOurq2HmpP2b076wfwz9Tnw/i7gMP3A6vcverjaVYz7sCPpbnboDOCxHKirWUrjGoXQ",
                   "background": {
                         "type": "image",
                         "color": "#002c43",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/HutLf1k58x53uyMyQG9_6Q/Z1QTPMU5IUSwUy8GLIyCNPKE6KXQRc8Rr8Cko47KVRpAPzVjG-kbo-Xyr_nWwuGJQadEqDj0SrJ9uQuyU0FdhpLjzuP4dY9LxycPLpVIINY0xIufa1diPG3YHzDvxZaVuIgiEifWesgkqMzZ20jb9w/wtBxdOmqR_xJkV5dTWwyE3aW91qcV0q3Td13m8gsVs0"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/NFt1AXu5nVUTCeEE4VIQ7Q/JCJc6qXYIyCf8_FgZXavIxTpE5B0jA4P5UxO1deg4ESdb80ZTXsWkvt9kRMCA3m6y-0Uol74HpPibbAVsSReSQjbHb-bczasCMkiMoi273NUzBbj9vfd4Cw7fCezPSvmv-D3s48qpy8NBHMzmC6adw/mLTV2-VQ9iEYV6sXjBUbgl_pRgNqn-_dEFq6-s6cKwc"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#ffffff",
                         "logoSize": 48,
                         "button": {
@@ -1010,10 +1034,11 @@
                   "background": {
                         "type": "image",
                         "color": "#ffffff",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/-sdQ32PSGPKhsa5EAiufpg/-VLOgBtUmuDuxDzeS7AE28xfb_vFqCApKdxg5nwHjbfGqpqDqtRuXdf-Xgh79koFszefLtMv9tC1n0POYid8Tcq0qChFDlWqKTadaPXSRKiRrNtoKz0qyJi75WUd4VQoSIK6hQv44Omrcl34DFutsQ/OBUtO42U-0FWTAvAeDzzevGXXdsg4uAj5VDHttctGBU"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/FVtwVTAYSWJBNTCAjD1iBw/Njj8YVufpWn1rUSHgYtsjhVh3HKniPOHTj4EtbDICoOZr-qepRKjTeWuxt5Mw_Pm3OROPOiJreRaYeYAWEPCMXk5INhZLgihZSo_-KNsZTLj9LTgd1dbFFm4bAQdThMV_jqZD-X6s6xZYPlQw9ckRA/pLegQr-HtGU07XHFeSp2KFKYIsMFNGQ6k-7sxADdljg"
                   },
                   "theme": {
                         "text": "#dedede",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 59,
                         "button": {
@@ -1049,7 +1074,7 @@
                   "slackUrl": "https://hackclub.slack.com/channels/twisted",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/hUJn7ol5E3VfZ2jUKn_3mg/3iok24hkn5j4ZBSxFelwoCRy-Tuy89Op7xUw9hHUeAc3HD-YmkrRLXPa0m43CkW_OFab84XYSMlUlzkEMihEChO20uTQrFGOSWlrEPsGddHhYIl41YfPS1lJ7HsL-gDcJYvNr5Pf7IJHrZyAzlF_Vw/VFEMd43opwqIJm5_bhk1XhSJhL-bz-Wt-C0FvzjK80I",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/d5wuHPSHrWnm5iWvJl42_A/R1aSYGsHAre3xmMupAOxZhbe-zcSEaaxD6_xWfvJK5uJjS53nlrFZ6SqLcvig4LDFk-iEleV3pNu0WTJdCHIc8KlMFA8UcbB8T1CiN5QzPztuXDJQPMZRS-ZgdAEZd0_U_e6408K_fmlSryDD62BDQ/iBG3TR73sCAFYE5JcHpdbQs28tiRDHfw-eSS33kyh8I",
                   "background": {
                         "type": "color",
                         "color": "#1B0D25",
@@ -1057,6 +1082,7 @@
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#B96CFF",
                         "logoSize": 120,
                         "button": {
@@ -1085,14 +1111,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/orpheusathon",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/l5PUWquaQ6oiJWa-w521bQ/7mHgczLDziM0inFVbiowruNSYN9t0sZn_tdxRuII4pT8bmANxaoWE3DBTnjR2t_RPnpDkL1SkkwW94BqfNz75fUWiOe0BCCUg1NPZkfT0jf1cS-1oJwme0rdYoH06aT_ae8Ppw7l59wGGQvDE7pvWA/dR6MKpLDiIl9qEFY7aYDuUn5D0HqEtds0cdkjbukNmk",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/W0-mOKsJPxYjin5DJ_WzUw/eNE6g0ubvECmwA2jMrLVuIIyNxvrtW4JkJrt-z3RnaML5DG_5mY9s0lhOC3688DTY0rLPvy5DPtlDpQzyd1z21EYDHh_tZLXjyyVpFBZ9y-AWnN9L-mK9T5EFhK-qVFQGtMIMyRYYPzbAU3ZVn-K4A/LPz9vs8lSq55q-XdM58HJ7UivPXY_n3C4-g6ovj6Vic",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/WhxFJ2zqyqw7O0UN6MhOOA/6ubnDJsObL_yYEnGDnn4hgQpMUlicPn975r9I9pgQ0mcSKqpldvTv5xt3zR4KItstjzFnzofNdsWA0Niqpx4JjeugIkFve-zTjtbXzp9TVIyQJX4ppm8bbNlOxSKz3WupHtNu_DS4fYcucpiqfR9UA/fFA3tejJtZZLncXfTXE72zEDFhf1_rxiCOrCP6i3G1c"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/ESyWoBvYt9W8bujxSFxBVQ/xOERuLc4IjFEqPngE0zK5T_Uz7iDftJnk9hr2no47B4nLmO9jcSBha8evqxUXPyWFAwdI9ptdbfQJLIOmoWOerk9XfTpcoS2KxvQnM1mK-VePwtJWTmGmkpZeKmCzUUmjq0iYhZzVSD1wwrvuVNlUQ/H20O4FgPC0sW75KLY77eA2B5CQYBfgw9323wND0v7Hs"
                   },
                   "theme": {
                         "text": "#000000",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 120,
                         "button": {
@@ -1127,15 +1154,16 @@
                   "slackChannel": "snowglobe",
                   "slackUrl": "https://hackclub.slack.com/channels/snowglobe",
                   "requirements": "Girls only",
-                  "pinned": true,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/AqGIQY4dw5v-BMKZPtHSyw/qumVtA7kafWakXPArq8epCh2tXWZvy7he9JeTDawLvU7GYVNoq_WAmeFGultcb6dyxjVPdmrIt7DBLGBupdklNb1f19B50DHaDh9mDOU6cvekzvOaQscE0WOYf2fq2Dv9oPzHVcKpLO3TI7yjgSmzw/6Jgo59Us9cjmXp3qbvj0uLpvjD2oiPHZfnVZxNCmfRg",
+                  "pinned": false,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/UI_rm5ghQtFB0z02HWPepA/faX2kkdhABR5oXh1rjXBqA-XTaVeCV78wFvCsdGCyuUi6SX7a0DUi2l6iWIveivoRZBd8O7EcbugXyKnfSsFsLV08Bz522-QLl3zQ7K3VQUZkvKv2RbZQ-y7f_U8KzQVhDJMDcLP_eLD0AgRCcfUig/75jo_u5obnfUZ9YJEEbueHSOC-qWHRfx_PVAMPWNh74",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/hWyGiZEwUXkXhm3AYDD7Fg/zGHQWjA6YVJk98NDM0X1ERqpOJn2fUdQBdteHh72uwA6uIbyOxcz2QkKmbdxj_lJKGIDHp72yMABgf703rndAHXUGgIsR-KAlEyHD4q8bfbFaXLZVqYkh5hxMd27mMYHuIPj0letSQ3sGfcNkqVHBw/vKYsW7p9MopHwfCAhoBbnSbbPK44IM16tFH9-kCYOK8"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/TkBJ5GJ1DFxNDe1mdyQPiw/j_2u0nElNYINRKL2FydH7mdh107I8-q61eUdGcHesNy3ypNKLwt0c4WAZxtUq45BOJpdP-ONZ7hxQXLT1J-LVoXvkmg1Pkb_VoyYf7npQEh-r8Wvh-InVtnsIaWbzXbfVssAYoT05m0Qa-kf8zAmZQ/tJ_blrjpKCklx4yT-YElSO8D0OxARjPIZODQI0t7l1I"
                   },
                   "theme": {
                         "text": "#001eb3",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 120,
                         "button": {
@@ -1168,14 +1196,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/hackrail",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/enn_ArFwgUAz9rvrx5z6kQ/TqZJ_PkwYS6t25-RgokFt0O4oltN3UjfqRGrhWiWocWddJc2byHxReJubBRBKFZagHSWs7z_chJVmqn0MPwQOlHKMRjwUEIEw-_WFjxf9zLnYK6pG6TeA2i1VHRJm_pKp1RDMPQbQstalXDNZ-oBFw/6oBeWUPKoiolljV_36X-Yy2_175VqbZPemBl68hkOa4",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/3m5gmAcn-xjPfL55EXPS8w/4Clriy4CQBuI9RVqrUCDQRqakEtMxuUagt7FMpseOicJpj65uTdqC2yUEuKQUCvtdoWQnP_MQ7I2N1dwoisQYO-zsEjgmt4A2ahSEiIJ6-kA3W7S0xnKlBPKJlrXjJ47adwxN7ccejtzWYSMnMXGvg/Jw0cmGwSZ7C8HDXj2aVpb07xvYUTm9JOjCxIVYzYccw",
                   "background": {
                         "type": "image",
                         "color": "#ffffff",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/u4jfW7osERf3uenXoToozQ/3K06IXoczWgqI3gCwtFjBsxDgqwCM-xVNtRUGnRJLqywKguPXTXONS0w3zR4AiXRnIIJqZZ0nn8t1r6svqdzyDPCdOg9mrTH-0_llTXlh6YDZ658rs0MGWZgPjNP44YUg5ekI_efKMaRs4FvbTGcJA/9pvNLL7dIMNBaM48ARbjSQb7-S8B-SBco7dB-58BF_I"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/pZEZt3lU_-ZGkBHqE42a1w/x3c9Xnz4dnfSr00RgAJlMOpA5b67vCMRMB6W-LYgha_oF8rHo0KMhFY4IqtK9j57CJPdP0e0t3OX_9kxLdzdyQYRwzW3Z4VwSY27NgTohH-poihHCcV31cn6WHVvw_1nF-pbNq4nAIZRzRXmMPRz5w/ijzndfHTTrH4GUwOqEZAH5I-foE8yLxAEu-bmaCrnqY"
                   },
                   "theme": {
                         "text": "#fcffd8",
+                        "textShadow": false,
                         "accent": "#5A9E56",
                         "logoSize": 92,
                         "button": {
@@ -1207,14 +1236,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/third-space",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/K6WfQmjQCXdNepa9x41_dg/ow4JoBiKeLH1RMB0KnkTUteR3lDC8l66-XTL4giZiYMVEkzSTdpC99qtY0Q85XF_ltPFtn6gIWkzE6zDaQUNYu449QjkcdoIzDiPLhQ9mmZPiiv19q4nkTpheDUD9HUzByCIfFRMcihfyxGjAiXjLA/JWVw1xGXLvjvkrQaiL0jmrBywDGEyn3TMuyfbmxYDSY",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/oq_5NlfGQMUMz7JILSj1IQ/bSnlN_rLUd631utqMA55lq6CVJg5Lg2s0MQZBKLhuPrQcCHhws5R4RkDmpBIFSg6uwFA2XuXFYxlPwxFw8Hc8m0IIdRqAGlVhc-6Mhi6_I8ob2IJRZ-fdvTUKhSShA9GnjaD7IrgtVgJFGA1bHU3BQ/_LmMvR5T3ownN11H6_HQSOpa5AzS7g_gi5MDkMX8PgA",
                   "background": {
                         "type": "color",
                         "color": "#423b34",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/kjDN5UYyQrAwptkSzA5Kzw/i2ofeo6athOIWM3PXN52D-MToq3sq4zR4al3il10p_N_nXRrHe8AjvE4w0tQ33mvFao9cVa4fRoOKdMSyke3tLMfU0oLON4mlhddS8AzyD9vS2nCrh2LWhBb2Jv2FW5hJijRToR7HTTS2ENE6hSp8Q/kGzKmk1LvgmtQyEdjmwr3btBRosfuLCL3RFcHu7Vxeo"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/ZaZzkyhDsHWpBgBrLHGjGA/7g_inE8LMG2fBGs8Jvb2uXvdQwjWfY3JTnzNeE-9qzXBvaDvH9wYCtZ4fBziaeKHYehXpqAv9408J_E44lQ-2fEwNl8NjcoLMIL_D1P0HComCUpeVcRplm9hheJh11H8IWn9g-klU1bZ0fPuajstLA/iNAAT99dIOjhankerjJtEJMCd2LxX2_WhgngEZSB14c"
                   },
                   "theme": {
                         "text": "#c7c2ae",
+                        "textShadow": false,
                         "accent": "#577c53",
                         "logoSize": 90,
                         "button": {
@@ -1230,7 +1260,7 @@
                   "id": "recFZK43eiey2rDUf",
                   "slug": "haven",
                   "name": "Haven",
-                  "description": "A worldwide game jam happening in 200+ cities on\nNovember 14th & 15th. Find an event in your city!",
+                  "description": "A worldwide game jam happening in 250+ cities on\nNovember 14th & 15th. Find an event in your city!",
                   "url": "https://haven.hackclub.com",
                   "status": "ongoing",
                   "startDate": "2026-08-21",
@@ -1240,7 +1270,7 @@
                   "inPerson": {
                         "start": "2026-11-14",
                         "end": "2026-11-15",
-                        "location": " The Whole World!"
+                        "location": "The Whole World!"
                   },
                   "projectTypes": [
                         "Gamedev"
@@ -1248,15 +1278,16 @@
                   "slackChannel": "haven",
                   "slackUrl": "https://hackclub.slack.com/channels/haven",
                   "requirements": null,
-                  "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/MES6szNIhx-sx9EW43lrCQ/EzCXEZq_N_eRFc_Womy5jSpZUPGgcz71NUBkqzo4zsJa9bkeAHoulHABHp3urWYS5JhuCD2X19_v-ujnLBrO4T0shKdrI2HwpqytIyBOGsilMmEdjLcEscyrF8igytPKv7ch7c9kD6FgjWTWwDr56w/I_A1nIH0I-_yLxS8FYNvBYICcGFcPYh-_02e83TeM6E",
+                  "pinned": true,
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/_DmYCRMeHkJl7nD8c9JLLw/alZyYA-iLbBj-HoUywMCQAkPn4r1GJ9SPu0nBeF7rm23P16nbCgmtPnie2NZ2s--I2iys3D3uBb4hhLzj4XK0UA6s7VwpcXC7oKP9_Qv1VwdPuwb7OIxnWVI51_opJG7Z0yqp0DDnJLtTJhc7E_NFw/MmYSdIrThiqKaFT4bapB5TSZ8KE6yF4ncvSYjPGI7hE",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/cgGfhUKY0-tbzkV65c54LA/v25xMWWhAvU8IFjIexkwCFTiAEVO26SJCyvMEIYcAgO6aT5pJMrlWmXtW3ulrnWcRRulCZDilH98QJ8lxDwyzM8yTYm7jQTaSNPbGrWWy6qmfFt5qm4_uSVpweGqhbbPwJchLT18eV23Uw0Rd3p3lw/0Mg0VlXV9MlBaDUjL_mkA44K3W6bUkkUNg8RfjFbdbY"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/u9MeDhxjflfRwqYur0Sc-Q/yaY-qvJ8U_Z0WdWK6ybAr4vabxmeEbSoeZUaOG-yqYZPQNTiyZQku6VRqCJuH4nbc9S4YdTmruQvC1ZXJVt_bfEA2tpOMw6wuGhq86dkei3nlT1hdwhD_WluqI3GazJFqV7czluJdFw3Wc-fxF6-uA/p5UCQ9QXsYjkpGceNE8TSG5IZ1DlFZC7phlRdmfoE-g"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": true,
                         "accent": "#bdfff6",
                         "logoSize": 103,
                         "button": {
@@ -1287,14 +1318,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/folktale",
                   "requirements": "Beginner friendly",
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/j7_DZ3cKnlk6ZDn2gN2UeA/ae27swN_hDxqmw3qCmfiUocAC6_3D_BVIIcRmtgd12oNwZrW-VskgX_97lPwO_J4OOkYteSEiIZxhyhg0pT0bXpUErADaJNojOq8Nb4-ezqPzZuT4Vh36d-yeXe6UgQzS4TQNq6DWopfYJiPCAHzGA/9e7avA4VDeG_E6hm5nMOGdbtvpjIoUxZci94DFaQkR8",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/pNyfawjMC-mnZrhIwrgrpw/yclHLDinpWH8zyfPeyCsc66SWdzzEqhI6Wqwbv6MCpNJbxvVXH7p-OAJUMiNVwmJQsR65cqUwa1UtGE4MOcVmfQOCcq-aSAbj7zeXrtt7zIlXGEbPEfh2dm46ACYlziNWaoTR5mMyjsFLPq2EoP-BQ/1UaneDHukc54wpwTIGQX51hjlQ8gqjHVtga_OeXmlH0",
                   "background": {
                         "type": "image",
                         "color": "#ffffff",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/hf5x4_VIpk5BSZWbnKwxtQ/UgU-shP4m_tdPBMYFD56lzgLWSpUl3QceW2yPv2Kz2umhfmUg5eoWG8Xfl7jlBrEUgorbBtMQ_0QzKaSa_kwAISkGV_Y8lbMq2HjQWvhAzeRlnsOGP157c7YpfnUu0pgX6NW3MwLhrUqn5dkdXxQWg/lFQp3yV2PuZAQhFXoSEWMaJ16Z6hX1QmJX0BI4H5q-4"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/tAwofmIq85s3EppRXxRqfg/b1bam5mpOBuZ_D_cXzDSAr51O6X2DJyiGL7t-hi0vBKW05R-a9k9UHP2AWJR0kHSlWf5rC3YVAJKEpNNrAlCO2Af7u7ENXta1Deorb6p5-oBPs07QYDAw6RKoL6rPOtAFwJsaeOw5yxkf6DXbWXx2Q/XfvylYcNKe5FsphDwofygoFvjoCx1ofkJYC4UJzwQBs"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#dc8add",
                         "logoSize": 120,
                         "button": {
@@ -1326,14 +1358,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/pixl",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/BNMAJYXVjj821d33BzdacA/mKX7AaGnwUxDPYihKX6HvYLOdlpg8xhOU2AHy0erK2q7TIiiY04UPc7c6d1AiKNW8Y85Tux5ZetZSIGkObDTm74UVFPNLIaVTS3egN_ik7xv0E9SoVq5DdXqJpApaNwxy0awXFcxuUvRnNbsHZDNcQ/N5eX4p7WSyQBQLRjuZczZZLl_Tlb4JVhUIetAvnsh_c",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/cSyNosMV7IiDIvwBpMG5LQ/J0AkbaZVE-iVfdd-WM84Zsc-KTauAZavaZzP_fLjP0I6uQBcdyzQddexPOHr9mnhO4KFiv9ZgnIa9z4fNmxqcX3f7iVaDEMcXjv5x-fNaIoNlqA4FkEAANEdiYK4cIZWsIIxQHegIdGgg1TYWdxIuw/HcX6z0Apf-sb8eqAhxSGeqXcBbhUbqpwzJ72TCHOp54",
                   "background": {
                         "type": "color",
                         "color": "#f5eed2",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/EuYiJwXQYux6MQ3ndD4MJA/fkZfQDLii1NQMFu1IL8_H9DvVe_d6yLbsg0YNcnGchfgEVq4sYFei__Pv9MmiajLYngqhUbD7rB5tVpmlVk4SJK3C4iRnrpjyicSvKSixTKTKakmJTX4Ug1IHcYOx4_Yxu8sWflCHxrdoe1bz3-0qQ/skh9bemwtW0ysTttokOXZ0m_8UxjbqzVMv2UoGjXHXI"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/u5MlifB11n20VgesbZ3Pzw/3Mqm7BlxWhKT9RPkrmoPqvPvmjA0hE3F543RFxxjQasiZtIMi85zrzwbcm-yiZId8oy7kocwrIxmO-2SFs687n17qjteOBqKUjs7taVK7YhR4UE0GPc6c8JGrZUIVB8WoM8i5MvwLfu-iy-ZmKscfg/2KL3Tx5AbNiFPr7XGoQ7nRzaqwUmw7Yu_eLeNayEJLc"
                   },
                   "theme": {
                         "text": "#000000",
+                        "textShadow": false,
                         "accent": "#d99a1f",
                         "logoSize": 110,
                         "button": {
@@ -1365,14 +1398,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/forge",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/wfbiqmWA1QpkeX5jBylGmw/COkRgTxTxZ4ayOmWtUfdfrDjrI02CoHe9XMQIG8C5Ss8Drqp9lLFPGacnB3bJ0pQAS_-danF9X-zRA0GD6-zXIP7Lo-asoTJd5NPxPMXpvDYfJcBUyCj2mH7lQ9jbjHpSma0sGcIQTjoSKSybsKBYA/vqjTKAQYmloN4DlzaYkEoflei2AC8SOBDiIeMeVnEjo",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/55ef3zAkp9DOAwn4d3Jebw/BO-3cn5l1x7FGor9xOvvqJVQgGlsuvOhrTtMnaVhGPkHlEqGNo36vFz4-n_xdbiMYErdXFakv-qjwirSJgOB3ufZZAwTbBEnLhZWjMKkAHz3gR4dPUVP-k6alZAOiL_rOttYeEWV3xgjlBrZ_BpYBQ/klMEPKOpzEK-639L9ZXtawtvr-f0WbWsTCqAAdoHoBo",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/i9o0utU2D6s4kGMFi_I_Vw/-x2g61knOIjPcJ5E-hPn5UbYPsPZDI4nfjE_WTopEwSGsKwPHj5_BvLRXXBpiMOzltXan_RDZ0we9RkDLxhg06GMRZ-Z8J7OgJhxF0p7zw36ZKfpQu-b0GONOIi8FSBHAURPsQC907ocuD_BwgjWiQ/RZG8AbrfvydpBohXsWeFNA48E1ELoMFOXcXQPsNLwdw"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/pqSaiWxL0vu4XYYS1P8sVQ/7IyzFDFJMOsEZ-fzCRssuALHmI0rJysQu0DNxZmg9VYeHsvTtb5D5iS6xxggfZOg5lyaWuLmhcBNWdXOOL_Xa9xBnRJX14QtZfgbHk3DLTZ2EDKILyGSZd6qz-3Nz_GxsUMCFo8mvwSK6XL3AYm_jg/61bb1kaV0XLcFAFbtOkEOk6yL9wbuT153ZuHIz593UA"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#CA5924",
                         "logoSize": 57,
                         "button": {
@@ -1410,7 +1444,7 @@
                   "slackUrl": "https://hackclub.slack.com/channels/coral",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/7t6GoW8oPwawE8jfkc5v-w/4pxYFvrbvCubBi5F5w6djpfoE479yIxPIcI1f4VSQoQ8TZPvOhPE5qQ_8pLHZHen84-zP7yS29LXL2JcPARPdr9ODArXGtQiR35D4HEcyzx6_EX3i2TxmXS64zYvXhNmvDkF7As2x2Zl6FOjhk9BJw/vlwU5ZTVcN-uU8wFn3XORR0b0lEgq9bz7WFIwPkIfys",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/QVg-3Y7-KtQihJRaZxklRw/J1zvVvInaYu2Y-RBYPMy8hCNeaLODpIQx9HeszjKOHJckCbWbRq7yrW-CIEpzoogxvoeLVKPMkTxB5I6jWLYiPOEBrwu6DuE85TIQrU-i8hbbiWHF3ZiflHvpO-yZGmW1AapgscQt8sWLkVPiXxd-Q/IHBN0KoLGWJNCgWmKFMOIuXvTOzLwOt-K1U4Z23L24Q",
                   "background": {
                         "type": "color",
                         "color": "#F9F1E6",
@@ -1418,6 +1452,7 @@
                   },
                   "theme": {
                         "text": "#000000",
+                        "textShadow": false,
                         "accent": "#f00000",
                         "logoSize": 48,
                         "button": {
@@ -1457,14 +1492,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/phantom",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/4b0WqQhtFdX1LsRFXsqi1w/vskeiWfUfuIjYGbbvvfTdhv3aqfettb0QBAKLEIUYG8z9iTk-4XbNy21R4h92_82XNmWajsd1_I5UPMTg5Q2zSm7uaMKNbqqZMEfgDPJhiy3RAVxwUgYiBX-nd-Hubk7SktZ5I0pxQw2mdvwFVImBQ/Q-0R449ZBgWRtd33NaQAQwVb79-o6Cmbsp6E5D78Ylw",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/f-dPXlmBOuL5bZYMsxo6NA/PW_-cgQZsmtVcYDLevd8Y7p4Lo5Rk8XZJclgjRRV8oh7IZcmHgWmisEZMryXbbrIo9HfitG-1eC7i8w2N3c1UHf4v8M8VfQYAAi4ibFayWmxbGU8jQkguGbLVAv1LbFUfcMUoROEBCLHDj__gWGyOg/JSQfEPW-YexNDB42_yjud8ptkDW6Ep13jMoxRODzlTc",
                   "background": {
                         "type": "image",
                         "color": "#ffffff",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/FAMJGcAQoCmhf1T_YSkHVw/xomn-RHDQ_b9vhe8RsvpoYdigaEwnBTI5HQ7jFsBfUSDtPyJG1OukHkqV3_pRCeIRfZgWXnnG-EKdSj8PrFu_kCAO7uGP4fyY41FTITcQ9ejYd2bSizqjIXf_3hcEGHq4aw_XS23jmpfN_DLtvlLdA/LRE7YPwlh4JAlc4u2ZFVhgW233yu1kiU8N_4Pi1snwg"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/sm8mC_b8rY5RYSsMJFYT9w/cvXg-bRXW3N5oaaGxovYG2ncEWpaeL3MqsexDXabL2xhfuURr_IxfZ5VI7RFTMFD47zzni970_Bv_ZnDTsC4w9XxKhRtQEFuO10sU7NkGLv3SSR_dwEpno9TX_kTWWgy_gl-Z4COPJbeU0T2r3reaA/U-Mr0jKI56MwXbhUE3uOLbcczEitrjoLl5EDxzQBYDU"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 120,
                         "button": {
@@ -1504,14 +1540,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/leaders",
                   "requirements": "Only for Hack Clubs, start one today or convert and existing computer science club",
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/HyPTePdzVR1UpF8bX5FCCA/U2qLgfwdRVQ-TbFDan_r5vnfBD-nCXQzBVorlcPCenJEfIqiAkAARLZAf7tX3kEXhwUnWttSE7JHxtQbcT_1RjqahbbY0oR45n-O2q2il8imxtrVRQRtGhU-Ice3weL_FJp6LCWFcqROjYs6CJiBKQ/69648ATzbk_Zm_vIX_p2bQqYlAg0FrKhZomegAuwB_I",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/UUC2BXNxPGqoiECVC83MOw/keqVMgib2eDoJC4_cYZwCw96BxxUlrhSh1z7bCSCl6eHZlnbyRAL8pA36_LCGE-8WiwPFTUCZzeYb1WpihDyFK9A9SL0dFADtvp3bxtvk-cGMaM_AXPS2qtTyvLpBKKkJJbEY7tIFQyoTqqztMhZZQ/m6MwGmUu_OFRAVCJDzOHca2VUBMHH19baEF0TLlNINo",
                   "background": {
                         "type": "image",
                         "color": "radial-gradient(1200px 500px at 50% -15%, rgb(242, 114, 127), rgb(0, 0, 0))",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/8Jg-8kiV2Pv2ddnV2BgbZA/bodyAkggN-WrCrPOxk7KkrOMp0fXbbaJ_IEGyF6FQVxgajVm9voyNpcVOIPa27RWKMhf72g7J1sfFqBWUlc4bl9oYbaFFEHfxzXZNt2K7dPMrl4MyArd9tEFQMqJ6tYhV8ihQOVRUGtN2n-P-02bSw/9tQkxyITRmRowM2dy8DZBkJREq_m0BMSct_OrQCSGZM"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/-AYVqS3p-DtsLiIvsee4ag/y45jAbmAgW7EDWDcctejjpEs2YEi4HeiViRyAWNhItbbZV2sKQySZM_0h-hahVeeTPPzB1rTV11PhnBW5DipTQXpRFCoaAfvLL2_hVmyUJlnXoxJPNTGKNnIP80RcKt4n3LNBy7nFqVuVIO-Jm7mBA/LiGMcbUaE7WXQkd0bsHkOSScSb0XIvy_CZ3P5U59iF8"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#844349",
                         "logoSize": 120,
                         "button": {
@@ -1543,14 +1580,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/ysws-cloudfall",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/yBM92y8S6_MSg6_OstQn5A/ko_RhTso0OapxhWOtmk8r2F15QGSfjJS4ElIZE7WUx4dl6ihSZrOkpsx20yYDzf8mRw0o59VP3z_n7pyzIUiaVGctbaohN2Y7taYtCfu2SP_spI_7oJr1BCFL9nCtjiwcuTWlDaUwknv_SGy5xddAA/kOYavrmz8W1X9mc4AY8pYIM02_0tpus2W_OhPSGhAuY",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/bl4A0L3WAWYlmr76JSbOeg/6M2PHx_b11K6PGIm2G7Ky04W9btRyXjKO5beCrYHb_VuW4Z0JHWugWAgtiswnXSGa8wnFUT-VTUJRlF0wyJe309JO0hpYbEa0XR44_rSCqSRoaRxe98szz4wkP4OdV4uv2MdZTkEtUEt612dYPigvg/TI1VEEr3Rdzp1uea8bnUMwloS3BBAgfioDa5rvhhEfs",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/O3uewZLLaF8zOOCEJ1WVsA/2j35MCQDFqnT6L2QG6jcfP1Z6pMf4UVR5XFT6LvaTLPB2avcKAud4--8Nraoo7Pjuud9oBbi3nkwRziJi4a41rCNlVYCIMmDjX6ZfAK-99zTT0jYVj_3Vt5D31R0rl8sMzdiD9ugyxVfOIAG7IPuKw/QASbAdkvOUDpDIeeuM_K1GHKrrZsHdv1E4e9qq6uL-E"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/2esSAgJhqPTtpwlTtePHzg/uG1qpMQX2Qsyce_qxq25GG5vw-d4p1kKdqJRWvRZciaIZvc6krigpY17Ib1sSDN7U6f2H3SdnkW0MH7fYpfaFprqMBay2dP1bdQPKmBXgM1zq5Nw2UN40MLvv8QsJHJC21usFfZHQfqaFPUKDHiZMQ/F5tmKEcGxVy6I4MoQeKrtDcnI8YhFEhYeo-rhf9D1Y4"
                   },
                   "theme": {
                         "text": "#000000",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 120,
                         "button": {
@@ -1581,14 +1619,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/re-dream",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/7RzXtVykjsxiwe8MHqmVXw/NKMmxxlr_X_qwIiOPUprmVLNMI8u5p3FL-raQ-wvP-mEOsdxDXsJNp7fjwXgOcmxVjDZtDeeDGVKI9RO2zrU_3I-e93ux1YbA9talmRz1IG77NzZYTaZY0-LHNPrFmi4nrcDxrPiqwHbDsEOK9bIOw/1p-m2mDPt8Zui4SiEKvgifbH24GiHh62Xnkq04Do2Ro",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/mCFxNEQh_rYWJ5YYAmMXcw/AsjXMJuNCIJegYVTeV_Nl1UgmmLMxPxeRGf0vQo9u4iSALB0iWV48qgTGb0WhyKf5Rw1dlx4ELV8FSvUvUlGx6NvBWiY3wyQY7D84DyBln7yMGcMPLOB-QQMxEBcyUHmlt3ed_VCmUYYIra8LMeBsw/Idcpi34IGRIy4GmYE2tcaKG6sCtRIYmMncF4eKIFGxM",
                   "background": {
                         "type": "image",
                         "color": "#000005",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/QKTNmI80YjLOR4usmsltOQ/Y5-dWEGwDkrP9jZlqEBK7lAfqknIRWEwkOv5I4MBpQWSWVlvtRW9Lw7rTKt1lRsWcXYB-yqy3s3T1hkPWDavaa0TlQ23ZgFKGDeJD8z0VGlCu2gQa1ePJGKzYHOiuvkcKpFNzTLGNYDJt0ogJq6zlQ/Kglfd56LiP6Rxqj_kwimSA_5zE_4QwB0w-9phOTEKz4"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/TIdufTpfNls_Lub_f1i04w/hPJT7xbBsjyKFbRksV9KcBGO_dw9NEoCuTrV2o0qOpk_QL3ACvYPcPzDIm5KNOzZ4ftOzfftBMnC8OjpHKbrM9_8uX6TCsGSiBHH-tvnRDr38UQ3qv0FnPmAqn639ChCyRq6gcFbOCbk9ZfgDpIcPQ/vX7Mt_Xqz5rzgiQL9P4CqlR3Hw2cLuZabu7h-ubii60"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#e1d8ff",
                         "logoSize": 120,
                         "button": {
@@ -1624,14 +1663,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/stardance",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/WrZJSTJV2rhzQBv0gSCpBw/whdNHE3m8AUb-9ZzvEXt3DBDjTa4yQEvXG57ur7IjYlUfKZSO6JdouxdgZg2ONreqIJYrrHxkxfjq4NmmwfKnhv-TPgjuDbt5_QZmZ3RjgoEfIShT5FXX7VdEEvSK-XdBLb3Ay1NwIjCSYmNuireSQ/kYsO6rCtmCzP3sAKnKW7yfy7xTFifjXsO3EUtMbz4Rg",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/LROx3dABcligVQPocghrsA/Tm69qyEzinQTK7nI_eJI5Aj9xXOrLdSadDrRRtPbxC56uoo0NFLNiogyyhjvKFBIvuAHxDB9OxR9v8m1vN182TBd5A5WoNedPYYg1t4U6RRZzr8NBb16rnOlhoY9t9C8J1CWcLCYxyNCzYYxYyWUHg/IlSmu-X2hoYNhG4pIWthBqPj-uaLw3bYWnieNIcNkwE",
                   "background": {
                         "type": "image",
                         "color": "#ffffff",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/5oExVe2ncCS2zDZz9w954A/Yjt5iK0T92ax_SapfjLkCVCnruNgChNFa24rfytDfQ09n-PMudbWVgUCdXLkcfxg2CF06AEIPVaAodV_U6Molk0irrMIzwQGJ2emTx5qMDy5Evc2Ium_lL2n2IatTMfiPQ0Dp5_FIJfo8rnpbWMyLQ/tNeSZAYs-sTPKLSW6IIJfcsNM8dV3zVF1nXQJcyS2A8"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/grfJ339gJ_Oet7sNZPQ0NQ/B3HUbmgXU01G2qpLE21KE1YnBkYTBa9CK2hp8quEbNbTHrieqkOVQctZAmH3G6nK2rlHO2f6YLZZt-21S2rZSzKCmsXCtqE7uREjQ-4UyL0yQL2EPS1Zu0F-6DxMgiyHf65MgC-fHChpkr2uMWD3Fg/uvHlML6TdoIUBDnYwbMc5yBcxjbbamUwPdfvkgIKQ60"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#FFE564",
                         "logoSize": 93,
                         "button": {
@@ -1662,7 +1702,7 @@
                   "slackUrl": "https://hackclub.slack.com/channels/flavorless",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/rYzvELRzv8VrTveHizF4mA/XYCXVWSANcGn9_dPk0YmFK2poel-eeIRpB5zHzyPfw964EYao_xXnCpLETfm1eynzjwCu_YLAQ9UDy38IZ7KSOn0uku5MV-32ngojvb2Z6RNAowRGv64iM2736O1X2exlgz3PVgUAXfwolvL1g6Y5A/YTpvbaTprfdhyy3y7SyymNeEL3ur_T2wHa-k3rGKQHA",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/U7qR4DPg8B2Ll31xerOuKg/VCLC26OyhZvvijb-Y5-ciy5eheUvLrmhcWlR-DMYhZv-LqnxFDseZmMUh2rrUs9fekGdtCGrD-8w678NHwY4-hAeWo4lCrviR2Dbwr8YtaEhPRyPBOvoltqvMoIw1l-F-Ah5xscQM3NXB4JssBO9Fw/x03RYn0zml1S_69SZCZkPDuZizAafiNsrcPSLSHCb1Q",
                   "background": {
                         "type": "color",
                         "color": "#ffffff",
@@ -1670,6 +1710,7 @@
                   },
                   "theme": {
                         "text": "#17171d",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 120,
                         "button": {
@@ -1698,14 +1739,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/vibes",
                   "requirements": "Clubs only",
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/P4kvSJ4q1qz3FALJu3LxSQ/KyBIzRa1c1NE1lp5JYctY878tg45UpJb_safnIuT7woP1UG242vXFtvmlSML6LtNBgqdJBHhqL_Rg0ZsVZ8Ba5kWEpu6o1k20Gq9slFa1RntrwmBo7dc2LGm8Iq6Aixyba-x-ct-D4--48HnA7zoXQ/qkpraFdFrnadnF2WqQmLtSNimedeLQgR3tRwbdIsmrA",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/cdXyJ38seF5hhkTf3WUq-w/XPfpRQU6Hd45BKnrqwG4-t2-DMqW2Qe-_zOtq8hGNpmVIwMM9N7lf2oQsxbFZMtH_-sm-y_lOXxAdkks8NZ6jAFVQ65_iDvomdIRgMYJrrwumhVxjCiphwbMV7LZVVSf3rymIOoiyafVOmfLsj9rlg/etr9soPQUfqVpQug36Z3ZMzGx6k7BrRYXTq13rS64B4",
                   "background": {
                         "type": "image",
                         "color": "var(--surface)",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/3dVC2Gxw6Za67N9Wqsu_1A/rG72RedXHv98Y9XCw5YJY-J9lMZAtRCRhZsUBvb7nPHDFCjnam4yvbns3lVNhATkyuttJJrkW9zzXpJ0NAN-0I-xleYT1bRl47Usq5wRTjIseICFbKSZAexRt_xgRGIPPSrFCi_y4ll33A4vWabuJA/aC76OeZavQGshYRIkqoyL32wLEGDPlFVMV3wRlxDWgk"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/z1W1cM_0E5V9i3C4-L4qVA/H6xSW0Pw1hBad1RmK9J54khfLI962gbNOJ6zPSdzsjoal8-0Ofjf0D7FByryjOl2GLkVE2LVnE6GNw2CY25uS1IiAyuQa4uXXk6Yxy06YkbqcKY8FhskIQqg0EqR-cWphP7GifDRmwGEM9czfgi61Q/KmRYVrfXZLOh00T7R8RgQ1ILUEOq4LbuOksB4Iegiqg"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 48,
                         "button": {
@@ -1736,14 +1778,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/fusering",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/fyOFVMQRDhoGYypSySXFjA/WZE6JbC-M7ZqEGpXBU9aa8pkmvez_OjlrXist6nL60V4OfCBRWs4FJAurxvGL5WRdrYww00FGNecMVGS0Xy1DRXivIlbnmk2cPOWG-lvjjfQcq12OtAynhHlWcs850_dxvPkUHTJJnZbHN9fnKUeaw/MxuCIcFKHyMukW8s6pri01pKuS3PhviYYUjiAVV7wAo",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/hlnHKVYi-y1Hhs_fCgrWJA/bx-rR2ijXgTmRmb0cYYeQo70sb7rZzTn8dSLosQkN3AfHdol0sYbE_F-wOGcjtvA8GfVGmsUtfOyvkAEio4OSjPii__r2_Mfevxx2aw52P8QvkEw1I6qXekQtLXJbaNivBkDqbLfaNKK19sQ6N7cYw/F65YqqxiNweo79OCgERzijFrBy-vRY8ggv552_LrQtw",
                   "background": {
                         "type": "image",
                         "color": "#ffffff",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/u0uYmPWmwDKDDrdUbP1AkQ/Wt6B0RT6WLNp3yOjsSkclkpC8zb2Mqh8gOrIk1c7r5W6QyGneDJ1Ya82k25lbeC-Fd9vxrvqh7p2Hku7Y0v-V_c5kTAc2Ig-wZVTMwx-3E9Xyst3a-cf0bMJ8hc4JQwrEbySPDAwE4XD0WJLbPlXYQ/ufAgSN-DQzIU1D7LK6NfSAl7K4U6aK-G1bmpInGJh8o"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/9SZdXRLso6ZaEXpmAq-iEw/S_nl5NQha6_M7upbgYc5SSXpMffhX7axB9eM0RS43bS5ClEz2nzAtmsoMZEqypUnbEwEoeLH_R0PO4uxLwRgXT8sguGSUZV80d-2lYux7VuW2fjhAYW8b-D0hMJ1-Ki7RQIs53S9csXRzsflctVlrA/L2a9DzNSK4PRJa_f-BhWo1ozAXbgrbATOtDLF2uzm8g"
                   },
                   "theme": {
                         "text": "#faf5f7",
+                        "textShadow": false,
                         "accent": "#FC9C59",
                         "logoSize": 96,
                         "button": {
@@ -1774,7 +1817,7 @@
                   "slackUrl": "https://hackclub.slack.com/channels/waffles",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/A5vEoMHNbk6T5nhuSegZgg/Y49HZZjUa1IjO93aqdmPNG4gmHtjH7dxT1pJwdqnYNWiRsNlTHxOlbGmO8_4ZH9x5Xas4glh_24PJ-lSqVBeW0yUPG_MGXUoSsDfNXRsJEOofVKR32j61jnPa-JMXtS-510CY7c9vu7yWkM4OKT4lg/nFU9E88Em0U5AcJyGtUAmORvSQ8QFxach--biqAPTFE",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/lUvwMwVXEjda4FqNaa_6jA/v8UZppAX-RkJstBqF2WO7qR2YqoyMRCP1u2IblX4r3phUWW5hW98rNhfpfXtwFzxVcmGJOXVJxNOLSXwbWSB5QpXBz8SOHqYAT-RxItYU4LQu56cfkgELdKOveQnMljoHk2Vf4d9_yX9xJV6DfJThQ/wAE8sMWxL8KHnq5JanOV3pErbBhYBaE_GXu2xDyIpX4",
                   "background": {
                         "type": "color",
                         "color": "#fff8e7",
@@ -1782,6 +1825,7 @@
                   },
                   "theme": {
                         "text": "var(--foreground)",
+                        "textShadow": false,
                         "accent": "#8b4513",
                         "logoSize": 54,
                         "button": {
@@ -1812,7 +1856,7 @@
                   "slackUrl": "https://hackclub.slack.com/channels/toppings",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/JFDVoSMreeRGYWfM3flynQ/nIJ82Xnw1bp40ks9sXRPeeTu3HDAWYa6h7BW-1ibSiqIn8mXCaIFFyJlFi5Zi-OpraiBpq3_4k9AXgxlvxsQUz2Bcag74xJW1UCmUqwkZytKT_TiKtqyVTCc1MuE-yHlTyXd131RsWUVxjS1brxgMQ/8GNj2MZucNyKnU9lxxTvQr6Nvq0ptBQ_sbfPd-nk2OI",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/UkxC3azu38PA1Cr60vNpNw/oGyDXeAsc2EWEFcB0dgmGYq6OTI1fa0tDdOSmRWCVKX2YYcuTs1jBYITgbcAmASJ1zryAaQMglcmGwG5eyE-HstDFxo4cgcUtaHy59PF9ynFQnTKjNoOuCqWqjTb_HPQjKR6jDd5YhSIAAMX8BE1Cw/SYx8TyODuKNHO8-bI91CTlahGtwG6WOwS-zEcBnED6Y",
                   "background": {
                         "type": "color",
                         "color": "#b0d2ff",
@@ -1820,6 +1864,7 @@
                   },
                   "theme": {
                         "text": "var(--foreground)",
+                        "textShadow": false,
                         "accent": "#fe6da2",
                         "logoSize": 82,
                         "button": {
@@ -1850,7 +1895,7 @@
                   "slackUrl": "https://hackclub.slack.com/channels/swirl",
                   "requirements": "Clubs only",
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/00EfJcZRaMihemK68b47TA/Aaroohqy-ZQCAO19kg9jAcZOIDM7bSHx8_fsbEv0ifS4r0E9UGpP0OSqPl9J5bwvr-pVwuI6yA7SGw-JCDu7sZD0T13x169h3GSuaKbDVndUv5ggP8kIhrZZC07hujvwXApmRlLWx_DapNkR4_fqAA/RzjNcdpjlWHzy1FvMi45n6WagsSrctRGXSPcXvgsv4E",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/8jGZe2R26q4xa1qtsHV0Rw/k0x6HpW4jKt0khmKmI0jr-klXTtlB4FL06gc4ANft9HFI4KoFQjVhts78K_p-D4n1K1Svg6mTWg7-lQHOPCu3QQJnn7t8S_XUN4C7U3X6kIgllPLDqQ7PG3hwbmmPZxCeQyA4uEINP6xKQOxt_7VtQ/M-23RYbs3RzwGrBOgXErDaiRFRKHNiH2Wxe_RI7v-ro",
                   "background": {
                         "type": "color",
                         "color": "#fee89d",
@@ -1858,6 +1903,7 @@
                   },
                   "theme": {
                         "text": "var(--foreground)",
+                        "textShadow": false,
                         "accent": "#ec3750",
                         "logoSize": 67,
                         "button": {
@@ -1888,7 +1934,7 @@
                   "slackUrl": "https://hackclub.slack.com/channels/bakebuild",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/o5d1i6qEaF0u3OQ0E-Xu6g/1lZ0Ocj_B04rRoDCk-hj103jtAzRo12X8v0HAYq2cHGrUL7L_Ex6s2xCj-4sCxLEEDMEBWYH-U08S3W_m8BIx-lpF0mMeb6LxOM-NyhzatShRX-Kb97LMQ-Z2S-X20yDKzPvyg4TnAxaJv0w2MhOlg/vkS_IbrFT-lrBDOgQQH0Dyry3iGPRa1acgjy7t6JNyA",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/rLO_UxIzwqsHa_0wTqG0Yg/E4IFeARZUv0-iLPkrJsNUQGUDCh-BJhHQr6_QAC2oVVwi9_wLPA-AWnQbEp_JZFQfStEpni_PpQ_twj5x2vCIqOKmFlEW6yGUjakho86L9XAeDtFp9DNbk4RVlMm_3SknxfwHTVGRWTOeFMnWYdo0g/u3ybLxn1yo87CRYG1SzUFwPvCTR906KjkCze6UNK1ho",
                   "background": {
                         "type": "color",
                         "color": "#A3CAD9",
@@ -1896,6 +1942,7 @@
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#2F2B63",
                         "logoSize": 120,
                         "button": {
@@ -1927,7 +1974,7 @@
                   "slackUrl": "https://hackclub.slack.com/channels/mc-modding",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/2laZpWAQUduIafbsavK1Eg/5CyK7tFjRK1Q17k6h7uLzVw0piQknVD1iLK-rziJDdPSz_Og-aGCCTUPvFShrK9--8L0qmku41PyiVVdn7wpGAh-HeIg-VgniuIGD17x-UjVBHgmcAXWqDJVjf6h1IwZ8_dmM3GZhnM8aj-aNz1hRA/-bMBkdET1mBICsRiaUDuy_aohDpm8F9b0xO14-4rnV0",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/JNT3eYrfODSXWFJp0oZsKA/p4DxfoC6cgfrLbpQPUy29vx93r2kQt-AwLC4ol0LgCthkIRdfSXJuXnb9OTPgTn1NAzBzZ5NFijFNdTDlVd2eQcHNMygKDeBM4wZ_AmQjVS5ODBb4M7G0LD9l2Hv0qFT0x2apNOsitqKzMmiLGG_mQ/uZ4ZIAw684cukA9fZf1NUHygTK9XmUlygwtgHv56R5g",
                   "background": {
                         "type": "color",
                         "color": "linear-gradient(to bottom right, #1e1f22, #000)",
@@ -1935,6 +1982,7 @@
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#47d009",
                         "logoSize": 60,
                         "button": {
@@ -1965,7 +2013,7 @@
                   "slackUrl": "https://hackclub.slack.com/channels/boba",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/zOjaFWhEqxJSU4gkPV4GJg/uqHfUQCVTg-rZSY0LwuvG1G7bsdI2IO4u9R2RYFazqb16RaRv_zge53tJi1YP-XZN6y_93YdJstIRicjPId04QWZipsKPLYCFzVzxrO3OJAFSRk0O50gUzi76tb1Lgprmz1v_zvf5XLP55PKm_njvg/xKdgQRNSOJuhjdSBjhti6jWRAVkhSUzwIuBSpu5reoA",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/8TI8CsKakt8haT4LNqLM0g/LOsvwZdAlf38-H6G19-J69bqWfutc7Go7XPPFvLgvrkDfltV5rYJw9zw1wkj0tVZ9T7OkZiJJ7EMLsAQHEVP2SYBXcHTMDB-EgBYxyoloaeAoo1f4HdSYxXn86dMh9YeEPyrZHwXJRswrbqIiKyATg/ht3QWuW8lY9nmcVMBVQ0JYCmtm1Q0EgaRuEQjE5zaBc",
                   "background": {
                         "type": "color",
                         "color": "linear-gradient(to bottom right, #C76B0F, #A25404)",
@@ -1973,6 +2021,7 @@
                   },
                   "theme": {
                         "text": "#F6D193",
+                        "textShadow": false,
                         "accent": "#f59433",
                         "logoSize": 86,
                         "button": {
@@ -2003,14 +2052,15 @@
                   "slackUrl": "https://hackclub.slack.com/channels/sprig",
                   "requirements": null,
                   "pinned": false,
-                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/Gt8n8IDtyV6KXI3XcRnplA/vzPUPLwZ4oH2-gTxnwl7p43Z89mmh2y5C7Q8E6I35SIOjrQcUam6ryfiM7X3mB-TDh7VTiskCGcBZQolIX833VaH3o5Dlay5da4ehug3Y-084sZZXhl3nuJUnX49Osqjiim_tLyoop5_4cM0wyLLAg/IURv30PBmXR8iSe1pqx8XEubNRHj1WhlSD2SA1gnb-4",
+                  "logoUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/sSHf_TpASlEHYJZd0HW7aA/sOeE6ospq20J7imYoUFkjzO-SopSayUj2wlWUWISIohaq4Nl1Z5zWbt6Wp1HfypCR5XtZnAY7v90v8cgdPSsGC0Fz1YKz6H_qATd2-Al2Fgisy049ZuTQ9RWZfWwNvMW_LfHLm7busRKRPequtSdAA/tvkDGLQARSKxORBQEN_udJ_XVhiP8O8gmoKdLf_fsNc",
                   "background": {
                         "type": "image",
                         "color": "#030307",
-                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793145600000/r09drpf6WKnEmcXPEPD7EQ/q8zRFlZqQ0FGpxT6Yt4nPUGIeNqV07iqrN0KZSUdy51BHDGaJWFzoWAB_E5ZbVEcJG3QBRBYoNKCC1dBWM1vUlkOyr_2lDeJS1PXr_5tBCfIwxyX4iedaJ2DVSS1WZwOMOWMB_f1n-0hR6suTyPxLg/_t3Z6QcaoYnMs4sl8NuLc_E3K4XOs2RKtcrwxnJvfZg"
+                        "imageUrl": "https://v5.airtableusercontent.com/v3/u/58/58/1793203200000/s0ykoovlegBbr9YuzlEaeQ/LvB8jNor-nC0ips9VZ0ixGh9JvbY83uLOsLfL3zfwqtsOLezoa15c36kIo0nEMZekJhDAty31XFcp4WGGxLFd1IWcDQGzSPoLBacW9o2PggrXXeNm5vIzbQezRMMYDrN8OomLKY1oecgFK1HIHAC3g/Knxsa_6L35WU4VHOc1KGu51VzZq7Mky1GkquA63HAZg"
                   },
                   "theme": {
                         "text": "#ffffff",
+                        "textShadow": false,
                         "accent": "#0a0a16",
                         "logoSize": 88,
                         "button": {
@@ -2025,6 +2075,6 @@
       ],
       "meta": {
             "count": 52,
-            "generatedAt": "2026-10-27T20:20:32.824Z"
+            "generatedAt": "2026-10-28T13:27:58.029Z"
       }
 }
