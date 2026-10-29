@@ -1,0 +1,1834 @@
+[{
+                "type": "card",
+                "block_id": "chipper",
+                "title": {
+                "type": "mrkdwn",
+                "text": "chipper",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-10",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "chipper logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Spend a weekend on a simple little emulator, earn a hackable handheld console!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/chipper"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "1",
+                "url": "https://chipper.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "save-point",
+                "title": {
+                "type": "mrkdwn",
+                "text": "save-point",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-02",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "save-point logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Finish that game you started!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/SavePoint"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "2",
+                "url": "https://savepoint.hackclub.com/?utm_source=hackclub.com&utm_medium=programs&utm_campaign=launch"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "trmnt",
+                "title": {
+                "type": "mrkdwn",
+                "text": "trmnt",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-13",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "trmnt logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Build a project for the TRMNL ecosystem, get devices and licenses!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/trmnt"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "3",
+                "url": "https://trmnt.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "contd",
+                "title": {
+                "type": "mrkdwn",
+                "text": "contd",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-12-01",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "contd logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "continue someone else's program",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/contd"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "4",
+                "url": "https://contd.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "texel",
+                "title": {
+                "type": "mrkdwn",
+                "text": "texel",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-14",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "texel logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Learn, share, and publish a 3d game - get games, consoles, IEMs, and more!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/texel"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "5",
+                "url": "https://texel.hackclub.com/"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "fallen",
+                "title": {
+                "type": "mrkdwn",
+                "text": "fallen",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2027-04-10",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "fallen logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Build your dream  hardware project for free, present it in Shenzhen, China.",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/fallen"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "6",
+                "url": "https://fallen.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "8-pin-grant",
+                "title": {
+                "type": "mrkdwn",
+                "text": "8-pin-grant",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-20",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "8-pin-grant logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Design a custom circuit board with an 8-pin microcontroller and get it fabricated!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/8-pin-grant"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "7",
+                "url": "https://8-pin-grant.hackclub.com/"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "frame",
+                "title": {
+                "type": "mrkdwn",
+                "text": "frame",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-10-31",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "frame logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "build anything, track your hours, and we print your project as a real polaroid.",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/frame"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "8",
+                "url": "https://frame.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "grandma",
+                "title": {
+                "type": "mrkdwn",
+                "text": "grandma",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-30",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "grandma logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Nitpicky Grandma has impossible demands. You ship the project anyway. She pays in cookies.",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/grandma"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "9",
+                "url": "https://grandma.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "dyad",
+                "title": {
+                "type": "mrkdwn",
+                "text": "dyad",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-01",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "dyad logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Build a project with a friend, get a game to play together!\n",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/dyad"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "10",
+                "url": "https://dyad.hackclub.com/"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "cubed",
+                "title": {
+                "type": "mrkdwn",
+                "text": "cubed",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-09",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "cubed logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Ship a science related project, get science stuff.",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/cubed-ysws"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "11",
+                "url": "https://cubed.hackclub.com/"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "embassy",
+                "title": {
+                "type": "mrkdwn",
+                "text": "embassy",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-30",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "embassy logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Get a custom-made, personalized Hack Club Passport & ID to collect & bring to events. Fully compatible with Attend Check-In.",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/embassy"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "12",
+                "url": "https://embassy.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "mipmap",
+                "title": {
+                "type": "mrkdwn",
+                "text": "mipmap",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-20",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "mipmap logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Make a game without an engine, earn prizes down your Tech Tree!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/mipmap"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "13",
+                "url": "https://mipmap.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "snek",
+                "title": {
+                "type": "mrkdwn",
+                "text": "snek",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-06",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "snek logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "learn pygame and get stickers, plushies, drawing tablets and other prizesss.",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/snek"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "15",
+                "url": "https://snek.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "paper-clip",
+                "title": {
+                "type": "mrkdwn",
+                "text": "paper-clip",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-01",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "paper-clip logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Draw your own Assets, get Art Supplies!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/paper-clip"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "16",
+                "url": "https://paperclip.hackclub.com/"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "half-life",
+                "title": {
+                "type": "mrkdwn",
+                "text": "half-life",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-12-14",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "half-life logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "become a hardware expert in 10 weeks, get a 3D printer",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/half-life"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "17",
+                "url": "https://halflife.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "hacktank",
+                "title": {
+                "type": "mrkdwn",
+                "text": "hacktank",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2027-02-28",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "hacktank logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "create your product, go viral, pitch to VCs in San Francisco",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/hacktank"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "18",
+                "url": "https://hacktank.hackclub.com?ref=programs"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "goship",
+                "title": {
+                "type": "mrkdwn",
+                "text": "goship",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2027-01-08",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "goship logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "ship a Go Project, get a gopher plushie",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/go-ship"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "19",
+                "url": "https://goship.hackclub.com/"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "scare",
+                "title": {
+                "type": "mrkdwn",
+                "text": "scare",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-10-31",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "scare logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Make a horror game, get free video games, candy, hardware, and more! Due on Halloween... 🎃",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/scare"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "20",
+                "url": "https://scare.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "fabricate",
+                "title": {
+                "type": "mrkdwn",
+                "text": "fabricate",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-12-31",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "fabricate logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Design a hardware project and we’ll pay for it",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/fabricate"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "21",
+                "url": "https://fabricate.hackclub.com/?utm_source=programs_page"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "storyboard-v3",
+                "title": {
+                "type": "mrkdwn",
+                "text": "storyboard-v3",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-10-31",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "storyboard-v3 logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Storyboardtober is here! Work on a visual novel every day. Get stickers & more prizes ★.+*",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/storyboard"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "22",
+                "url": "https://storyboard.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "asic",
+                "title": {
+                "type": "mrkdwn",
+                "text": "asic",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-30",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "asic logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Design a chip, we'll manufacture it  and send you tools to test it. ",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/asic"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "23",
+                "url": "https://asic.hackclub.com/"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "terra",
+                "title": {
+                "type": "mrkdwn",
+                "text": "terra",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2027-01-10",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "terra logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Code each week, grow your farm, get a laptop!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/terra"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "24",
+                "url": "https://terra.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "genesis-reborn",
+                "title": {
+                "type": "mrkdwn",
+                "text": "genesis-reborn",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-12-16",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "genesis-reborn logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Make an operating system from scratch, get compute to run it on!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/genesis-ysws"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "25",
+                "url": "https://genesis.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "atlantis",
+                "title": {
+                "type": "mrkdwn",
+                "text": "atlantis",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-16",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "atlantis logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Ship 5 hours of CAD each week and get a 3D printer!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/atlantis"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "27",
+                "url": "https://atlantis.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "expedition",
+                "title": {
+                "type": "mrkdwn",
+                "text": "expedition",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-27",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "expedition logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "EARN YOUR WAY TO IRELAND THIS\nDECEMBER\nOVERNIGHT HACKETHON 4TH-6TH",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/expedition-ireland"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "28",
+                "url": "https://expedition.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "orpheusathon",
+                "title": {
+                "type": "mrkdwn",
+                "text": "orpheusathon",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2027-01-01",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "orpheusathon logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Code for an hour and receive a poorly drawn picture of you as Orpheus",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/orpheusathon"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "30",
+                "url": "https://stern.hackclub.com/orpehusathon/welcome"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "snowglobe",
+                "title": {
+                "type": "mrkdwn",
+                "text": "snowglobe",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-22",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "snowglobe logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Code 50 hours and go to San Francisco for the largest all girls hackathon!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/snowglobe"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "31",
+                "url": "https://snowglobe.hackclub.com/"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "hackrail",
+                "title": {
+                "type": "mrkdwn",
+                "text": "hackrail",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-30",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "hackrail logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Ship projects that use open train data, get train passes and tickets!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/hackrail"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "32",
+                "url": "https://rail.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "thirdspace",
+                "title": {
+                "type": "mrkdwn",
+                "text": "thirdspace",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-20",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "thirdspace logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "code with your friends. we upgrade your tech.",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/third-space"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "33",
+                "url": "https://thirdspace.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "haven",
+                "title": {
+                "type": "mrkdwn",
+                "text": "haven",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-15",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "haven logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "A worldwide game jam happening in 250+ cities on\nNovember 14th & 15th. Find an event in your city!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/haven"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "34",
+                "url": "https://haven.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "pixl",
+                "title": {
+                "type": "mrkdwn",
+                "text": "pixl",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-12-31",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "pixl logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Create hardware and software sidequests in an open world, earn unique prizes along the way!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/pixl"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "36",
+                "url": "https://pixl.hackclub.com/"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "forge",
+                "title": {
+                "type": "mrkdwn",
+                "text": "forge",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-30",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "forge logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Design and build hardware projects - get funding and a ticket to Hackaday Supercon 2026",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/forge"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "37",
+                "url": "https://forge.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "coral",
+                "title": {
+                "type": "mrkdwn",
+                "text": "coral",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2027-02-28",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "coral logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Create a project, earn shells, and camp out on a beach in Australia!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/coral"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "38",
+                "url": "https://coral.hackclub.com?ref=programs"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "phantom",
+                "title": {
+                "type": "mrkdwn",
+                "text": "phantom",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2027-03-12",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "phantom logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Build creative projects for 50 hours, then fly to an escape room hackathon in Philadelphia",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/phantom"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "39",
+                "url": "https://phantom.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "cloudfall",
+                "title": {
+                "type": "mrkdwn",
+                "text": "cloudfall",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-11-05",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "cloudfall logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Stop wasting money and build the cloud yourself",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/ysws-cloudfall"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "41",
+                "url": "https://cloudfall.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "stardance",
+                "title": {
+                "type": "mrkdwn",
+                "text": "stardance",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-10-31",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "stardance logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "The largest STEM event of the summer: make anything you want and earn free prizes. In partnership with NASA, AMD, and GitHub.",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/stardance"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "43",
+                "url": "https://stardance.hackclub.com/program_page"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "flavorless",
+                "title": {
+                "type": "mrkdwn",
+                "text": "flavorless",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2027-07-02",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "flavorless logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Build a functional website without any CSS and show off your unique style!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/flavorless"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "44",
+                "url": "https://flavorless.hackclub.com"
+                }
+                ]
+                },
+{
+                "type": "card",
+                "block_id": "hackcraft-mod-edition",
+                "title": {
+                "type": "mrkdwn",
+                "text": "hackcraft-mod-edition",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends 2026-12-31",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "https://files.catbox.moe/how48l.webp",
+                "alt_text": "hackcraft-mod-edition logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "Create a Minecraft mod, earn a free game and server hosting!",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "https://hackclub.slack.com/channels/mc-modding"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "50",
+                "url": "https://hackcraft.hackclub.com"
+                }
+                ]
+                }
+]

@@ -19,7 +19,11 @@
 # TODO have i said refactor?
 # TODO at first just load ongoing
 # TODO numbers makes no sense in the for loop
+# TODO properly handle exceptions in final json file rather than grouping all l.replace with no fallback
+# TODO there are many reasons this will not currently run on another vm-- env vars, the integrated git push.. this code is very bad
+# TODO current stardance image is a placeholder
 import os
+import re
 import json
 import urllib.request
 import requests
@@ -29,6 +33,8 @@ from slack_bolt.adapter.socket_mode import SocketModeHandler
 from PIL import Image, ImageOps, UnidentifiedImageError
 from dotenv import load_dotenv, dotenv_values
 load_dotenv()
+
+idcounter = 0
 
 stati = ["upcoming", "ongoing", "ended"] # plural of status (this is not true)
 shutil.rmtree("upcoming")
@@ -40,7 +46,7 @@ os.mkdir("ongoing")
 os.mkdir("ended")
 
 os.remove("blocks.json")
-with open("blocks.json", "w") as f: pass # create file and close when done
+with open("blocks.json", "w") as f: f.write("[") # create file and close when done
 
 def downloadItem(directory, event, item, type):
     if item is not None:
@@ -104,66 +110,68 @@ for numbers in range(len(stati)): # for all possible stati... it will dump into 
         finally:
             print(f"{item['slug']} ({stati[numbers]}) resource download, completed!")
     
-    if numbers == 2: # TODO this is embarrassingly inefficient
-        with open("blocks.json", "a") as f:
-            l = '''{
-            "type": "card",
-            "block_id": "EVENT",
-            "title": {
-            "type": "mrkdwn",
-            "text": "EVENT",
-            "verbatim": false
-            },
-            "subtitle": {
-            "type": "mrkdwn",
-            "text": "Ends END_DATE"
-            "verbatim": false
-            },
-            "hero_image": {
-            "type": "image",
-            "image_url": "IMAGE_URL",
-            "alt_text": "EVENT logo"
-            },
-            "body": {
-            "type": "mrkdwn",
-            "text": "DESCRIPTION",
-            "verbatim": false
-            },
-            "actions": [
-            {
-            "type": "button",
-            "text": {
-            "type": "plain_text",
-            "text": "Go To Channel",
-            "emoji": false
-            },
-            "action_id": "ID",
-            "url": "SLACK_URL"
-            },
-            {
-            "type": "button",
-            "text": {
-            "type": "plain_text",
-           "text": "Start Now",
-            "emoji": false
-            },
-            "style": "primary",
-            "action_id": "SECONDID",
-            "url": "WEBSITE_URL"
-            }
-            ]
-            }'''
-
-            l = l.replace("EVENT", item["slug"])
-            l = l.replace("END_DATE", item["endDate"])
-            l = l.replace("IMAGE_URL", item["slug"]) # TODO
-            l = l.replace("DESCRIPTION", item["description"])
-            l = l.replace("SLACK_URL", item["slackUrl"])
-            l = l.replace("SECONDID", item["slug"]) # TODO
-            l = l.replace("WEBSITE_URL", item["url"])
-
-            finished = l + ","
-            f.write(finished)
+        if numbers == 1: # TODO this is embarrassingly inefficient
+            with open("blocks.json", "a") as f:
+                l = '''{
+                "type": "card",
+                "block_id": "EVENT",
+                "title": {
+                "type": "mrkdwn",
+                "text": "EVENT",
+                "verbatim": false
+                },
+                "subtitle": {
+                "type": "mrkdwn",
+                "text": "Ends END_DATE",
+                "verbatim": false
+                },
+                "hero_image": {
+                "type": "image",
+                "image_url": "IMAGE_URL",
+                "alt_text": "EVENT logo"
+                },
+                "body": {
+                "type": "mrkdwn",
+                "text": "DESCRIPTION",
+                "verbatim": false
+                },
+                "actions": [
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+                "text": "Go To Channel",
+                "emoji": false
+                },
+                "action_id": "ID",
+                "url": "SLACK_URL"
+                },
+                {
+                "type": "button",
+                "text": {
+                "type": "plain_text",
+               "text": "Start Now",
+                "emoji": false
+                },
+                "style": "primary",
+                "action_id": "SECONDID",
+                "url": "WEBSITE_URL"
+                }
+                ]
+                }'''
+                idcounter += 1
+                try:
+                    l = l.replace("EVENT", item["slug"])
+                    l = l.replace("END_DATE", item["endDate"])
+                    l = l.replace("IMAGE_URL", "https://files.catbox.moe/how48l.webp") 
+                    l = l.replace("DESCRIPTION", item["description"].replace("\n", "\\n"))
+                    l = l.replace("SLACK_URL", item["slackUrl"])
+                    l = l.replace("SECONDID", str(idcounter))
+                    l = l.replace("WEBSITE_URL", item["url"])
+                    
+                    finished = l + ",\n"
+                    f.write(finished)
+                except Exception: pass    
 
 
             
@@ -171,10 +179,40 @@ for numbers in range(len(stati)): # for all possible stati... it will dump into 
 
     event_storage.close() # close the file
 
+with open("blocks.json", "a") as f: f.write("]")
+
+# delete the comma before the last ] which causes an error because json expects another value
+with open("blocks.json", "r") as f:
+    content = f.read()
+
+content = re.sub(r",\s*\]$", "\n]", content)
+
+with open("blocks.json", "w") as f:
+    f.write(content)
+
+with open("blocks.json", "r", encoding="utf-8") as f:
+    blocks = json.load(f)
+
+view = {
+    "type": "home",
+    "blocks": blocks
+}
+
+
 
 
 # initializes your app with your bot token and socket mode handler
 app = App(token=os.getenv("SLACK_BOT_TOKEN"))
+
+@app.event("app_home_opened")
+def update_home_tab(client, event, logger):
+    try:
+        client.views_publish(
+            user_id=event["user"],
+            view=view
+        )
+    except Exception as e:
+        logger.error(f"Error publishing home tab: {e}")
 
 if __name__ == "__main__":
     SocketModeHandler(app, os.getenv("SLACK_APP_TOKEN")).start()
